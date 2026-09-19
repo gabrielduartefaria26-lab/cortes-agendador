@@ -3,7 +3,7 @@
 Le agenda.json, publica o que venceu e ainda nao foi publicado, e registra
 o resultado em estado.json. Roda a cada 15 minutos pelo GitHub Actions.
 """
-import json, os, sys, time, urllib.parse, urllib.request
+import json, os, sys, time, urllib.error, urllib.parse, urllib.request
 from datetime import datetime, timezone
 
 API = "https://graph.facebook.com/v21.0"
@@ -23,8 +23,14 @@ def chamar(caminho, dados=None):
         corpo = urllib.parse.urlencode(dados).encode()
     else:
         url += f"?access_token={TOKEN}"
-    with urllib.request.urlopen(urllib.request.Request(url, data=corpo), timeout=90) as r:
-        return json.load(r)
+    try:
+        with urllib.request.urlopen(urllib.request.Request(url, data=corpo), timeout=90) as r:
+            return json.load(r)
+    except urllib.error.HTTPError as erro:
+        # Sem o corpo da resposta, um 400 da Meta nao diz nada. O token nunca
+        # aparece nele, mas a limpeza abaixo garante que nao vaze pelo log.
+        detalhe = erro.read().decode("utf-8", "replace").replace(TOKEN, "***")
+        raise RuntimeError(f"{erro.code} em {caminho.split('/')[-1]}: {detalhe}") from None
 
 
 def publicar(item):
