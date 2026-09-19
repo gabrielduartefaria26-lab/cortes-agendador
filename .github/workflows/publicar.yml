@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "*/15 * * * *"
   workflow_dispatch:
+    inputs:
+      ensaio:
+        description: "Ensaio: monta o container e nao publica"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -23,6 +28,7 @@ jobs:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           VIDEOS_BASE_URL: ${{ secrets.VIDEOS_BASE_URL }}
+          ENSAIO: ${{ inputs.ensaio && '1' || '0' }}
         run: python3 publicar.py
 
       - name: guardar o estado

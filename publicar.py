@@ -10,6 +10,9 @@ API = "https://graph.facebook.com/v21.0"
 TOKEN = os.environ["IG_TOKEN"]
 IG_ID = os.environ["IG_USER_ID"]
 BASE_URL = os.environ["VIDEOS_BASE_URL"].rstrip("/")
+# Ensaio: monta o container na Meta e para antes de publicar. Valida token,
+# permissoes e download do video sem postar nada no perfil.
+ENSAIO = os.environ.get("ENSAIO") == "1"
 
 
 def chamar(caminho, dados=None):
@@ -47,6 +50,9 @@ def publicar(item):
     else:
         raise RuntimeError("processamento passou de 10 minutos")
 
+    if ENSAIO:
+        print("  ensaio: container pronto e aceito, nao vou publicar")
+        return None
     return chamar(f"{IG_ID}/media_publish", {"creation_id": container})["id"]
 
 
@@ -55,9 +61,10 @@ def main():
     estado = json.load(open("estado.json")) if os.path.exists("estado.json") else {}
     agora = datetime.now(timezone.utc)
 
+    pendente = lambda i: estado.get(i["id"], {}).get("status") != "publicado"
     vencidos = [i for i in agenda
-                if datetime.fromisoformat(i["quando"]) <= agora
-                and estado.get(i["id"], {}).get("status") != "publicado"]
+                if (ENSAIO or datetime.fromisoformat(i["quando"]) <= agora)
+                and pendente(i)]
     if not vencidos:
         print("nada a publicar")
         return 0
@@ -69,6 +76,9 @@ def main():
     print(f"publicando {item['id']} (agendado para {item['quando']})")
     try:
         media_id = publicar(item)
+        if ENSAIO:
+            print("  ensaio concluido, estado nao foi alterado")
+            return 0
         estado[item["id"]] = {"status": "publicado", "media_id": media_id,
                               "em": agora.isoformat(timespec="seconds")}
         print(f"  ok, media {media_id}")
