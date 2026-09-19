@@ -1,8 +1,1 @@
-{
-  "01-47-por-cento-sem-resposta": {
-    "status": "erro",
-    "erro": "400 em 18587608813070723?fields=status_code,status: {\"error\":{\"message\":\"An access token is required to request this resource.\",\"code\":104,\"type\":\"OAuthException\",\"fbtrace_id\":\"Aw2vFUc3T6bg5h6JbZVrvcN\"}}",
-    "tentativas": 2,
-    "em": "2026-09-19T05:23:35+00:00"
-  }
-}
+{}
