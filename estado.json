@@ -1,1 +1,8 @@
-{}
+{
+  "01-47-por-cento-sem-resposta": {
+    "status": "erro",
+    "erro": "HTTP Error 400: Bad Request",
+    "tentativas": 1,
+    "em": "2026-09-19T05:21:37+00:00"
+  }
+}
