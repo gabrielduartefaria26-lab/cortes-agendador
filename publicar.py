@@ -22,7 +22,7 @@ def chamar(caminho, dados=None):
         dados = {**dados, "access_token": TOKEN}
         corpo = urllib.parse.urlencode(dados).encode()
     else:
-        url += f"?access_token={TOKEN}"
+        url += f"{'&' if '?' in url else '?'}access_token={TOKEN}"
     try:
         with urllib.request.urlopen(urllib.request.Request(url, data=corpo), timeout=90) as r:
             return json.load(r)
