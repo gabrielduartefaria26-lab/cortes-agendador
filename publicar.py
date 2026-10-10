@@ -34,14 +34,14 @@ def chamar(caminho, dados=None):
 
 
 def publicar(item):
-    video_url = f"{BASE_URL}/{urllib.parse.quote(item['arquivo'])}"
-    print(f"  container: {video_url}")
-    container = chamar(f"{IG_ID}/media", {
-        "media_type": "REELS",
-        "video_url": video_url,
-        "caption": item["legenda"],
-        "share_to_feed": "true",
-    })["id"]
+    url = f"{BASE_URL}/{urllib.parse.quote(item['arquivo'])}"
+    print(f"  container: {url}")
+    # .jpg vira post de imagem (a API so aceita JPEG); o resto e Reel
+    if item["arquivo"].lower().endswith((".jpg", ".jpeg")):
+        midia = {"image_url": url}
+    else:
+        midia = {"media_type": "REELS", "video_url": url, "share_to_feed": "true"}
+    container = chamar(f"{IG_ID}/media", {**midia, "caption": item["legenda"]})["id"]
 
     # o Instagram baixa e transcodifica antes de aceitar a publicacao.
     # Reels de ate 90s costumam ficar prontos em 1 a 3 minutos.

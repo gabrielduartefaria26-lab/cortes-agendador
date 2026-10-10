@@ -1,43 +1,76 @@
 name: publicar cortes
 
+# O cron do GitHub Actions e "melhor esforco" e ja atrasou horas no agendador da Oasis.
+# Por isso fica UM job vivo de plantao: acorda de 2 em 2 minutos por ate 5h30 e publica
+# o que venceu. O cron so (re)abre o plantao; o cancel-in-progress troca o velho pelo novo.
+# Mesma correcao do oasis-agendador (23 e 27/09/2026), copiada para ca em 10/10/2026.
+
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
     inputs:
       ensaio:
         description: "Ensaio: monta o container e nao publica"
         type: boolean
         default: false
+      plantao:
+        description: "Ficar de plantao (desmarque para uma passada so)"
+        type: boolean
+        default: true
 
 permissions:
   contents: write
+  actions: write   # o plantao abre o proprio substituto
 
 concurrency:
   group: publicar
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   publicar:
     runs-on: ubuntu-latest
+    timeout-minutes: 340
     steps:
       - uses: actions/checkout@v4
 
-      - name: publicar o que venceu
+      - name: plantao de publicacao
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           VIDEOS_BASE_URL: ${{ secrets.VIDEOS_BASE_URL }}
+          GH_TOKEN: ${{ github.token }}
           ENSAIO: ${{ inputs.ensaio && '1' || '0' }}
-        run: python3 publicar.py
-
-      - name: guardar o estado
-        if: always()
+          # so no disparo manual: no cron os inputs vem vazios e vazio == false e verdadeiro
+          UMA_VEZ: ${{ github.event_name == 'workflow_dispatch' && (inputs.ensaio || !inputs.plantao) && '1' || '0' }}
         run: |
-          if [ -n "$(git status --porcelain estado.json)" ]; then
-            git config user.name "agendador"
-            git config user.email "agendador@users.noreply.github.com"
-            git add estado.json
-            git commit -m "estado: $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+          git config user.name "agendador"
+          git config user.email "agendador@users.noreply.github.com"
+
+          publicar_e_guardar() {
+            python3 publicar.py
+            local saida=$?
+            if [ -n "$(git status --porcelain estado.json)" ]; then
+              git add estado.json
+              git commit -q -m "estado: $(date -u +%Y-%m-%dT%H:%MZ)"
+              git pull -q --rebase origin main || true
+              git push -q || true
+            fi
+            return $saida
+          }
+
+          if [ "$UMA_VEZ" = "1" ]; then
+            publicar_e_guardar
+            exit $?
           fi
+
+          # 165 voltas de 2 minutos = 5h30, dentro do teto de 6h do runner
+          for volta in $(seq 1 165); do
+            git pull -q --rebase origin main || true
+            publicar_e_guardar || echo "falhou nesta volta, tento de novo em 2 min"
+            if [ "$volta" = "150" ]; then
+              gh workflow run publicar.yml --ref main -f plantao=true && echo "substituto aberto" || echo "nao consegui abrir o substituto, fica o cron"
+            fi
+            sleep 120
+          done
+          echo "plantao encerrado, o proximo cron abre outro"
