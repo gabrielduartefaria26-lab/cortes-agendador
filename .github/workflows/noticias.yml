@@ -4,7 +4,7 @@ name: pautas quentes
 # Grava quentes.json; o quadro do @gabrieldfaria_ lê daqui.
 on:
   schedule:
-    - cron: "0 10,18 * * *"
+    - cron: "23 10,18 * * *"   # 07:23 e 15:23 em Brasília; fora da hora cheia, que o GitHub costuma pular
   workflow_dispatch:
 
 permissions:

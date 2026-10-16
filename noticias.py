@@ -6,7 +6,7 @@ venda como moral. A escolha de virar post é do Gabriel, no quadro.
 
 Novidade = link que não estava em vistos.json. Sai da lista depois de 7 dias.
 """
-import json, os, urllib.parse, urllib.request, xml.etree.ElementTree as ET
+import json, os, re, urllib.parse, urllib.request, xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh) Chrome/124"}
@@ -22,6 +22,12 @@ BUSCAS = [   # (tema, busca, região)
     ("AI sales (EUA)", '"AI SDR" OR "AI sales agent" OR "sales AI"', US),
 ]
 VISTOS, QUENTES = "vistos.json", "quentes.json"
+# O Google Notícias ignora as aspas e devolve anime, TV local e carro vendido. Só fica o que
+# fala de venda no TÍTULO, e sai o ruído que já apareceu (ambulante, polícia, cripto, release).
+RELEVANTE = re.compile(r"vendas|vendedor|vender|comercia(l|is)|prospec|\bsdr\b|closer|funil|\bcrm\b|faturamento"
+                       r"|\bsales\b|salesforce|quota|pipeline", re.I)
+RUIDO = re.compile(r"ambulante|pol[ií]ci|pres[oa]s?\b|pris[aã]o|token|cripto|bitcoin|medicament|farmac"
+                   r"|\b(adds|promotes|appoints|names|hires|joins|expands|welcomes)\b", re.I)
 
 
 def itens():
@@ -34,7 +40,7 @@ def itens():
         for it in list(raiz.iter("item"))[:15]:
             titulo, link = (it.findtext("title") or "").strip(), (it.findtext("link") or "").strip()
             fonte = (it.findtext("source") or "").strip()
-            if titulo and link:
+            if titulo and link and RELEVANTE.search(titulo) and not RUIDO.search(titulo):
                 yield tema, fonte, titulo, link
 
 
