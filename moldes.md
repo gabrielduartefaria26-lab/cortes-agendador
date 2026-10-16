@@ -85,7 +85,7 @@ sem número; espanto ("surreal", "isso muda tudo", "ninguém te conta").
 3. Não serve ao dono com 3 ou mais vendedores, nem como espelho do problema do time dele.
 4. A solução é motivação (é o treino de um dia que ele combate).
 5. Ataca pessoa ou empresa nomeada, ou culpa o vendedor.
-6. Política, religião, futebol de clube, tragédia. Post político do outliers.csv nunca vira molde.
+6. Política, religião institucional, futebol de clube, tragédia. Post político do outliers.csv nunca vira molde. (Espiritualidade pessoal pode aparecer de leve, ver "Linha de exposição".)
 7. Repete assunto publicado ou na fila (agenda.json, "Já publicado", "Ideias dele") ou das ideias dos últimos 7 dias.
 8. Mostra ou sugere que ele modela, copia ou garimpa outros criadores.
 
@@ -122,10 +122,12 @@ Grupo `gabriel` (escolhidos por ele, régua 2x) vem primeiro; `kone` depois; `br
 **Mostra:** a trajetória esportiva; a origem (Espanha, escola de imigrantes, trabalho aos 14, as
 empresas do pai que quebraram por falta de gestão); ser pai, como contexto de disciplina e
 legado; o bastidor da KONE, com aval do João; os números agregados da Dominium; erros cometidos e
-corrigidos; opinião firme sobre o mercado de vendas.
+corrigidos; opinião firme sobre o mercado de vendas; a rotina de treino (kickboxing, corrida e musculação) e o estudo
+(filosofia e estruturação de empresa); a espiritualidade dele, de leve e como contexto, nunca como tema do vídeo
+(decisão dele em 16/10/2026: "aparece mas não de forma exagerada").
 **Não mostra:** nome e rosto da filha; detalhes financeiros da família; sobre a família, nada além
 do que está na versão de 30 segundos do posicionamento; a saída do esporte além do fato de que
-ele parou em 2020; política, religião e futebol de clube; concorrente nomeado.
+ele parou em 2020; política, religião institucional e pregação, e futebol de clube; concorrente nomeado.
 
 ## O que ele tem rodando (regra do inventário)
 
