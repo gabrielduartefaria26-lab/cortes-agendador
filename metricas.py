@@ -77,6 +77,14 @@ def insights(media_id, produto):
     return achou
 
 
+def formato_por_midia(p):
+    if (p.get("media_type") or "").upper() == "CAROUSEL_ALBUM":
+        return "carrossel"
+    if (p.get("media_product_type") or "").upper() == "REELS" or (p.get("media_type") or "").upper() == "VIDEO":
+        return "reel"
+    return "foto" if (p.get("media_type") or "").upper() == "IMAGE" else "manual"
+
+
 def catalogo():
     """O que se sabe de cada post que saiu pelo agendador, indexado pelo media_id."""
     try:
@@ -113,7 +121,10 @@ def main():
         if ins is None:
             sem_permissao = True
             ins = {}
-        c = cat.get(p["id"], {"formato": "manual", "gancho": "", "fonte": "app", "cta": "", "versao": ""})
+        # Post do app sem classificação ainda: o tipo de mídia já diz reel, carrossel ou foto, e o
+        # começo da legenda fica no gancho para a Pauta do dia afinar o formato em classificacao.json.
+        c = cat.get(p["id"], {"formato": formato_por_midia(p), "gancho": (p.get("caption") or "").strip().split("\n")[0][:140],
+                              "fonte": "app", "cta": "", "versao": ""})
         alcance = ins.get("reach") or 0
         salvos = ins.get("saved") or 0
         linhas.append({
