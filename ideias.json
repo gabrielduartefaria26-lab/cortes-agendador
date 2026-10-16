@@ -1,0 +1,191 @@
+[
+  {
+    "id": "2026-10-16-1",
+    "data": "2026-10-16",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "Chefe que só cobra, time que não rende",
+    "moral": "Time se forma com treino diário, não com cobrança",
+    "fala_com": "dono",
+    "nota_regua": 49,
+    "aberturas": [
+      "Cobrar sem treinar é torcida gritando pra time que nunca treinou junto.",
+      "Pensa comigo: se o seu time só ouve cobrança, quando foi a última vez que alguém treinou ele?",
+      "Vendedor não nasce pronto! Ninguém nasce lutando. Eu treinei 7 anos até pisar no tatame de um Mundial."
+    ],
+    "tela_primeiro_quadro": "Cobrar sem treinar é torcida gritando pra time que nunca treinou junto",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Cobrar sem treinar é torcida gritando pra time que nunca treinou junto",
+        "topicos": ["Cobrar sem treinar é torcida gritando pra time que nunca treinou junto."]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Grupo do WhatsApp às 23h cobrando meta",
+        "topicos": [
+          "Pensa comigo: o dono manda mensagem no grupo às 23h cobrando resultado.",
+          "Só que ele nunca sentou pra treinar o time antes disso."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 30 s",
+        "tela": "7 anos até o Mundial de Budapeste",
+        "topicos": [
+          "Eu treinei 7 anos pra pisar no tatame de um Mundial.",
+          "Ninguém gritava comigo parado. Me mandavam treinar TODO DIA."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "30 a 40 s",
+        "tela": "Treino TODO DIA, não cobrança",
+        "topicos": [
+          "Então time que bate meta tem treino todo dia dentro de um sistema.",
+          "Cobrança sem treino só cansa o seu time e a sua meta continua a mesma."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "sem molde externo, tese própria a partir do mapa de conflitos do tese-conteudo.md"
+    },
+    "fonte": {
+      "nome": "moldes.md - Regras de fato (trajetória: 7 anos até o Mundial de Budapeste 2018)",
+      "link": ""
+    },
+    "cta": "seguir"
+  },
+  {
+    "id": "2026-10-16-2",
+    "data": "2026-10-16",
+    "vaga": "quente",
+    "pilar": "Bastidor da KONE",
+    "formato": "bastidores",
+    "tema": "Vendedor jogado pra vender um produto que nunca viu",
+    "moral": "Treino diário prepara o time pra vender até o que ele não domina; não é dom, é sistema",
+    "fala_com": "dono",
+    "nota_regua": 50,
+    "aberturas": [
+      "Desafiei um vendedor novo do time a vender um produto que ele nunca tinha visto na vida.",
+      "Coloquei um vendedor que treina com a gente há duas semanas pra vender uma coisa que ele nunca viu.",
+      "Será que dá pra vender o que você nunca viu na vida? Eu testei com o meu time."
+    ],
+    "tela_primeiro_quadro": "Desafiei um vendedor novo do time a vender algo que ele nunca tinha visto",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Desafiei um vendedor novo do time a vender algo que ele nunca tinha visto",
+        "topicos": ["Desafiei um vendedor novo do time a vender um produto que ele nunca tinha visto na vida."]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Câmera ligada, zero preparo",
+        "topicos": [
+          "Entreguei o produto na mão dele, liguei a câmera e falei: vende.",
+          "E aí deu pra ver se o treino que a gente faz aqui pega ou não."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 35 s",
+        "tela": "O treino apareceu, não o dom",
+        "topicos": [
+          "Ele não sabia nada do produto, mas sabia conduzir a conversa.",
+          "Porque aqui a gente treina condução e objeção todo dia, não discurso de venda pronto."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "35 a 45 s",
+        "tela": "Treino é sistema, não dom",
+        "topicos": [
+          "Então o vendedor que vende bem não é o que nasceu sabendo.",
+          "É o que treinou todo dia dentro de um sistema que ensina a conduzir qualquer venda."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/DeMbtvsgvQp/",
+      "perfil": "ohenriquecedor",
+      "vezes": "86.1",
+      "molde": "trecho de treinamento ao vivo: desafiar alguém do time a vender o que não conhece, câmera na mão"
+    },
+    "fonte": {
+      "nome": "moldes.md - O que ele tem rodando (KONE, time em formação)",
+      "link": ""
+    },
+    "cta": "comentar uma palavra"
+  },
+  {
+    "id": "2026-10-16-3",
+    "data": "2026-10-16",
+    "vaga": "vida",
+    "pilar": "Vida e identidade",
+    "formato": "lo-fi",
+    "tema": "Origem difícil, ninguém acreditava",
+    "moral": "Vendedor se forma como atleta se forma: treino diário, não berço nem dom",
+    "fala_com": "dono",
+    "nota_regua": 45,
+    "aberturas": [
+      "Eu fui empacotador de supermercado aos 14 anos.",
+      "Meu pai teve empresas. Todas quebraram por falta de gestão.",
+      "Ninguém na minha casa tinha um modelo de como construir algo que durasse. Eu tive que treinar o meu."
+    ],
+    "tela_primeiro_quadro": "Empacotador de supermercado aos 14 anos",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Empacotador de supermercado aos 14 anos",
+        "topicos": ["Eu fui empacotador de supermercado aos 14 anos."]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 18 s",
+        "tela": "As empresas do meu pai quebraram",
+        "topicos": [
+          "Meu pai teve empresas. Todas quebraram por falta de gestão.",
+          "Só que em casa ninguém tinha um modelo de como construir algo que durasse."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "18 a 35 s",
+        "tela": "Taekwondo aos 9, com bolsa",
+        "topicos": [
+          "O que me tirou desse lugar não foi talento.",
+          "Foi treino todo dia desde os 9 anos, com bolsa no taekwondo, até o tatame de um Mundial."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "35 a 45 s",
+        "tela": "Treino todo dia, não berço",
+        "topicos": [
+          "Então vendedor se forma como atleta se forma.",
+          "Não é o berço nem o dom. É treino todo dia dentro de um sistema."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "sem molde externo, narrativa de origem (vida e identidade)"
+    },
+    "fonte": {
+      "nome": "moldes.md - Regras de fato (empacotador aos 14; Taekwondo aos 9, com bolsa) e Linha de exposição (empresas do pai que quebraram por falta de gestão)",
+      "link": ""
+    },
+    "cta": "seguir"
+  }
+]
