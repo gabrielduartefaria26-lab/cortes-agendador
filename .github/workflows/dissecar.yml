@@ -1,0 +1,26 @@
+name: dissecar referencias
+
+on:
+  workflow_dispatch:
+    inputs:
+      alvos:
+        description: "Uma linha por Reel: usuario permalink, ou só o permalink (procura nos perfis do grupo gabriel)"
+        type: string
+        required: true
+
+jobs:
+  dissecar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: baixar os videos
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          ALVOS: ${{ inputs.alvos }}
+        run: python3 dissecar.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: referencias
+          path: out/
+          retention-days: 3
