@@ -13,7 +13,7 @@ UA = {"User-Agent": "Mozilla/5.0 (Macintosh) Chrome/124"}
 BR = "&hl=pt-BR&gl=BR&ceid=BR:pt-419"
 US = "&hl=en-US&gl=US&ceid=US:en"
 BUSCAS = [   # (tema, busca, região)
-    ("time de vendas", '"time de vendas" OR "equipe comercial" OR "vendedores"', BR),
+    ("time de vendas", '"time de vendas" OR "equipe comercial" OR "gestor comercial"', BR),
     ("meta e processo", '"meta de vendas" OR "metas comerciais" OR "processo comercial" OR "funil de vendas"', BR),
     ("empresas e varejo", 'varejo vendas faturamento empresa estratégia', BR),
     ("demissão e contratação", 'demite vendedores OR contrata vendedores OR "força de vendas"', BR),
