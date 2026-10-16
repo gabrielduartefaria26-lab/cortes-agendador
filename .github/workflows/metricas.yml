@@ -2,7 +2,7 @@ name: metricas
 
 on:
   schedule:
-    - cron: "0 11 * * *"   # 08:00 em Brasilia
+    - cron: "13 11 * * *"   # 08:13 em Brasilia; fora da hora cheia, que o GitHub costuma pular
   workflow_dispatch:
 
 permissions:
