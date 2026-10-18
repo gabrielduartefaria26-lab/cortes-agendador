@@ -388,5 +388,200 @@
       "link": ""
     },
     "cta": "seguir"
+  },
+  {
+    "id": "2026-10-18-1",
+    "data": "2026-10-18",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "Pedir demissão, ser demitido, rotatividade",
+    "moral": "Contratar e treinar é processo, não sorte",
+    "fala_com": "dono",
+    "nota_regua": 56,
+    "aberturas": [
+      "Você contratou e perdeu três vendedores esse ano, e começa o processo do zero toda vez.",
+      "Pensa comigo: seu vendedor novo demorou três meses só pra aprender o que o time já sabe fazer.",
+      "Rotatividade não cansa quem tem sistema. Cansa quem recomeça do zero toda vez que alguém sai."
+    ],
+    "tela_primeiro_quadro": "3 vendedores contratados e perdidos este ano",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "3 vendedores contratados e perdidos este ano",
+        "topicos": [
+          "Você contratou e perdeu três vendedores esse ano, e começa o processo do zero toda vez."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 18 s",
+        "tela": "Procurar, entrevistar, esperar pegar o ritmo. De novo.",
+        "topicos": [
+          "Pensa comigo: toda vez que alguém sai, você recomeça a procurar, entrevistar e esperar o novo pegar ritmo.",
+          "Só que isso não é vendedor ruim. É falta de um processo que treina rápido quem entra."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "18 a 32 s",
+        "tela": "Playbook de SDR, Social Seller e Closer",
+        "topicos": [
+          "Na KONE a gente monta o time com um playbook que ensina SDR, social seller e vendedor do nosso jeito de treinar.",
+          "Então quando alguém sai, o próximo entra e já sabe o caminho, porque o treino é o sistema, não a pessoa."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "32 a 42 s",
+        "tela": "Contratar bom vendedor não é sorte",
+        "topicos": [
+          "Contratar bom vendedor não é sorte. É ter um processo que forma qualquer um rápido.",
+          "Rotatividade não cansa quem tem sistema. Cansa quem recomeça do zero toda vez que alguém sai."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "sem molde externo, tese própria a partir do mapa de conflitos do tese-conteudo.md"
+    },
+    "fonte": {
+      "nome": "moldes.md - O que ele tem rodando (Playbook Comercial v2.2 e playbooks de SDR, Social Seller e Closer)",
+      "link": ""
+    },
+    "cta": "seguir"
+  },
+  {
+    "id": "2026-10-18-2",
+    "data": "2026-10-18",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "narrado",
+    "tema": "Ficar duro no fim do mês, preço que ninguém paga",
+    "moral": "Qualificar e vender valor, não desconto",
+    "fala_com": "dono",
+    "nota_regua": 59,
+    "aberturas": [
+      "Vendedor fraco vende desconto. Vendedor treinado vende resultado.",
+      "Quem lê o comportamento do cliente vende mais. Quem só decora discurso, desconta.",
+      "Pensa comigo: todo desconto que seu time dá no fim do mês é um pedaço do seu lucro que foi embora."
+    ],
+    "tela_primeiro_quadro": "Vendedor fraco vende desconto. Vendedor treinado vende resultado.",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Vendedor fraco vende desconto. Vendedor treinado vende resultado.",
+        "topicos": [
+          "Vendedor fraco vende desconto. Vendedor treinado vende resultado."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 18 s",
+        "tela": "Desconto no fim do mês é lucro saindo pela porta",
+        "topicos": [
+          "Pensa comigo: toda vez que seu time dá desconto no fim do mês, ele não tá fechando venda. Tá comprando a meta com o seu lucro.",
+          "E aí o cliente aprende rapidinho que só compra quando você baixa o preço."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "18 a 32 s",
+        "tela": "DISC aplicado a vendas",
+        "topicos": [
+          "Na KONE a gente treina o time pra ler o perfil do cliente antes de falar de preço. Isso é DISC aplicado a vendas, não feeling.",
+          "Quando o vendedor entende o que aquele cliente valoriza, ele vende valor. Não precisa descontar."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "32 a 42 s",
+        "tela": "Treino, não desconto",
+        "topicos": [
+          "Então vender valor é treino, não sorte de vendedor bom.",
+          "Comenta aqui: seu time qualifica o cliente ou só dá desconto?"
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/DehQDYVptDZ/",
+      "perfil": "ecauduro",
+      "vezes": "74.1",
+      "molde": "frase-tese seca sobre comportamento, falada direto pra câmera, sem narrativa, fechando com pergunta de engajamento"
+    },
+    "fonte": {
+      "nome": "moldes.md - O que ele tem rodando (O Código do Cliente: DISC aplicado a vendas, método O.I.T.A.V.) e outliers.csv (ecauduro, 74.1x)",
+      "link": ""
+    },
+    "cta": "comentar uma palavra"
+  },
+  {
+    "id": "2026-10-18-3",
+    "data": "2026-10-18",
+    "vaga": "vida",
+    "pilar": "Vida e identidade",
+    "formato": "lo-fi",
+    "tema": "Origem difícil, ninguém acreditava (ser reserva, não titular)",
+    "moral": "Vendedor se forma como atleta se forma: treino diário, não berço nem dom",
+    "fala_com": "dono",
+    "nota_regua": 50,
+    "aberturas": [
+      "Em 2017 eu era reserva da Seleção. Ninguém apostava que eu ia jogar o Mundial.",
+      "Fiquei no banco da Seleção em 2017. Um ano depois eu era titular no Mundial de Budapeste.",
+      "Ninguém me chamou de talento da hora pra noite. Eu treinei igual, mesmo sendo reserva."
+    ],
+    "tela_primeiro_quadro": "2017: reserva da Seleção. 2018: titular no Mundial de Budapeste",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "2017: reserva da Seleção. 2018: titular no Mundial de Budapeste",
+        "topicos": [
+          "Em 2017 eu era reserva da Seleção. Ninguém apostava que eu ia jogar o Mundial."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 18 s",
+        "tela": "Treinando igual, mesmo no banco",
+        "topicos": [
+          "Pensa comigo: todo mundo olhava pro time titular e me via como o que fica esperando no banco.",
+          "Só que eu não parei de treinar igual. Treinei todo dia como se já fosse titular."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "18 a 32 s",
+        "tela": "5º lugar no Mundial de Budapeste, 2018",
+        "topicos": [
+          "Em 2018 eu virei titular e disputei o Mundial de Budapeste. Terminei em 5º lugar.",
+          "Ninguém me chamou de talento da hora pra noite. Me chamaram porque eu treinei igual, todo dia, mesmo no banco."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "32 a 45 s",
+        "tela": "Reserva que treina, vira titular",
+        "topicos": [
+          "E aí eu vejo dono tratando o vendedor novo do time como reserva pra sempre, sem treinar ele igual ao titular.",
+          "Então o vendedor que você treina hoje pode ser o titular de amanhã. Reserva que não treina nunca vira titular."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "sem molde externo, narrativa pessoal (reserva que vira titular)"
+    },
+    "fonte": {
+      "nome": "moldes.md - Regras de fato (reserva da Seleção em 2017; titular no Mundial de Budapeste em 2018, 5º lugar)",
+      "link": ""
+    },
+    "cta": "seguir"
   }
 ]
