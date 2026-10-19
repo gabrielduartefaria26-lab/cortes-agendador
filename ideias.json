@@ -583,5 +583,198 @@
       "link": ""
     },
     "cta": "seguir"
+  },
+  {
+    "id": "2026-10-19-1",
+    "data": "2026-10-19",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "Animar e desanimar: o time sai inspirado da palestra de sexta e volta pro mesmo jeito na segunda",
+    "moral": "Disciplina vence motivação; time que bate meta treina TODO DIA, não um dia só",
+    "fala_com": "dono",
+    "nota_regua": 54,
+    "aberturas": [
+      "Seu time saiu animado da palestra de sexta e, na segunda, voltou pro mesmo jeito de sempre.",
+      "Quantas palestras de vendas seu time já fez que não mudaram nada na segunda-feira?",
+      "Motivação de palestra dura até a segunda-feira. Depois volta tudo igual."
+    ],
+    "tela_primeiro_quadro": "A palestra anima. O treino muda.",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "A palestra anima. O treino muda.",
+        "topicos": [
+          "Seu time saiu animado da palestra de sexta e, na segunda, voltou pro mesmo jeito de sempre."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Motivação dura uma sexta.",
+        "topicos": [
+          "Pensa comigo: você já pagou palestra, imersão, playbook bonito em PDF.",
+          "Todo mundo sai inspirado. Só que motivação é igual academia de janeiro: enche na primeira semana e esvazia na segunda."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 30 s",
+        "tela": "Treino todo dia. Não um dia.",
+        "topicos": [
+          "Só que time que bate meta não vive de evento. Vive de treino TODO DIA, dentro de um sistema que não depende do humor de ninguém.",
+          "Palestra de vendas é vídeo motivacional de academia: te anima na sexta e some na segunda."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "30 a 40 s",
+        "tela": "Isso é o que eu monto na KONE.",
+        "topicos": [
+          "Então se o seu time só rende depois de um hype, você não tem rotina de treino. Você tem um evento.",
+          "Isso é o que eu monto na KONE: rotina de treino que não depende de palestra nem de mim."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "Frase de ataque pronta do moldes.md (treino de um dia vs. academia) com a tabela de conflitos do tese-conteudo.md"
+    },
+    "fonte": {
+      "nome": "moldes.md (seção Voz, frase de ataque) e tese-conteudo.md (tabela de conflitos)",
+      "link": ""
+    },
+    "cta": "Comenta TREINO se seu time já viveu isso"
+  },
+  {
+    "id": "2026-10-19-2",
+    "data": "2026-10-19",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "Vendedor que não lê o cliente antes de falar, usa o mesmo discurso pra todo mundo e perde venda",
+    "moral": "Não é falta de talento do vendedor, é falta de treino: quem lê o cliente antes de falar preço vende mais",
+    "fala_com": "dono",
+    "nota_regua": 54,
+    "aberturas": [
+      "Vendedor que não lê o cliente, fala demais.",
+      "Seu vendedor usa o mesmo discurso pra todo cliente que entra. E isso custa venda.",
+      "Não é todo cliente que quer ouvir a mesma coisa. Só que seu time fala igual com todo mundo."
+    ],
+    "tela_primeiro_quadro": "Ele não lê. Ele empurra.",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Ele não lê. Ele empurra.",
+        "topicos": [
+          "Vendedor que não lê o cliente, fala demais."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Mesmo discurso pra todo mundo.",
+        "topicos": [
+          "Pensa comigo: o cliente que quer pensar recebe a mesma fala apressada do cliente que já decidiu.",
+          "Um quer dado, o outro quer confiança. E sai o mesmo discurso pros dois porque ninguém treinou o time pra notar a diferença."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 25 s",
+        "tela": "Ler vem antes de falar.",
+        "topicos": [
+          "Só que vender bem começa antes da boca abrir: é ler o jeito da pessoa na sua frente.",
+          "Não é falta de talento do vendedor. É treino. Eu ensino o time a ler antes de falar, com o Código do Cliente."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 35 s",
+        "tela": "Quem lê, vende. Quem empurra, perde.",
+        "topicos": [
+          "Quem lê o cliente antes de falar preço vende mais. Quem só empurra discurso, perde a venda e ninguém sabe por quê."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/DehQDYVptDZ/",
+      "perfil": "ecauduro",
+      "vezes": "74.1",
+      "molde": "Frase-tese seca e curta (esqueleto do post 'Quem lê comportamento vende mais'), trocando o assunto para leitura do cliente antes de falar preço"
+    },
+    "fonte": {
+      "nome": "outliers.csv, grupo gabriel, perfil ecauduro",
+      "link": "https://www.instagram.com/reel/DehQDYVptDZ/"
+    },
+    "cta": "Segue @gabrieldfaria_ se seu time ainda empurra discurso igual pra todo cliente"
+  },
+  {
+    "id": "2026-10-19-3",
+    "data": "2026-10-19",
+    "vaga": "vida",
+    "pilar": "Vida e identidade",
+    "formato": "lo-fi",
+    "tema": "O medo de repetir, com a própria filha, a falta de gestão que quebrou as empresas do pai",
+    "moral": "A disciplina que ele cobra do time é a mesma que quer deixar de legado: treino todo dia, não motivação de um dia",
+    "fala_com": "dono",
+    "nota_regua": 48,
+    "aberturas": [
+      "Toda vez que eu cobro treino do time, eu penso na minha filha.",
+      "O medo que eu não conto pro meu time.",
+      "As empresas do meu pai quebraram por falta de gestão. Isso mudou como eu trato o meu time hoje."
+    ],
+    "tela_primeiro_quadro": "O medo que eu não conto.",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "O medo que eu não conto.",
+        "topicos": [
+          "Toda vez que eu cobro treino do time, eu penso na minha filha."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "As empresas do meu pai quebraram por falta de gestão.",
+        "topicos": [
+          "Eu cresci vendo as empresas do meu pai quebrarem por falta de gestão. Não por falta de vontade, por falta de sistema.",
+          "E hoje, quando eu monto rotina de treino pro meu time, não é só meta. É medo de repetir aquilo."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 28 s",
+        "tela": "Legado não é discurso. É rotina.",
+        "topicos": [
+          "Então pensa comigo: a disciplina que eu cobro do vendedor é a mesma que eu quero deixar pra minha filha.",
+          "Não é motivação de um dia. É treino todo dia, dentro de um sistema que fica de pé mesmo sem mim."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "28 a 38 s",
+        "tela": "Treino todo dia é o legado.",
+        "topicos": [
+          "O que eu construo na KONE hoje é o que eu quero que ela veja quando crescer: que disciplina vira sistema, e sistema vira resultado que não depende de sorte."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "moldes.md, Linha de exposição (origem, empresas do pai, ser pai) — segunda versão da ideia de quadro 'O que mudou na minha vida depois que eu virei pai', em formato lo-fi",
+      "link": ""
+    },
+    "cta": "Comenta FILHA se isso te tocou"
   }
 ]
