@@ -18,6 +18,10 @@ on:
         description: "Ensaio: id do item a testar (vazio = primeiro pendente)"
         type: string
         default: ""
+      li_ensaio:
+        description: "Ensaio do LinkedIn: sobe o PDF do item ensaio_id e nao posta"
+        type: boolean
+        default: false
       plantao:
         description: "Ficar de plantao (desmarque para uma passada so)"
         type: boolean
@@ -46,6 +50,9 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           ENSAIO: ${{ inputs.ensaio && '1' || '0' }}
           ENSAIO_ID: ${{ inputs.ensaio_id }}
+          LINKEDIN_TOKEN: ${{ secrets.LINKEDIN_TOKEN }}
+          LI_ENSAIO: ${{ inputs.li_ensaio && '1' || '0' }}
+          LI_ENSAIO_ID: ${{ inputs.ensaio_id }}
           # so no disparo manual: no cron os inputs vem vazios e vazio == false e verdadeiro
           UMA_VEZ: ${{ github.event_name == 'workflow_dispatch' && (inputs.ensaio || !inputs.plantao) && '1' || '0' }}
         run: |
@@ -55,6 +62,8 @@ jobs:
           publicar_e_guardar() {
             python3 publicar.py
             local saida=$?
+            # LinkedIn: so os carrosseis (itens com "pdf"); falha aqui nao derruba o Instagram
+            if [ -n "$LINKEDIN_TOKEN" ]; then python3 linkedin.py || echo "linkedin falhou nesta volta"; fi
             if [ -n "$(git status --porcelain estado.json)" ]; then
               git add estado.json
               git commit -q -m "estado: $(date -u +%Y-%m-%dT%H:%MZ)"
@@ -63,6 +72,11 @@ jobs:
             fi
             return $saida
           }
+
+          if [ "$LI_ENSAIO" = "1" ]; then
+            python3 linkedin.py
+            exit $?
+          fi
 
           if [ "$UMA_VEZ" = "1" ]; then
             publicar_e_guardar
