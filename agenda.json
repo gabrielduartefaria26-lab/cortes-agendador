@@ -120,33 +120,48 @@
     "legenda": "Você rende mais em casa ou no escritório? Seja sincero.\n\n👉🏻 Siga @gabrieldfaria_"
   },
   {
+    "id": "car01-ligacao",
+    "arquivos": [
+      "car01-01.mp4",
+      "car01-02.jpg",
+      "car01-03.jpg",
+      "car01-04.jpg",
+      "car01-05.jpg",
+      "car01-06.mp4",
+      "car01-07.jpg",
+      "car01-08.jpg"
+    ],
+    "quando": "2026-10-23T13:00:00-03:00",
+    "legenda": "Seu vendedor perde o lead nos primeiros 10 segundos da ligação.\n\nÉ o roteiro que eu uso nos treinamentos de time comercial: 4 passos, 3 minutos, e o vendedor sai sabendo orçamento, prazo e concorrente.\n\nTime não bate meta por talento. Bate por treino.\n\nComenta qual desses 4 passos o seu time pula hoje.\nSalva para o treino de amanhã e marca o seu gestor comercial.\n\n#vendas #timecomercial #prevenda #gestaocomercial #vendasconsultivas #treinamentodevendas #processocomercial #empreendedorismo"
+  },
+  {
     "id": "tweet-14",
     "arquivo": "tweet-14.jpg",
-    "quando": "2026-10-23T13:00:00-03:00",
+    "quando": "2026-10-24T13:00:00-03:00",
     "legenda": "Qual foi o pior conselho que você já recebeu?\n\n👉🏻 Siga @gabrieldfaria_"
   },
   {
     "id": "tweet-01",
     "arquivo": "tweet-01.jpg",
-    "quando": "2026-10-24T13:00:00-03:00",
+    "quando": "2026-10-26T13:00:00-03:00",
     "legenda": "Qual regra da casa dos seus pais você não repete com seus filhos?\n\n👉🏻 Siga @gabrieldfaria_"
   },
   {
     "id": "tweet-09",
     "arquivo": "tweet-09.jpg",
-    "quando": "2026-10-25T13:00:00-03:00",
+    "quando": "2026-10-28T13:00:00-03:00",
     "legenda": "Sobre o que você mudou de ideia nos últimos anos?\n\n👉🏻 Siga @gabrieldfaria_"
   },
   {
     "id": "tweet-06",
     "arquivo": "tweet-06.jpg",
-    "quando": "2026-10-26T13:00:00-03:00",
+    "quando": "2026-10-30T13:00:00-03:00",
     "legenda": "Quantos \"não\" você respondeu? Fala a verdade.\n\n👉🏻 Siga @gabrieldfaria_"
   },
   {
     "id": "tweet-16",
     "arquivo": "tweet-16.jpg",
-    "quando": "2026-10-27T13:00:00-03:00",
+    "quando": "2026-11-01T13:00:00-03:00",
     "legenda": "Marca um pai que vai se ver nessa lista.\n\n👉🏻 Siga @gabrieldfaria_"
   }
 ]
