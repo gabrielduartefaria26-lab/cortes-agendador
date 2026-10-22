@@ -13,6 +13,8 @@ BASE_URL = os.environ["VIDEOS_BASE_URL"].rstrip("/")
 # Ensaio: monta o container na Meta e para antes de publicar. Valida token,
 # permissoes e download do video sem postar nada no perfil.
 ENSAIO = os.environ.get("ENSAIO") == "1"
+# no ensaio, ENSAIO_ID escolhe qual item da agenda testar (senao, o primeiro pendente)
+ENSAIO_ID = os.environ.get("ENSAIO_ID", "")
 
 
 def chamar(caminho, dados=None):
@@ -33,28 +35,53 @@ def chamar(caminho, dados=None):
         raise RuntimeError(f"{erro.code} em {caminho.split('/')[-1]}: {detalhe}") from None
 
 
-def publicar(item):
-    url = f"{BASE_URL}/{urllib.parse.quote(item['arquivo'])}"
-    print(f"  container: {url}")
-    # .jpg vira post de imagem (a API so aceita JPEG); o resto e Reel
-    if item["arquivo"].lower().endswith((".jpg", ".jpeg")):
-        midia = {"image_url": url}
-    else:
-        midia = {"media_type": "REELS", "video_url": url, "share_to_feed": "true"}
-    container = chamar(f"{IG_ID}/media", {**midia, "caption": item["legenda"]})["id"]
-
+def esperar(container):
     # o Instagram baixa e transcodifica antes de aceitar a publicacao.
     # Reels de ate 90s costumam ficar prontos em 1 a 3 minutos.
     for tentativa in range(40):
         time.sleep(15)
         st = chamar(f"{container}?fields=status_code,status")
         if st["status_code"] == "FINISHED":
-            break
+            return
         if st["status_code"] == "ERROR":
             raise RuntimeError(f"processamento falhou: {st.get('status')}")
         print(f"  {st['status_code']} ({(tentativa+1)*15}s)")
+    raise RuntimeError("processamento passou de 10 minutos")
+
+
+def url_de(arquivo):
+    return f"{BASE_URL}/{urllib.parse.quote(arquivo)}"
+
+
+def e_imagem(arquivo):
+    return arquivo.lower().endswith((".jpg", ".jpeg"))
+
+
+def publicar(item):
+    if "arquivos" in item:
+        # carrossel: cada cartao vira um container filho (imagem ou video),
+        # depois um container pai CAROUSEL junta os filhos com a legenda
+        filhos = []
+        for arquivo in item["arquivos"]:
+            print(f"  cartao: {url_de(arquivo)}")
+            midia = ({"image_url": url_de(arquivo)} if e_imagem(arquivo)
+                     else {"media_type": "VIDEO", "video_url": url_de(arquivo)})
+            filho = chamar(f"{IG_ID}/media", {**midia, "is_carousel_item": "true"})["id"]
+            if not e_imagem(arquivo):
+                esperar(filho)
+            filhos.append(filho)
+        container = chamar(f"{IG_ID}/media", {"media_type": "CAROUSEL",
+                                              "children": ",".join(filhos),
+                                              "caption": item["legenda"]})["id"]
     else:
-        raise RuntimeError("processamento passou de 10 minutos")
+        print(f"  container: {url_de(item['arquivo'])}")
+        # .jpg vira post de imagem (a API so aceita JPEG); o resto e Reel
+        if e_imagem(item["arquivo"]):
+            midia = {"image_url": url_de(item["arquivo"])}
+        else:
+            midia = {"media_type": "REELS", "video_url": url_de(item["arquivo"]), "share_to_feed": "true"}
+        container = chamar(f"{IG_ID}/media", {**midia, "caption": item["legenda"]})["id"]
+    esperar(container)
 
     if ENSAIO:
         print("  ensaio: container pronto e aceito, nao vou publicar")
@@ -71,6 +98,8 @@ def main():
     vencidos = [i for i in agenda
                 if (ENSAIO or datetime.fromisoformat(i["quando"]) <= agora)
                 and pendente(i)]
+    if ENSAIO and ENSAIO_ID:
+        vencidos = [i for i in agenda if i["id"] == ENSAIO_ID]
     if not vencidos:
         print("nada a publicar")
         return 0

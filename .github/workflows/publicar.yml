@@ -14,6 +14,10 @@ on:
         description: "Ensaio: monta o container e nao publica"
         type: boolean
         default: false
+      ensaio_id:
+        description: "Ensaio: id do item a testar (vazio = primeiro pendente)"
+        type: string
+        default: ""
       plantao:
         description: "Ficar de plantao (desmarque para uma passada so)"
         type: boolean
@@ -41,6 +45,7 @@ jobs:
           VIDEOS_BASE_URL: ${{ secrets.VIDEOS_BASE_URL }}
           GH_TOKEN: ${{ github.token }}
           ENSAIO: ${{ inputs.ensaio && '1' || '0' }}
+          ENSAIO_ID: ${{ inputs.ensaio_id }}
           # so no disparo manual: no cron os inputs vem vazios e vazio == false e verdadeiro
           UMA_VEZ: ${{ github.event_name == 'workflow_dispatch' && (inputs.ensaio || !inputs.plantao) && '1' || '0' }}
         run: |
