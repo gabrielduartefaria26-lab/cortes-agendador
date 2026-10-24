@@ -1366,5 +1366,203 @@
       "link": ""
     },
     "cta": "seguir"
+  },
+  {
+    "id": "2026-10-24-1",
+    "data": "2026-10-24",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "Dono paga treinamento de vendas caro pra quem não bate meta sozinho há anos",
+    "moral": "Só ensina direito quem treina e opera o mesmo sistema todo dia; treino sem operação é teoria",
+    "fala_com": "dono",
+    "nota_regua": 52,
+    "aberturas": [
+      "Empresário, seu treinador de vendas bateu meta esse mês?",
+      "Pensa comigo: tem gente vendendo curso de vendas que não fecha um cliente sozinho há anos.",
+      "Se o seu treinador de vendas não tem time pra treinar hoje, ele tá te vendendo teoria, não sistema."
+    ],
+    "tela_primeiro_quadro": "Seu treinador de vendas bateu meta esse mês?",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Seu treinador de vendas bateu meta esse mês?",
+        "topicos": [
+          "Empresário, seu treinador de vendas bateu meta esse mês?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Quem só ensina, não treina",
+        "topicos": [
+          "Pensa comigo: tem gente vendendo curso de vendas que não fecha um cliente sozinho há anos.",
+          "Ensina técnica, mostra print de resultado de outra pessoa, mas não tem time pra treinar hoje."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 26 s",
+        "tela": "Eu treino o time que eu monto",
+        "topicos": [
+          "Só que aqui é diferente: eu sou sócio operador da KONE. O time que eu treino é o time que eu bato meta com.",
+          "Então quando eu ensino uma objeção, é a objeção que meu vendedor ouviu ontem."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "26 a 33 s",
+        "tela": "Treino sem operação é teoria",
+        "topicos": [
+          "Treino de quem não opera é teoria bonita.",
+          "Time que bate meta treina com quem também treina TODO DIA."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWHBYaTczZl95bmFhYTE4ZlNpaFVycUlUcXljNXJiS0FtMThtSW95alhpQTVkYlpYQkRmN2xLQjVRa09MMFd2NndaS2R4R3hxR2Zwa25wX2U0SUVxcmtXTkRLMDBNV0xHNFdXY1doVXZhTzBKXzhxVk1lTGdRUEhRNFNOZnJHdzJLVVRBal9VLW1zR3dSQnhaMnhJMjRveW82aWZocXczbk1KZ1RYb05zLXpWcVFGSURSZDNERnVhb0g3ZmVfNDFNNDRZNmFqZnVsU0RiZzBpQXlnNlBYeDY2QVNNUlFwS2dCZUQw?oc=5",
+      "perfil": "",
+      "vezes": "",
+      "molde": "sem molde externo; tese própria, inspirada pela notícia sobre treinador de vendas contratado sem ter batido meta sozinho (quentes.json) e pela tabela de conflitos do tese-conteudo.md"
+    },
+    "fonte": {
+      "nome": "moldes.md - Quem fala e para quem (sócio operador da KONE desde outubro de 2026); San Diego Union-Tribune - Expedia hired Mike Davis to train its sales team. But he's not ready to do the job himself.",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWHBYaTczZl95bmFhYTE4ZlNpaFVycUlUcXljNXJiS0FtMThtSW95alhpQTVkYlpYQkRmN2xLQjVRa09MMFd2NndaS2R4R3hxR2Zwa25wX2U0SUVxcmtXTkRLMDBNV0xHNFdXY1doVXZhTzBKXzhxVk1lTGdRUEhRNFNOZnJHdzJLVVRBal9VLW1zR3dSQnhaMnhJMjRveW82aWZocXczbk1KZ1RYb05zLXpWcVFGSURSZDNERnVhb0g3ZmVfNDFNNDRZNmFqZnVsU0RiZzBpQXlnNlBYeDY2QVNNUlFwS2dCZUQw?oc=5"
+    },
+    "cta": "seguir"
+  },
+  {
+    "id": "2026-10-24-2",
+    "data": "2026-10-24",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "dinamismo",
+    "tema": "Vendedor empurra a venda em vez de conduzir, e o cliente desiste mesmo querendo comprar",
+    "moral": "Vendedor treinado conduz a conversa com pergunta; empurrar não é jeito de ser, é treino que falta",
+    "fala_com": "dono",
+    "nota_regua": 48,
+    "aberturas": [
+      "Empresário, pensa comigo: tem vendedor que empurra venda, e tem vendedor que conduz venda.",
+      "5 sinais mostram na hora qual dos dois tá no seu time agora.",
+      "Seu vendedor fala mais do que ouve? Isso já é o primeiro sinal."
+    ],
+    "tela_primeiro_quadro": "Seu vendedor empurra ou conduz a venda?",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Seu vendedor empurra ou conduz a venda?",
+        "topicos": [
+          "Empresário, pensa comigo: tem vendedor que empurra venda, e tem vendedor que conduz venda.",
+          "São 5 sinais que mostram qual dos dois tá no seu time agora."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 18 s",
+        "tela": "1. Fala mais do que ouve. 2. Insiste depois do não. 3. Corre pra fechar sem entender a dor.",
+        "topicos": [
+          "Primeiro sinal: ele fala mais do que ouve, e não deixa o cliente terminar a frase.",
+          "Segundo: quando o cliente diz não, ele insiste com o mesmo argumento, só que mais alto.",
+          "Terceiro: ele corre pra fechar antes de entender o que realmente tá travando a decisão."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "18 a 27 s",
+        "tela": "4. Trata objeção como obstáculo. 5. Não pergunta, só apresenta.",
+        "topicos": [
+          "Quarto sinal: ele trata toda objeção como obstáculo pra empurrar pra frente, não como informação.",
+          "Quinto: ele não faz pergunta, só apresenta o produto do começo ao fim."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "27 a 35 s",
+        "tela": "Vendedor treinado conduz, não empurra",
+        "topicos": [
+          "Isso não é jeito de ser, é treino que falta.",
+          "Vendedor treinado conduz a conversa com pergunta. Quem empurra perde venda que já tava fechada.",
+          "Faltou algum sinal? Comenta aqui."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/Depbw6YtTLC/",
+      "perfil": "joaokissel",
+      "vezes": "11.2",
+      "molde": "lista com pergunta de comentário no final ('Faltou algum?'); mantida a estrutura (lista numerada + pergunta de engajamento), troca só o assunto para sinais de venda empurrada"
+    },
+    "fonte": {
+      "nome": "outliers.csv - grupo kone, perfil joaokissel, 18/10/2026",
+      "link": "https://www.instagram.com/reel/Depbw6YtTLC/"
+    },
+    "cta": "comentar uma palavra"
+  },
+  {
+    "id": "2026-10-24-3",
+    "data": "2026-10-24",
+    "vaga": "vida",
+    "pilar": "Bastidor da KONE",
+    "formato": "bastidores",
+    "tema": "Dono contrata vendedor pelo papo bonito da entrevista, não pelo comportamento sob pressão",
+    "moral": "Contratar bem também é sistema, não feeling de entrevista; time que bate meta começa a ser montado na entrevista",
+    "fala_com": "dono",
+    "nota_regua": 46,
+    "aberturas": [
+      "A entrevista que eu faço pra contratar vendedor não pergunta sobre experiência.",
+      "Pensa comigo: a maioria contrata olhando currículo e confiando no papo da entrevista.",
+      "Dois meses depois de contratar assim, o dono descobre que o cara trava na primeira objeção."
+    ],
+    "tela_primeiro_quadro": "Minha entrevista não pergunta sobre experiência",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Minha entrevista não pergunta sobre experiência",
+        "topicos": [
+          "A entrevista que eu faço pra contratar vendedor não pergunta sobre experiência."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Currículo bonito, papo bonito, contrato errado",
+        "topicos": [
+          "Pensa comigo: a maioria contrata assim. Olha currículo, pergunta quanto já vendeu, confia no papo da entrevista.",
+          "E dois meses depois descobre que o cara trava na primeira objeção de verdade."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 26 s",
+        "tela": "Testa comportamento, não currículo",
+        "topicos": [
+          "Na KONE a gente simula uma objeção de verdade na entrevista, antes de qualquer contrato.",
+          "Quem trava ali, trava na frente do cliente depois. Só que aí já é tarde."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "26 a 33 s",
+        "tela": "Contratar bem é sistema, não feeling",
+        "topicos": [
+          "Contratar certo é tão treino quanto vender.",
+          "Time que bate meta começa a ser montado antes da primeira ligação, na entrevista."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "sem molde externo; bastidor da operação real (KONE: contrata e treina SDR, social seller e vendedor, descrito em moldes.md)"
+    },
+    "fonte": {
+      "nome": "moldes.md - O que ele tem rodando (KONE: sócio operador desde outubro de 2026, montando o time)",
+      "link": ""
+    },
+    "cta": "seguir"
   }
 ]
