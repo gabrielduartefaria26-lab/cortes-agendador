@@ -1,395 +1,5 @@
 [
   {
-    "id": "2026-10-17-1",
-    "data": "2026-10-17",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "palestrinha",
-    "tema": "Depender de uma pessoa só: o melhor vendedor segurando a meta sozinho",
-    "moral": "Sistema que não depende do dono nem do talento",
-    "fala_com": "dono",
-    "nota_regua": 56,
-    "aberturas": [
-      "Pensa comigo: se o seu melhor vendedor sair amanhã, a sua meta vai junto?",
-      "Se o seu melhor vendedor sair amanhã e sua meta cair com ele, você não tem time.",
-      "Time de uma estrela só não é time. É um talento e um problema esperando pra acontecer."
-    ],
-    "tela_primeiro_quadro": "Se ele sair amanhã, sua meta vai junto?",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Se ele sair amanhã, sua meta vai junto?",
-        "topicos": [
-          "Pensa comigo: se o seu melhor vendedor sair amanhã, a sua meta vai junto?"
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "Time de uma estrela só",
-        "topicos": [
-          "Então você não tem um time. Você tem um talento e um problema.",
-          "Isso é o que eu chamo de time de uma estrela só."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 30 s",
-        "tela": "7 anos de treino pela Seleção, não um talento sozinho",
-        "topicos": [
-          "Eu treinei 7 anos pela Seleção. Lá ninguém sobe no pódio carregando o time nas costas sozinho.",
-          "Time que bate meta junto treina junto, todo dia, dentro de um sistema."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "30 a 40 s",
-        "tela": "Sistema que não depende de uma estrela",
-        "topicos": [
-          "Então para de apostar tudo numa pessoa. Monta um sistema que ensina qualquer vendedor a vender.",
-          "Se seu time de vendas depende de uma estrela, você não tem time. Tem risco."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "sem molde externo, tese própria a partir do mapa de conflitos do tese-conteudo.md e da frase de ataque pronta do moldes.md"
-    },
-    "fonte": {
-      "nome": "moldes.md - Voz (frase de ataque pronta: time de uma estrela só) e Regras de fato (7 anos até o Mundial de Budapeste)",
-      "link": ""
-    },
-    "cta": "seguir"
-  },
-  {
-    "id": "2026-10-17-2",
-    "data": "2026-10-17",
-    "vaga": "quente",
-    "pilar": "Bastidor da KONE",
-    "formato": "bastidores",
-    "tema": "Vendedor que trava numa ligação com cliente impaciente",
-    "moral": "Conduzir cliente impaciente é treino, não talento nato",
-    "fala_com": "dono",
-    "nota_regua": 51,
-    "aberturas": [
-      "Gravei o treino real da minha vendedora aprendendo a conduzir uma ligação com cliente impaciente.",
-      "Coloquei a câmera no treino do time no dia que ela aprendeu a não travar com cliente impaciente no telefone.",
-      "Ela travou na ligação com o cliente impaciente. Foi o melhor treino que a gente já gravou."
-    ],
-    "tela_primeiro_quadro": "Gravei o treino real: minha vendedora aprendendo a conduzir uma ligação com cliente impaciente",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Gravei o treino real: minha vendedora aprendendo a conduzir uma ligação com cliente impaciente",
-        "topicos": [
-          "Gravei o treino real da minha vendedora aprendendo a conduzir uma ligação com cliente impaciente."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 18 s",
-        "tela": "Cliente impaciente cortando a ligação",
-        "topicos": [
-          "Pensa comigo: o cliente do outro lado já está irritado, cortando ela no meio da frase.",
-          "Ela trava, porque ninguém tinha treinado esse tipo de ligação com ela ainda."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "18 a 35 s",
-        "tela": "Rodar a ligação até virar automático",
-        "topicos": [
-          "Então sentei com ela e rodamos a ligação de novo e de novo até o jeito de conduzir virar automático.",
-          "Treino TODO DIA é isso: repetir até não travar mais na frente do cliente difícil."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "35 a 45 s",
-        "tela": "Treino repetido, não talento nato",
-        "topicos": [
-          "Conduzir cliente impaciente não é dom, é treino repetido dentro de um sistema.",
-          "Time que treina ligação difícil todo dia não trava quando o cliente aperta."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "https://www.instagram.com/reel/DehUt5DlNSy/",
-      "perfil": "ohenriquecedor",
-      "vezes": "7.7",
-      "molde": "trecho de treinamento ao vivo: vendedora do time conduzindo ligação com cliente impaciente, câmera real"
-    },
-    "fonte": {
-      "nome": "moldes.md - O que ele tem rodando (KONE, time em formação) e Os perfis (ohenriquecedor, treino ao vivo como espetáculo)",
-      "link": ""
-    },
-    "cta": "comentar uma palavra"
-  },
-  {
-    "id": "2026-10-17-3",
-    "data": "2026-10-17",
-    "vaga": "vida",
-    "pilar": "Bastidor da KONE",
-    "formato": "lo-fi",
-    "tema": "O time que bate meta numa semana e derrapa na outra",
-    "moral": "Resultado consistente vem de treino diário, não de sorte de uma semana boa",
-    "fala_com": "dono",
-    "nota_regua": 51,
-    "aberturas": [
-      "Toda sexta a gente senta e olha o placar da semana do time.",
-      "Teve semana que o time bateu meta inteira. Na seguinte, os mesmos vendedores não bateram nada.",
-      "O placar da semana do meu time me ensinou uma coisa que motivação nunca ensina."
-    ],
-    "tela_primeiro_quadro": "Toda sexta a gente senta e olha o placar da semana do time",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Toda sexta a gente senta e olha o placar da semana do time",
-        "topicos": [
-          "Toda sexta a gente senta e olha o placar da semana do time."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 18 s",
-        "tela": "Mesma equipe, meta batida numa semana e não na outra",
-        "topicos": [
-          "Pensa comigo: na segunda-feira o time bateu meta, todo mundo comemorando.",
-          "Só que na semana seguinte os mesmos vendedores não bateram nada. Nada mudou no talento deles, mudou a constância."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "18 a 35 s",
-        "tela": "O treino de antes decide o placar de depois",
-        "topicos": [
-          "Então parei de olhar só o resultado da semana e passei a olhar o treino que teve antes dela.",
-          "Toda vez que o treino cai, o placar cai depois. Isso não é sorte, é consequência."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "35 a 45 s",
-        "tela": "Treino todo dia, não sorte de uma semana boa",
-        "topicos": [
-          "Então resultado consistente não vem de motivação boa numa semana. Vem de treino todo dia dentro de um sistema.",
-          "Se o seu time só bate meta quando está animado, você não tem sistema. Tem sorte."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "bastidor próprio, sem molde externo: rotina do placar semanal da KONE"
-    },
-    "fonte": {
-      "nome": "moldes.md - O que ele tem rodando (KONE) e vagas do dia (Bastidor da KONE: placar da semana)",
-      "link": ""
-    },
-    "cta": "seguir"
-  },
-  {
-    "id": "2026-10-18-1",
-    "data": "2026-10-18",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "palestrinha",
-    "tema": "Pedir demissão, ser demitido, rotatividade",
-    "moral": "Contratar e treinar é processo, não sorte",
-    "fala_com": "dono",
-    "nota_regua": 56,
-    "aberturas": [
-      "Você contratou e perdeu três vendedores esse ano, e começa o processo do zero toda vez.",
-      "Pensa comigo: seu vendedor novo demorou três meses só pra aprender o que o time já sabe fazer.",
-      "Rotatividade não cansa quem tem sistema. Cansa quem recomeça do zero toda vez que alguém sai."
-    ],
-    "tela_primeiro_quadro": "3 vendedores contratados e perdidos este ano",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "3 vendedores contratados e perdidos este ano",
-        "topicos": [
-          "Você contratou e perdeu três vendedores esse ano, e começa o processo do zero toda vez."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 18 s",
-        "tela": "Procurar, entrevistar, esperar pegar o ritmo. De novo.",
-        "topicos": [
-          "Pensa comigo: toda vez que alguém sai, você recomeça a procurar, entrevistar e esperar o novo pegar ritmo.",
-          "Só que isso não é vendedor ruim. É falta de um processo que treina rápido quem entra."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "18 a 32 s",
-        "tela": "Playbook de SDR, Social Seller e Closer",
-        "topicos": [
-          "Na KONE a gente monta o time com um playbook que ensina SDR, social seller e vendedor do nosso jeito de treinar.",
-          "Então quando alguém sai, o próximo entra e já sabe o caminho, porque o treino é o sistema, não a pessoa."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "32 a 42 s",
-        "tela": "Contratar bom vendedor não é sorte",
-        "topicos": [
-          "Contratar bom vendedor não é sorte. É ter um processo que forma qualquer um rápido.",
-          "Rotatividade não cansa quem tem sistema. Cansa quem recomeça do zero toda vez que alguém sai."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "sem molde externo, tese própria a partir do mapa de conflitos do tese-conteudo.md"
-    },
-    "fonte": {
-      "nome": "moldes.md - O que ele tem rodando (Playbook Comercial v2.2 e playbooks de SDR, Social Seller e Closer)",
-      "link": ""
-    },
-    "cta": "seguir"
-  },
-  {
-    "id": "2026-10-18-2",
-    "data": "2026-10-18",
-    "vaga": "quente",
-    "pilar": "Tese e bandeira",
-    "formato": "narrado",
-    "tema": "Ficar duro no fim do mês, preço que ninguém paga",
-    "moral": "Qualificar e vender valor, não desconto",
-    "fala_com": "dono",
-    "nota_regua": 59,
-    "aberturas": [
-      "Vendedor fraco vende desconto. Vendedor treinado vende resultado.",
-      "Quem lê o comportamento do cliente vende mais. Quem só decora discurso, desconta.",
-      "Pensa comigo: todo desconto que seu time dá no fim do mês é um pedaço do seu lucro que foi embora."
-    ],
-    "tela_primeiro_quadro": "Vendedor fraco vende desconto. Vendedor treinado vende resultado.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Vendedor fraco vende desconto. Vendedor treinado vende resultado.",
-        "topicos": [
-          "Vendedor fraco vende desconto. Vendedor treinado vende resultado."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 18 s",
-        "tela": "Desconto no fim do mês é lucro saindo pela porta",
-        "topicos": [
-          "Pensa comigo: toda vez que seu time dá desconto no fim do mês, ele não tá fechando venda. Tá comprando a meta com o seu lucro.",
-          "E aí o cliente aprende rapidinho que só compra quando você baixa o preço."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "18 a 32 s",
-        "tela": "DISC aplicado a vendas",
-        "topicos": [
-          "Na KONE a gente treina o time pra ler o perfil do cliente antes de falar de preço. Isso é DISC aplicado a vendas, não feeling.",
-          "Quando o vendedor entende o que aquele cliente valoriza, ele vende valor. Não precisa descontar."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "32 a 42 s",
-        "tela": "Treino, não desconto",
-        "topicos": [
-          "Então vender valor é treino, não sorte de vendedor bom.",
-          "Comenta aqui: seu time qualifica o cliente ou só dá desconto?"
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "https://www.instagram.com/reel/DehQDYVptDZ/",
-      "perfil": "ecauduro",
-      "vezes": "74.1",
-      "molde": "frase-tese seca sobre comportamento, falada direto pra câmera, sem narrativa, fechando com pergunta de engajamento"
-    },
-    "fonte": {
-      "nome": "moldes.md - O que ele tem rodando (O Código do Cliente: DISC aplicado a vendas, método O.I.T.A.V.) e outliers.csv (ecauduro, 74.1x)",
-      "link": ""
-    },
-    "cta": "comentar uma palavra"
-  },
-  {
-    "id": "2026-10-18-3",
-    "data": "2026-10-18",
-    "vaga": "vida",
-    "pilar": "Vida e identidade",
-    "formato": "lo-fi",
-    "tema": "Origem difícil, ninguém acreditava (ser reserva, não titular)",
-    "moral": "Vendedor se forma como atleta se forma: treino diário, não berço nem dom",
-    "fala_com": "dono",
-    "nota_regua": 50,
-    "aberturas": [
-      "Em 2017 eu era reserva da Seleção. Ninguém apostava que eu ia jogar o Mundial.",
-      "Fiquei no banco da Seleção em 2017. Um ano depois eu era titular no Mundial de Budapeste.",
-      "Ninguém me chamou de talento da hora pra noite. Eu treinei igual, mesmo sendo reserva."
-    ],
-    "tela_primeiro_quadro": "2017: reserva da Seleção. 2018: titular no Mundial de Budapeste",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "2017: reserva da Seleção. 2018: titular no Mundial de Budapeste",
-        "topicos": [
-          "Em 2017 eu era reserva da Seleção. Ninguém apostava que eu ia jogar o Mundial."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 18 s",
-        "tela": "Treinando igual, mesmo no banco",
-        "topicos": [
-          "Pensa comigo: todo mundo olhava pro time titular e me via como o que fica esperando no banco.",
-          "Só que eu não parei de treinar igual. Treinei todo dia como se já fosse titular."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "18 a 32 s",
-        "tela": "5º lugar no Mundial de Budapeste, 2018",
-        "topicos": [
-          "Em 2018 eu virei titular e disputei o Mundial de Budapeste. Terminei em 5º lugar.",
-          "Ninguém me chamou de talento da hora pra noite. Me chamaram porque eu treinei igual, todo dia, mesmo no banco."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "32 a 45 s",
-        "tela": "Reserva que treina, vira titular",
-        "topicos": [
-          "E aí eu vejo dono tratando o vendedor novo do time como reserva pra sempre, sem treinar ele igual ao titular.",
-          "Então o vendedor que você treina hoje pode ser o titular de amanhã. Reserva que não treina nunca vira titular."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "sem molde externo, narrativa pessoal (reserva que vira titular)"
-    },
-    "fonte": {
-      "nome": "moldes.md - Regras de fato (reserva da Seleção em 2017; titular no Mundial de Budapeste em 2018, 5º lugar)",
-      "link": ""
-    },
-    "cta": "seguir"
-  },
-  {
     "id": "2026-10-19-1",
     "data": "2026-10-19",
     "vaga": "tese",
@@ -1561,6 +1171,201 @@
     },
     "fonte": {
       "nome": "moldes.md - O que ele tem rodando (KONE: sócio operador desde outubro de 2026, montando o time)",
+      "link": ""
+    },
+    "cta": "seguir"
+  },
+  {
+    "id": "2026-10-25-1",
+    "data": "2026-10-25",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "comparação",
+    "tema": "Dono acha que o vendedor mais extrovertido do time é o que vende mais, e paga ou promove por isso",
+    "moral": "Carisma não bate meta. Processo que lê o cliente bate.",
+    "fala_com": "dono",
+    "nota_regua": 43,
+    "aberturas": [
+      "Pensa comigo: o vendedor mais falante do seu time é realmente o que mais vende, ou só o que mais aparece?",
+      "Empresário, você já pagou mais caro pro vendedor engraçado do que pro quieto que fecha mais vendas?",
+      "Tem vendedor que conversa igual apresentador de TV e fecha menos que o colega quieto do lado."
+    ],
+    "tela_primeiro_quadro": "O vendedor mais falante do seu time vende mais mesmo?",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "O mais falante vende mais mesmo?",
+        "topicos": [
+          "Pensa comigo: o vendedor mais falante do seu time é realmente o que mais vende, ou só o que mais aparece?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 18 s",
+        "tela": "Carisma engana o dono antes de enganar o cliente",
+        "topicos": [
+          "Todo dono tem aquele vendedor animado, que conta piada, que todo mundo lembra do nome.",
+          "Só que no fim do mês o quieto do canto fechou mais contrato, e ninguém reparou."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "18 a 30 s",
+        "tela": "Ler o cliente é técnica, não personalidade",
+        "topicos": [
+          "Então eu parei de medir vendedor pela energia na sala e comecei a medir pelo jeito de ler o cliente antes de falar preço.",
+          "Isso não é dom de quem nasceu engraçado. É treino de pergunta, igual eu ensino no Código do Cliente."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "30 a 38 s",
+        "tela": "Processo bate meta. Carisma só aparece mais.",
+        "topicos": [
+          "Carisma enche sala. Processo enche o caixa.",
+          "Antes de promover o mais falante, olha o placar de quem mais fecha."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "sem molde externo, tese própria a partir da Voz do moldes.md e do contraste entre carisma e processo"
+    },
+    "fonte": {
+      "nome": "moldes.md - O que ele tem rodando (O Código do Cliente: DISC aplicado a vendas)",
+      "link": ""
+    },
+    "cta": "comentar uma palavra"
+  },
+  {
+    "id": "2026-10-25-2",
+    "data": "2026-10-25",
+    "vaga": "quente",
+    "pilar": "Bastidor da KONE",
+    "formato": "bastidores",
+    "tema": "Testar se um vendedor sabe vender mesmo sem conhecer o produto, num desafio ao vivo com a equipe",
+    "moral": "Vender bem é técnica de pergunta, não decorar ficha técnica do produto",
+    "fala_com": "dono",
+    "nota_regua": 44,
+    "aberturas": [
+      "Empresário, você já testou se seu vendedor novo sabe vender sem o crachá da empresa ajudando?",
+      "Coloquei um vendedor do meu time pra vender um produto que ele nunca viu na vida, na frente de todo mundo.",
+      "Separei um produto que ninguém do time conhecia e pedi pra um deles me vender ali, sem preparo."
+    ],
+    "tela_primeiro_quadro": "Testei: ele sabe vender sem conhecer o produto?",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Testei: ele sabe vender sem conhecer o produto?",
+        "topicos": [
+          "Empresário, você já testou se seu vendedor novo sabe vender sem o crachá da empresa ajudando?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 18 s",
+        "tela": "Produto que ele nunca viu, na frente do time todo",
+        "topicos": [
+          "Pensa comigo: separei um produto qualquer e pedi pra um vendedor do meu time me vender ele, sem explicar nada antes.",
+          "Só que ele não travou procurando ficha técnica. Começou perguntando o que eu precisava resolver."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "18 a 30 s",
+        "tela": "Pergunta certa vale mais que decorar o produto",
+        "topicos": [
+          "E aí ficou claro: quem treina pergunta vende qualquer coisa. Quem só decorou catálogo trava na primeira pergunta diferente.",
+          "Isso é o que eu cobro no treino: a técnica de ler o cliente vem antes de conhecer o produto."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "30 a 38 s",
+        "tela": "Treine pergunta, não catálogo",
+        "topicos": [
+          "Então antes de mandar seu vendedor novo estudar o manual do produto, testa se ele sabe o que perguntar.",
+          "Vendedor que só sabe o produto vende quando o cliente já quer comprar. Vendedor treinado vende mesmo no escuro."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/DeMbtvsgvQp/",
+      "perfil": "ohenriquecedor",
+      "vezes": "83.3",
+      "molde": "treino ao vivo como espetáculo: desafio real com alguém do time vendendo algo que não conhece; trocado o assunto para teste de técnica de pergunta dentro da KONE"
+    },
+    "fonte": {
+      "nome": "outliers.csv, grupo gabriel, perfil ohenriquecedor (Desafiei minha assessora a me vender um produto que ela não conhece)",
+      "link": "https://www.instagram.com/reel/DeMbtvsgvQp/"
+    },
+    "cta": "comentar uma palavra"
+  },
+  {
+    "id": "2026-10-25-3",
+    "data": "2026-10-25",
+    "vaga": "vida",
+    "pilar": "Vida e identidade",
+    "formato": "cine",
+    "tema": "Ser campeão no tatame não ensinou a estruturar uma empresa; isso ele teve que estudar",
+    "moral": "Disciplina de um lugar não vira sistema em outro sem estudo e treino específico, o mesmo princípio do vendedor que se forma treinando",
+    "fala_com": "dono",
+    "nota_regua": 43,
+    "aberturas": [
+      "Fui 5 vezes campeão paulista e 2 vezes campeão brasileiro de Taekwondo. Isso quase não me ajudou quando decidi virar sócio de empresa.",
+      "Pensa comigo: ser campeão no tatame não ensina nada sobre estruturar uma empresa.",
+      "Ninguém me perguntou meu currículo de luta quando eu precisei montar o primeiro processo comercial de uma operação."
+    ],
+    "tela_primeiro_quadro": "5x campeão paulista, 2x campeão brasileiro. Isso quase não ajudou na empresa.",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "5x campeão paulista, 2x campeão brasileiro. Isso quase não ajudou na empresa.",
+        "topicos": [
+          "Fui 5 vezes campeão paulista e 2 vezes campeão brasileiro de Taekwondo. Isso quase não me ajudou quando decidi virar sócio de empresa."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 18 s",
+        "tela": "Disciplina de tatame não é estrutura de empresa",
+        "topicos": [
+          "Pensa comigo: todo mundo olha pro atleta e acha que, se ele venceu no esporte, já sabe vencer em qualquer área.",
+          "Só que a disciplina de treinar o corpo não ensina nada sobre montar processo, CRM ou time."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "18 a 30 s",
+        "tela": "Estudei estruturação de empresa com o mesmo treino de todo dia",
+        "topicos": [
+          "Então tratei estudar estruturação de empresa com o mesmo treino que eu usava no tatame: todo dia, um pouco, sem pular.",
+          "Não foi o título de campeão que me levou a montar a KONE. Foi repetir esse estudo até virar sistema na cabeça."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "30 a 38 s",
+        "tela": "Disciplina só vira sistema com treino específico",
+        "topicos": [
+          "Então se você venceu numa área da vida, isso não te dá passe livre pra outra. Isso só te dá o hábito de treinar.",
+          "É a mesma coisa que eu cobro do vendedor: disciplina vira resultado quando treina o específico, todo dia."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "sem molde externo, narrativa pessoal (trajetória esportiva até empresário)"
+    },
+    "fonte": {
+      "nome": "moldes.md - Regras de fato (5 vezes campeão paulista e 2 vezes campeão brasileiro) e Linha de exposição (estudo de filosofia e estruturação de empresa)",
       "link": ""
     },
     "cta": "seguir"
