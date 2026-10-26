@@ -1369,5 +1369,200 @@
       "link": ""
     },
     "cta": "seguir"
+  },
+  {
+    "id": "2026-10-26-1",
+    "data": "2026-10-26",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "Cliente reclama do preço e o vendedor já corta desconto antes do dono saber, a margem some no fim do mês",
+    "moral": "Vendedor treinado pergunta o que travou a decisão antes de cortar preço; vendedor sem treino desconta pra fechar rápido",
+    "fala_com": "dono",
+    "nota_regua": 50,
+    "aberturas": [
+      "Empresário, seu vendedor dá desconto antes de você nem saber que o cliente pediu.",
+      "Pensa comigo: quando o cliente reclama de preço, seu vendedor pergunta o que travou, ou já sai descontando?",
+      "Seu funil está certo. O preço só não fecha porque seu vendedor nunca aprendeu a defender ele."
+    ],
+    "tela_primeiro_quadro": "Seu vendedor desconta antes de você saber",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Seu vendedor desconta antes de você saber",
+        "topicos": [
+          "Empresário, seu vendedor dá desconto antes de você nem saber que o cliente pediu."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Desconto no fim do mês é margem no cemitério",
+        "topicos": [
+          "Pensa comigo: o cliente reclama do preço, o vendedor trava, e pra não perder a venda ele corta dez, quinze por cento, sem te perguntar nada.",
+          "Isso não fecha o mês. Isso fura o mês. A meta bate no número, a margem morre no caminho."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 25 s",
+        "tela": "Desconto é falta de pergunta, não falta de margem",
+        "topicos": [
+          "Só que o problema não é o preço. É que ele nunca aprendeu a perguntar antes de cortar.",
+          "Vendedor treinado pergunta o que travou a decisão antes de ceder um real. Ele qualifica, não desconta."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 35 s",
+        "tela": "Treino ensina a defender preço",
+        "topicos": [
+          "Então treino de vendas não é discurso bonito. É ensinar o vendedor a perguntar antes de ceder.",
+          "Time que bate meta com margem treina isso TODO DIA. Time que só bate número desconta."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "Playbook Comercial e O.I.T.A.V. (método interno dele)",
+      "link": ""
+    },
+    "cta": "Comenta se seu vendedor desconta antes de perguntar"
+  },
+  {
+    "id": "2026-10-26-2",
+    "data": "2026-10-26",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "narrado",
+    "tema": "Vendedor decora o script e repete ele igual pra todo cliente, sem notar que a postura do cliente mudou",
+    "moral": "Vendedor treinado lê o comportamento do cliente e muda a abordagem na hora; vendedor sem treino repete o script até o cliente desistir",
+    "fala_com": "dono",
+    "nota_regua": 54,
+    "aberturas": [
+      "Quem lê o cliente vende mais. Quem só lê o script, perde venda.",
+      "Pensa comigo: seu vendedor fala igual pro cliente apressado e pro cliente desconfiado?",
+      "O script do seu vendedor é bom. Só que ele usa o mesmo, do primeiro ao último cliente do dia."
+    ],
+    "tela_primeiro_quadro": "Quem lê o cliente vende mais",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Quem lê o cliente vende mais",
+        "topicos": [
+          "Quem lê o cliente vende mais. Quem só lê o script, perde venda."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 16 s",
+        "tela": "Mesmo script pra todo cliente",
+        "topicos": [
+          "Só que na prática, o seu vendedor usa o mesmo discurso pro cliente apressado, pro desconfiado e pro que já decidiu comprar.",
+          "E aí ele trava sempre no mesmo ponto, com clientes completamente diferentes."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "16 a 27 s",
+        "tela": "Ler comportamento é técnica, não intuição",
+        "topicos": [
+          "Então o problema não é o roteiro. É que ninguém ensinou ele a notar a reação do cliente e mudar o caminho ali, na hora.",
+          "A gente chama isso de ler o comportamento. E isso se treina com o Código do Cliente, não vem pronto."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "27 a 35 s",
+        "tela": "Time treinado lê o cliente antes de falar",
+        "topicos": [
+          "Vendedor treinado pergunta, observa a reação e ajusta a abordagem. Vendedor sem treino decora a fala e repete igual pra todo mundo.",
+          "Quem lê comportamento vende mais. E isso se treina TODO DIA."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/DehQDYVptDZ/",
+      "perfil": "ecauduro",
+      "vezes": "54.3",
+      "molde": "Frase-tese seca sobre comportamento, texto na tela, narrado direto; troca só o assunto para vendas"
+    },
+    "fonte": {
+      "nome": "Código do Cliente (DISC aplicado a vendas, método interno O.I.T.A.V.)",
+      "link": ""
+    },
+    "cta": "Comenta uma palavra se seu time usa o mesmo script pra todo cliente"
+  },
+  {
+    "id": "2026-10-26-3",
+    "data": "2026-10-26",
+    "vaga": "vida",
+    "pilar": "Prova e caso",
+    "formato": "comparação",
+    "tema": "Dono bate meta num mês bom e não sabe se foi sorte de mercado ou se o resultado se repete",
+    "moral": "Processo replicável não depende de sorte: mais de 100 empresas atendidas e 95% de renovação provam que sistema repete resultado, sorte não",
+    "fala_com": "dono",
+    "nota_regua": 48,
+    "aberturas": [
+      "Você vendeu bem esse mês. Foi sorte ou foi sistema?",
+      "Pensa comigo: se o mercado virar no mês que vem, seu resultado cai ou se mantém?",
+      "Mês bom todo mundo tem. A pergunta é se ele se repete."
+    ],
+    "tela_primeiro_quadro": "Foi sorte ou foi sistema?",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Foi sorte ou foi sistema?",
+        "topicos": [
+          "Você vendeu bem esse mês. Foi sorte ou foi sistema?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 14 s",
+        "tela": "Sorte não assina contrato de novo",
+        "topicos": [
+          "Pensa comigo: se foi sorte, o mês que vem o mercado vira e seu resultado cai com ele.",
+          "E a maioria dos donos não sabe responder essa pergunta, porque nunca mediu o próprio processo."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "14 a 26 s",
+        "tela": "95% de renovação não é sorte repetida 95 vezes",
+        "topicos": [
+          "Só que sorte não se repete 95 de cada 100 vezes. Sistema, sim.",
+          "Na Dominium a gente já ajudou mais de 100 empresas e 95% delas renovaram. Isso só acontece quando o resultado vem de processo, não de maré boa."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "26 a 35 s",
+        "tela": "Monte o sistema. Sorte você não controla",
+        "topicos": [
+          "Então antes de comemorar o mês bom, pergunta: isso eu consigo repetir treinando o time, ou só aconteceu?",
+          "Time que bate meta com sistema repete. Time que depende de sorte, só espera."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "Regras de fato (moldes.md) - dado agregado Dominium",
+      "link": ""
+    },
+    "cta": "Comenta: sorte ou sistema?"
   }
 ]
