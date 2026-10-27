@@ -130,5 +130,16 @@
     "status": "publicado",
     "media_id": "18352020304269601",
     "em": "2026-10-26T16:01:11+00:00"
+  },
+  "car03-selecao-treino": {
+    "status": "publicado",
+    "media_id": "17995150971029386",
+    "em": "2026-10-27T16:01:57+00:00"
+  },
+  "li:car03-selecao-treino": {
+    "status": "erro",
+    "erro": "401 no userinfo (token vencido ou sem openid/profile?): {\"status\":401,\"serviceErrorCode\":65600,\"code\":\"INVALID_ACCESS_TOKEN\",\"message\":\"Invalid access token\"}",
+    "tentativas": 1,
+    "em": "2026-10-27T16:05:18+00:00"
   }
 }
