@@ -1,396 +1,5 @@
 [
   {
-    "id": "2026-10-20-1",
-    "data": "2026-10-20",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "palestrinha",
-    "tema": "Cliente fecha rápido e cancela dois meses depois porque ninguém qualificou antes de vender",
-    "moral": "Vender rápido não é vender bem. Vendedor treinado qualifica antes de fechar, e é isso que segura o cliente depois",
-    "fala_com": "dono",
-    "nota_regua": 51,
-    "aberturas": [
-      "Empresário, quantos clientes da sua empresa fecharam rápido e cancelaram dois meses depois?",
-      "Pensa comigo: seu vendedor bateu a meta do mês fechando um cliente errado. Quem paga essa conta depois é você.",
-      "Fechar rápido não é o problema. O problema é fechar sem saber se aquele cliente ia ficar."
-    ],
-    "tela_primeiro_quadro": "Por que o cliente cancela DOIS meses depois de fechar?",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Cliente cancela DOIS meses depois",
-        "topicos": [
-          "Empresário, pensa comigo: seu vendedor bateu a meta do mês fechando um cliente. E dois meses depois esse cliente cancelou."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 18 s",
-        "tela": "Fechou rápido, qualificou nada",
-        "topicos": [
-          "Isso não é falha de atendimento. É falha de entrada.",
-          "O vendedor empurrou a venda pra bater o número dele e não perguntou se aquele cliente tinha o problema certo pra resolver com o seu produto.",
-          "Então o cliente usa um mês, não vê resultado e sai. E o time comemorou uma meta que já nasceu prejuízo."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "18 a 28 s",
-        "tela": "Treino ensina a perguntar antes de fechar",
-        "topicos": [
-          "Na implementação que eu faço dentro da KONE, a primeira coisa que o time treina não é técnica de fechamento. É pré-qualificação.",
-          "Vendedor treinado sabe quando NÃO fechar, porque sabe que aquele cliente errado vira cancelamento com o nome dele em cima."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "28 a 38 s",
-        "tela": "Vender rápido não é vender bem",
-        "topicos": [
-          "Vender rápido não é vender bem. Vender bem é o cliente continuar pagando no mês seis.",
-          "Sua empresa mede quanto fecha ou mede quanto fica?"
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "sem molde externo, tese própria a partir do mapa de conflitos do tese-conteudo.md"
-    },
-    "fonte": {
-      "nome": "moldes.md - O que ele tem rodando (Implementação comercial de 90 dias: processo, CRM, scripts e treino do time)",
-      "link": ""
-    },
-    "cta": "comentar FICA"
-  },
-  {
-    "id": "2026-10-20-2",
-    "data": "2026-10-20",
-    "vaga": "quente",
-    "pilar": "Tese e bandeira",
-    "formato": "comparação",
-    "tema": "Dono troca de funil, de CRM, de automação, achando que o problema está na ferramenta, e o vendedor continua sem saber o que falar quando o cliente responde",
-    "moral": "Funil não fecha venda. Vendedor treinado fecha venda. O funil só mostra onde ele está travando",
-    "fala_com": "dono",
-    "nota_regua": 59,
-    "aberturas": [
-      "Saiu uma matéria essa semana dizendo que o funil de vendas tradicional não funciona mais. Eu discordo. O funil nunca foi o problema.",
-      "Empresário, você já trocou de CRM quantas vezes achando que o problema era a ferramenta?",
-      "De um lado, o funil mais bonito que o dinheiro compra. Do outro, o vendedor travado na primeira objeção. Qual dos dois fecha a venda?"
-    ],
-    "tela_primeiro_quadro": "O FUNIL não fecha venda",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Funil não fecha venda",
-        "topicos": [
-          "Saiu uma matéria essa semana dizendo que o funil de vendas tradicional não funciona mais. Pensa comigo antes de concordar."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 18 s",
-        "tela": "Troca de CRM de novo",
-        "topicos": [
-          "Todo dono que eu converso já trocou de CRM pelo menos uma vez achando que ali estava o problema.",
-          "Bota etapa nova, automação nova, integração nova. E o vendedor continua travando na mesma objeção de sempre, só que agora dentro de um sistema mais caro."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "18 a 28 s",
-        "tela": "O funil só mostra onde ele trava",
-        "topicos": [
-          "O funil não vende. Ele só mostra em que etapa o seu vendedor está travando.",
-          "Na implementação que eu faço, eu olho o funil pra achar o ponto exato onde o time precisa de treino, não pra trocar de ferramenta."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "28 a 38 s",
-        "tela": "Treine quem está dentro do funil",
-        "topicos": [
-          "Funil bonito com vendedor sem treino é dinheiro escorrendo pelo ralo em etapas organizadas.",
-          "Antes de trocar de funil, treine quem está dentro dele."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "pauta do quentes.json, não modelada de vídeo viral"
-    },
-    "fonte": {
-      "nome": "Exame - Por que o funil de vendas já não funciona como antes (mesmo assunto também em Agora Litoral)",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90Qk1yY0RsTzFGVEtYcFh1X1NjNzdWWDQyYmF1cUlxcnA4NzFrLVJWeXEwcWNLbGNycDFLZVQxcHlHQlJLNUFoZnJyVkQ1SVFXa1l2Q251UHJqNFNyZjF4QlI2dGljd3ZfSzhoU0RwUjR2Sml5YTFr?oc=5"
-    },
-    "cta": "comentar TREINO"
-  },
-  {
-    "id": "2026-10-20-3",
-    "data": "2026-10-20",
-    "vaga": "vida",
-    "pilar": "Bastidor da KONE",
-    "formato": "bastidores",
-    "tema": "Vendedor que acha que foi bem na semana mas não sabe quantas vendas fechou de verdade",
-    "moral": "Time que bate meta vê o próprio placar toda semana. Time que não bate, acha que foi bem",
-    "fala_com": "time",
-    "nota_regua": 47,
-    "aberturas": [
-      "Pergunta pro seu vendedor quantas vendas ele fechou essa semana. Se a resposta for 'acho que foi bem', você tem um problema.",
-      "Pensa comigo: time que não sabe o próprio número não sabe se está treinando ou só trabalhando.",
-      "Na KONE, toda sexta o time para pra ver um número. Não é opinião. É placar."
-    ],
-    "tela_primeiro_quadro": "'ACHO que foi bem' não é placar",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "'Acho que foi bem'",
-        "topicos": [
-          "Pergunta pro seu vendedor quantas vendas ele fechou essa semana. Se a resposta for 'acho que foi bem', você tem um problema."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 18 s",
-        "tela": "Ninguém mede, todo mundo acha",
-        "topicos": [
-          "A maioria dos times de vendas que eu vejo não erra por falta de esforço. Erra porque ninguém para pra olhar o número direito.",
-          "O vendedor sai da semana com a sensação de que trabalhou bastante. Sensação não bate meta."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "18 a 28 s",
-        "tela": "Toda sexta, o placar",
-        "topicos": [
-          "Na KONE, toda sexta o time para e olha o placar da semana. Quantas ligações, quantas propostas, quantas vendas.",
-          "Não é pra humilhar quem ficou atrás. É pra treinar exatamente o ponto que travou."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "28 a 38 s",
-        "tela": "Time que bate meta vê o placar",
-        "topicos": [
-          "Time que bate meta vê o próprio placar toda semana. Time que não bate, acha que foi bem.",
-          "Qual dos dois é o seu?"
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "sem molde externo, bastidor da própria operação (vaga vida, pilar Bastidor da KONE do moldes.md)"
-    },
-    "fonte": {
-      "nome": "",
-      "link": ""
-    },
-    "cta": "comentar PLACAR"
-  },
-  {
-    "id": "2026-10-21-1",
-    "data": "2026-10-21",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "comparação",
-    "tema": "Vendedor novo entra e aprende sozinho vendo os outros ligarem, em vez de passar por treino estruturado",
-    "moral": "Vendedor se forma como atleta se forma: com treino diário dentro de um sistema, não aprendendo na sorte",
-    "fala_com": "dono",
-    "nota_regua": 57,
-    "aberturas": [
-      "Empresário, seu vendedor novo entrou há 90 dias e até hoje aprende só vendo os outros ligarem.",
-      "Pensa comigo: por que você treina meses um atleta antes do primeiro jogo e solta um vendedor novo direto na ligação com o cliente?",
-      "Todo vendedor novo que você perde nos primeiros 90 dias não foi fraco. Foi jogado sozinho."
-    ],
-    "tela_primeiro_quadro": "Empresa amadora joga o vendedor novo pra aprender sozinho",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Vendedor novo aprende vendo os outros ligarem",
-        "topicos": [
-          "Empresário, seu vendedor novo entrou há 90 dias e até hoje aprende só vendo os outros ligarem."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "Isso não é treino, é sorte",
-        "topicos": [
-          "Pensa comigo: time de alto rendimento nunca solta atleta novo pra treinar sozinho. Ele treina com técnico, com script, com simulação antes do primeiro ponto valer.",
-          "Só que no comercial, o vendedor novo aprende vendo o colega do lado e torcendo pra copiar certo.",
-          "E quando ele perde a primeira venda importante, a culpa vira dele."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "90 dias de implementação, não 90 dias de sorte",
-        "topicos": [
-          "Eu monto o time assim: processo, CRM, script e treino TODO DIA nos primeiros 90 dias, antes de ele tocar numa ligação que importa.",
-          "Não é questão de talento. É questão de sistema que recebe o vendedor novo e entrega ele pronto."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 30 s",
-        "tela": "Vendedor se forma como atleta se forma",
-        "topicos": [
-          "Então se seu vendedor novo ainda está aprendendo sozinho, o problema não é ele. É que ele nunca teve treino.",
-          "Vendedor se forma como atleta se forma."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "https://www.instagram.com/reel/Deh3Ay2tZK0/",
-      "perfil": "ecauduro",
-      "vezes": "58.6",
-      "molde": "frase-tese seca em comparação direta (dois lados opostos), esqueleto copiado de 'Pobre compra desconto, rico compra resultado'"
-    },
-    "fonte": {
-      "nome": "",
-      "link": ""
-    },
-    "cta": "Comenta TREINO se seu time também aprende sozinho"
-  },
-  {
-    "id": "2026-10-21-2",
-    "data": "2026-10-21",
-    "vaga": "quente",
-    "pilar": "Tese e bandeira",
-    "formato": "palestrinha",
-    "tema": "Varejo paulista em retração disseminada nas vendas (dado real, FecomercioSP) e o dono que culpa só o mercado",
-    "moral": "Mercado ruim não cria o problema, só revela quem nunca treinou o time; treino diário é o seguro contra maré baixa",
-    "fala_com": "dono",
-    "nota_regua": 60,
-    "aberturas": [
-      "Saiu dado da FecomercioSP essa semana: o varejo paulista está em retração disseminada nas vendas.",
-      "Empresário, toda vez que o mercado aperta, tem dono culpando o cenário. Pensa comigo.",
-      "Quando a notícia é vendas caindo, o primeiro instinto do dono é culpar a economia."
-    ],
-    "tela_primeiro_quadro": "Varejo paulista em retração. E a culpa não é só do mercado.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Varejo paulista em retração (FecomercioSP)",
-        "topicos": [
-          "Saiu dado da FecomercioSP essa semana: o varejo paulista está em retração disseminada nas vendas."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "O mercado aperta pra todo mundo igual",
-        "topicos": [
-          "Só que o mercado aperta pra todo mundo igual, dono. Então por que time treinado continua batendo meta e time sem treino já está no vermelho?",
-          "Mercado ruim não cria o problema. Ele só mostra o problema que já estava lá."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "Quem treina todo dia não sente o tranco",
-        "topicos": [
-          "O time que treina toda semana, que sabe qualificar lead e defender valor, sente menos o tranco, porque ele não depende de maré boa pra vender.",
-          "Quem vive de maré boa quebra na primeira maré baixa."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 30 s",
-        "tela": "Treino diário é o seguro contra mercado ruim",
-        "topicos": [
-          "Então antes de culpar o mercado, pergunta: meu time treina TODO DIA, ou só vende quando está fácil?"
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "FecomercioSP",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVk5cjYwM0tPb1NuT0g5eDNUQjJuX05URlhQYUk5ck5WUk9adWFUX052bFRWa2luRF9Mc0tzS0k4Q2Jjc0FvLUZDWlc0dWNmQ1NoV1RXb2cyYnlRc1JsaDVmb2c4b0xfRXAtYzJsT1hKLUtPMXZZd3FrcVVUa3ZzQnNCX3BCOEgyT1M0MERvRzJSUVBQWTVDaw?oc=5"
-    },
-    "cta": "Segue @gabrieldfaria_ pra treinar seu time antes da próxima maré baixa"
-  },
-  {
-    "id": "2026-10-21-3",
-    "data": "2026-10-21",
-    "vaga": "vida",
-    "pilar": "Vida e identidade",
-    "formato": "cine",
-    "tema": "O mito do vendedor nato contra o treino de 7 anos que formou o atleta",
-    "moral": "Vendedor se forma como atleta se forma: ninguém nasce pronto, se forma no treino diário",
-    "fala_com": "dono",
-    "nota_regua": 54,
-    "aberturas": [
-      "Ninguém nasce lutando. Eu treinei 7 anos até pisar no tatame de um Mundial.",
-      "Empresário, você já ouviu alguém dizer que fulano nasceu vendedor? Pensa comigo.",
-      "Comecei no Taekwondo aos 9 anos, com bolsa. Ninguém nasceu pronto lá dentro."
-    ],
-    "tela_primeiro_quadro": "Eu treinei 7 anos até pisar no tatame de um Mundial",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Ninguém nasce lutando",
-        "topicos": [
-          "Vendedor não nasce pronto. Ninguém nasce lutando.",
-          "Eu treinei 7 anos até pisar no tatame de um Mundial."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "O mito do vendedor nato",
-        "topicos": [
-          "Só que todo mundo trata vendedor como se fosse igual: ou ele já nasceu bom, ou ele nunca vai ser.",
-          "E aí o dono não treina. Só espera o talento aparecer."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "O mesmo treino que me formou atleta forma vendedor",
-        "topicos": [
-          "Comecei no Taekwondo aos 9 anos, com bolsa. Fui reserva da Seleção em 2017 e só em 2018 pisei titular no Mundial de Budapeste.",
-          "Foi treino todo dia, não talento, que me colocou lá. Com vendedor é a mesma lógica."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 30 s",
-        "tela": "Vendedor se forma como atleta se forma",
-        "topicos": [
-          "Então para de esperar o vendedor nato aparecer. Treina o que você tem, todo dia, e ele vira o atleta que sua empresa precisa."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "frase de ataque já aprovada no moldes.md (seção Voz); sem molde externo copiado"
-    },
-    "fonte": {
-      "nome": "moldes.md, Regras de fato",
-      "link": ""
-    },
-    "cta": "Segue @gabrieldfaria_"
-  },
-  {
     "id": "2026-10-22-1",
     "data": "2026-10-22",
     "vaga": "tese",
@@ -1566,5 +1175,203 @@
       "link": ""
     },
     "cta": "Comenta: você já leu o placar pro seu time essa semana?"
+  },
+  {
+    "id": "2026-10-28-1",
+    "data": "2026-10-28",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "Dono paga palestra de vendas cara, o time sai animado na sexta e na segunda está tudo igual",
+    "moral": "Time não bate meta com evento de motivação. Bate meta com treino TODO DIA dentro de um sistema",
+    "fala_com": "dono",
+    "nota_regua": 59,
+    "aberturas": [
+      "Empresário, quanto você já pagou por um treinamento de vendas que animou o time na sexta e sumiu na segunda?",
+      "Pensa comigo. Seu time saiu empolgado da última palestra de vendas. Quanto tempo durou?",
+      "Vendedor não nasce pronto, e treinamento de um dia também não forma vendedor nenhum."
+    ],
+    "tela_primeiro_quadro": "Quanto custou a palestra que durou até segunda?",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Quanto custou a palestra que durou até segunda?",
+        "topicos": [
+          "Empresário, quanto você já pagou por um treinamento de vendas que animou o time na sexta e sumiu na segunda?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Palestra anima. Treino forma.",
+        "topicos": [
+          "Pensa comigo. O time volta da palestra empolgado, fala alto, promete fechar tudo.",
+          "Só que chega quarta-feira e o vendedor liga igual ligava antes, erra a mesma objeção, perde pelo mesmo motivo."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 25 s",
+        "tela": "Isso não é falta de vontade.",
+        "topicos": [
+          "E aí o dono acha que o problema foi o vendedor, ou que precisava de outra palestra, mais forte.",
+          "Só que palestra de vendas é vídeo motivacional de academia: te anima na sexta e some na segunda."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 35 s",
+        "tela": "Treino é TODO DIA.",
+        "topicos": [
+          "Time que bate meta não teve um dia de treino. Tem treino TODO DIA, dentro de um sistema que não depende de motivação pra continuar de pé.",
+          "Então antes de pagar a próxima palestra, pergunta pra você mesmo: isso vira rotina ou vira festa de sexta?"
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "sem molde externo; tese original a partir do inimigo 'treino de um dia' do moldes.md e do conflito 'animar e desanimar' do tese-conteudo.md"
+    },
+    "fonte": {
+      "nome": "sem fato externo; frase de ataque já aprovada no moldes.md",
+      "link": ""
+    },
+    "cta": "comentar TREINO"
+  },
+  {
+    "id": "2026-10-28-2",
+    "data": "2026-10-28",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "dinamismo",
+    "tema": "Sinais do dia a dia que mostram que o time comercial nunca passou por treino de verdade",
+    "moral": "Sinal de time sem treino aparece todo dia. Quem treina todo dia não deixa esses sinais aparecerem",
+    "fala_com": "dono",
+    "nota_regua": 50,
+    "aberturas": [
+      "Empresário, 3 sinais de que seu time comercial nunca treinou de verdade. Fica até o final que o terceiro dói.",
+      "Se o seu vendedor faz 2 destes 3 sinais, ele não foi treinado. Foi solto.",
+      "Vou listar 3 sinais de time sem treino. Comenta se faltou algum."
+    ],
+    "tela_primeiro_quadro": "3 sinais de time que nunca treinou de verdade",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "3 sinais de time que nunca treinou de verdade",
+        "topicos": [
+          "Empresário, 3 sinais de que seu time comercial nunca passou por treino de verdade. Fica até o final que o terceiro dói."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 18 s",
+        "tela": "1. Trava na mesma objeção todo mês.",
+        "topicos": [
+          "Primeiro sinal: ele trava na mesma objeção todo mês e continua sem saber o que responder.",
+          "Segundo sinal: ele desconta pra fechar rápido, porque nunca aprendeu a perguntar o que travou a decisão.",
+          "Terceiro sinal: ele empurra o script decorado, mesmo quando o cliente mudou de postura na ligação."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "18 a 28 s",
+        "tela": "O time só mostra o que aprendeu.",
+        "topicos": [
+          "Pensa comigo. Nenhum desses três sinais é falta de talento. É treino que nunca aconteceu.",
+          "Time não erra por acaso. Time erra onde ninguém treinou."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "28 a 35 s",
+        "tela": "Faltou algum?",
+        "topicos": [
+          "Sinal de time sem treino aparece todo dia, até você treinar todo dia dentro de um sistema.",
+          "Faltou algum sinal que o seu time também tem? Comenta aqui."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/Depbw6YtTLC/",
+      "perfil": "joaokissel",
+      "vezes": "11.2",
+      "molde": "lista com pergunta de comentário ao final ('Faltou algum?'); mantida a estrutura e trocado o assunto pra sinais de time comercial sem treino"
+    },
+    "fonte": {
+      "nome": "sem fato externo citado; lista observacional",
+      "link": ""
+    },
+    "cta": "comentar o sinal que faltou"
+  },
+  {
+    "id": "2026-10-28-3",
+    "data": "2026-10-28",
+    "vaga": "vida",
+    "pilar": "Vida e identidade",
+    "formato": "cine",
+    "tema": "O preço que ele pagou pra virar atleta de Seleção, e o preço que está pagando agora pra montar a KONE",
+    "moral": "Vendedor se forma como atleta se forma: ninguém vê o preço, só vê o resultado",
+    "fala_com": "dono",
+    "nota_regua": 52,
+    "aberturas": [
+      "O pódio aparece pra todo mundo ver. O preço de chegar lá não aparece.",
+      "Comecei no Taekwondo aos 9 anos, com bolsa. Essa parte da história ninguém posta.",
+      "Todo mundo quer o resultado. Quase ninguém quer pagar o treino que vem antes dele."
+    ],
+    "tela_primeiro_quadro": "O pódio aparece. O preço não aparece.",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "O pódio aparece. O preço não aparece.",
+        "topicos": [
+          "O pódio aparece pra todo mundo ver. O preço de chegar lá não aparece."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 18 s",
+        "tela": "Taekwondo aos 9 anos, com bolsa.",
+        "topicos": [
+          "Comecei no Taekwondo aos 9 anos, com bolsa, porque não tinha outro jeito de treinar.",
+          "Aos 14 anos eu já trabalhava como empacotador, antes e depois do treino, todo dia.",
+          "Ninguém posta essa parte. Posta o dia que eu fui reserva da Seleção em 2017 e titular no Mundial de Budapeste em 2018."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "18 a 30 s",
+        "tela": "Dez anos de treino sem plateia nenhuma.",
+        "topicos": [
+          "Depois do Mundial vieram mais cinco títulos paulistas e dois títulos brasileiros, um atrás do outro, no mesmo treino repetido.",
+          "Pensa comigo. Entre o Taekwondo aos 9 e esses títulos foram quase dez anos de treino TODO DIA, sem plateia nenhuma vendo.",
+          "Hoje é a mesma conta pra montar time de vendas que bate meta. O resultado aparece por último. O treino vem primeiro, e vem sozinho."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "30 a 40 s",
+        "tela": "Vendedor se forma como atleta se forma.",
+        "topicos": [
+          "Vendedor se forma como atleta se forma: ninguém nasce pronto, ninguém vence sem pagar o preço do treino que não aparece.",
+          "Se você só quer o resultado e não quer montar o treino, você não quer um time. Você quer sorte."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/Dd9XK2RKlaB/",
+      "perfil": "ryanserhant",
+      "vezes": "152.6",
+      "molde": "o custo de vencer: narrativa de sacrifício por trás do resultado; trocado o assunto pra trajetória esportiva dele e ponte pro treino de time"
+    },
+    "fonte": {
+      "nome": "moldes.md - Regras de fato (trajetória)",
+      "link": ""
+    },
+    "cta": "seguir"
   }
 ]
