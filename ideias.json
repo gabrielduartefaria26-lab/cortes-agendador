@@ -1,204 +1,5 @@
 [
   {
-    "id": "2026-10-22-1",
-    "data": "2026-10-22",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "palestrinha",
-    "tema": "Vendedor que liga o dia inteiro e manda mensagem pra todo lead parece o mais esforçado do time, e fecha menos que o quieto que filtra antes de ligar",
-    "moral": "Esforço não é resultado. Treino ensina o vendedor a gastar energia só onde fecha; motivação só ensina a parecer ocupado",
-    "fala_com": "dono",
-    "nota_regua": 55,
-    "aberturas": [
-      "Empresário, você tem aquele vendedor que parece o mais esforçado do time e fecha menos que todo mundo?",
-      "O vendedor mais ocupado do seu time pode ser o que fecha menos. Pensa comigo.",
-      "Esforço e resultado não são a mesma coisa. Seu time já confundiu isso?"
-    ],
-    "tela_primeiro_quadro": "O vendedor mais \"esforçado\" do seu time é o que fecha menos?",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "O mais esforçado do time fecha menos?",
-        "topicos": [
-          "Empresário, você tem aquele vendedor que liga o dia inteiro, manda mensagem pra todo lead, parece o mais esforçado do time.",
-          "E no fim do mês fecha menos que todo mundo?"
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "Esforço não é resultado",
-        "topicos": [
-          "Pensa comigo. Esse vendedor não é vagabundo, ele trabalha o dia inteiro.",
-          "Só que ele gasta a energia toda com o lead errado, no horário errado, do jeito errado.",
-          "E o dono olha aquilo e pensa que o problema é disposição."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "O problema é direção, não disposição",
-        "topicos": [
-          "Só que o problema nunca foi disposição. Foi direção.",
-          "Time sem treino confunde estar ocupado com estar perto de fechar.",
-          "E ninguém corrige isso cobrando mais. Corrige treinando onde ele gasta a energia."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 32 s",
-        "tela": "Treino ensina onde gastar energia",
-        "topicos": [
-          "Então antes de cobrar mais esforço do seu vendedor, olha se alguém já treinou ele a gastar esforço no lugar certo.",
-          "Time que treina todo dia aprende isso. Time que só ouve discurso de meta, não."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "ideia original, sem molde externo copiado; segue a Voz do moldes.md"
-    },
-    "fonte": {
-      "nome": "moldes.md, seção Tese",
-      "link": ""
-    },
-    "cta": "Comenta TREINO que eu te conto como a gente filtra isso na KONE."
-  },
-  {
-    "id": "2026-10-22-2",
-    "data": "2026-10-22",
-    "vaga": "quente",
-    "pilar": "Tese e bandeira",
-    "formato": "comparação",
-    "tema": "O cliente diz 'vou pensar e te retorno' e quase todo vendedor aceita sem descobrir o que realmente travou a decisão",
-    "moral": "'Vou pensar' nunca é o motivo real. Treino ensina o vendedor a descobrir o motivo de verdade; motivação só ensina a aceitar a resposta educada",
-    "fala_com": "dono",
-    "nota_regua": 60,
-    "aberturas": [
-      "Vamos ver se seu time sabe vender, ou só sabe repetir script até o cliente dizer vou pensar e te retorno.",
-      "Seu vendedor sabe o que responder quando o cliente diz vou pensar?",
-      "Pensa comigo: toda vez que o cliente diz vou pensar, seu time aceita e nunca mais fala com ele?"
-    ],
-    "tela_primeiro_quadro": "Seu vendedor sabe o que responder quando o cliente diz 'vou pensar'?",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "'Vou pensar e te retorno.' Seu time sabe o que fazer com isso?",
-        "topicos": [
-          "Vamos ver se seu time sabe mesmo vender, ou só sabe repetir script até o cliente falar: vou pensar e te retorno."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "Quase todo vendedor aceita e some",
-        "topicos": [
-          "Pensa comigo. O cliente fala vou pensar, e quase todo vendedor responde: tudo bem, fico no aguardo. Parece educado.",
-          "Só que é ali que a venda morre, porque ninguém ensinou ele qual é o motivo real escondido atrás do vou pensar."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "'Vou pensar' nunca é o motivo real",
-        "topicos": [
-          "Vou pensar é só a desculpa educada pra não dizer o que travou de verdade: preço, prioridade ou medo de decidir errado.",
-          "Vendedor treinado pergunta qual dos três é, na hora. Vendedor sem treino aceita o vou pensar e nunca mais fala com esse cliente."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 33 s",
-        "tela": "Treino ensina a destravar o motivo de verdade",
-        "topicos": [
-          "O problema não é o cliente enganar seu vendedor. É ele nunca ter treinado pra ir atrás do motivo real.",
-          "Isso não é dom. É treino diário, com repetição."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "https://www.instagram.com/reel/DejzlnqJtv9/",
-      "perfil": "ecauduro",
-      "vezes": "51.8",
-      "molde": "pergunta-desafio direta ao espectador (Vamos ver se você...), testando o que ele sabe sobre o próprio tema; troquei o assunto para vendedor e a objeção vou pensar"
-    },
-    "fonte": {
-      "nome": "outliers.csv, grupo gabriel",
-      "link": "https://www.instagram.com/reel/DejzlnqJtv9/"
-    },
-    "cta": "Comenta VOU PENSAR que eu te mando as três perguntas que uso pra destravar isso."
-  },
-  {
-    "id": "2026-10-22-3",
-    "data": "2026-10-22",
-    "vaga": "vida",
-    "pilar": "Vida e identidade",
-    "formato": "cine",
-    "tema": "Todo mundo vê o time pronto batendo meta. Ninguém vê o treino repetido, sem plateia, que veio antes",
-    "moral": "O resultado visível do time é consequência do treino invisível. É isso que forma time, não motivação de palco",
-    "fala_com": "dono",
-    "nota_regua": 50,
-    "aberturas": [
-      "Ninguém te mostra o preço de montar um time do zero.",
-      "Empresário, o que você vê de um time que bate meta é só a parte visível.",
-      "Antes de montar qualquer time, eu treino luta de manhã. Não é hábito de empresário de sucesso."
-    ],
-    "tela_primeiro_quadro": "Ninguém vê o preço de montar um time do zero",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Ninguém vê o preço de montar um time do zero",
-        "topicos": [
-          "Empresário, ninguém te mostra o preço de montar um time do zero.",
-          "Todo mundo só vê o time pronto, batendo meta."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "O que aparece é o resultado. O treino, ninguém vê.",
-        "topicos": [
-          "Pensa comigo. As pessoas veem a KONE funcionando, o time vendendo, e acham que isso nasceu assim.",
-          "Só que antes de montar qualquer time, eu treino luta de manhã, do mesmo jeito que treinava quando competia."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "Treinar o corpo é o mesmo treino de montar o time",
-        "topicos": [
-          "Não é hábito de empresário de sucesso, nem estética. É o mesmo músculo mental que eu uso pra treinar vendedor todo dia.",
-          "Repetir o certo até ficar automático, mesmo sem vontade."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 33 s",
-        "tela": "O resultado é consequência do treino que ninguém vê",
-        "topicos": [
-          "Então quando você olhar pra um time que bate meta, lembra que você tá vendo só a parte visível.",
-          "A parte que ninguém vê é o treino repetido todo dia, sem plateia. É isso que forma time, não motivação de palco."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "ideia original, sem copiar frase nem cena de outros perfis; segue Regra 3 do moldes.md"
-    },
-    "fonte": {
-      "nome": "moldes.md, Linha de exposição e Regras de fato (rotina de treino)",
-      "link": ""
-    },
-    "cta": "Segue @gabrieldfaria_"
-  },
-  {
     "id": "2026-10-23-1",
     "data": "2026-10-23",
     "vaga": "tese",
@@ -1373,5 +1174,200 @@
       "link": ""
     },
     "cta": "seguir"
+  },
+  {
+    "id": "2026-10-29-1",
+    "data": "2026-10-29",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "O melhor vendedor do time pede demissão de manhã e a carteira de clientes some com ele no mesmo dia",
+    "moral": "Contratar e treinar vendedor é processo que roda sempre dentro do sistema; dono que só contrata quando falta gente vai sofrer rotatividade pra sempre",
+    "fala_com": "dono",
+    "nota_regua": 54,
+    "aberturas": [
+      "Seu melhor vendedor pediu as contas hoje de manhã. E a carteira dele foi junto.",
+      "Pensa comigo: se o seu vendedor que mais fecha sair hoje, quantos clientes só falam com ele?",
+      "O vendedor que mais vendia pediu demissão. O cliente ligou perguntando por ele, não pela empresa."
+    ],
+    "tela_primeiro_quadro": "Seu melhor vendedor pediu demissão hoje",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Seu melhor vendedor pediu demissão hoje",
+        "topicos": [
+          "Empresário, seu melhor vendedor acabou de pedir as contas."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 16 s",
+        "tela": "A carteira de clientes some com ele",
+        "topicos": [
+          "Só que não é só o vendedor que sai. A carteira de cliente sai com ele, porque é ele quem atende, quem conhece a manha de cada um.",
+          "E aí o dono vira a empresa de ponta cabeça: entrevista de emergência, anúncio de vaga, vendedor novo aprendendo do zero enquanto a meta do mês já era."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "16 a 28 s",
+        "tela": "Isso só acontece onde contratar é emergência",
+        "topicos": [
+          "Então pensa comigo: isso só vira drama em empresa onde contratar vendedor é emergência, não rotina.",
+          "Na KONE eu monto o time pra isso nunca ser surpresa: SDR, social seller, vendedor, cada um treinado dentro do mesmo sistema, não dentro da cabeça de uma pessoa só."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "28 a 38 s",
+        "tela": "Contratar e treinar é processo, não sorte",
+        "topicos": [
+          "Contratar e treinar vendedor não pode ser aposta de sorte. Tem que ser processo que roda toda semana, com ou sem ninguém saindo.",
+          "Time que bate meta sem depender de uma pessoa só é time que treina gente nova antes de precisar dela."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "moldes.md - Regra 1 (exemplo de conflito: o melhor vendedor que leva a carteira junto) e tese-conteudo.md (rotatividade)",
+      "link": ""
+    },
+    "cta": "comentar uma palavra"
+  },
+  {
+    "id": "2026-10-29-2",
+    "data": "2026-10-29",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "comparação",
+    "tema": "Notícia da semana diz que o CRM como existe hoje não aguenta mais ser, sozinho, o centro da estratégia de venda, nem com IA dentro dele",
+    "moral": "A ferramenta nunca foi o problema nem a solução. CRM vira cemitério de lead quando o time que usa ele não é treinado; treinado, o mesmo CRM funciona",
+    "fala_com": "dono",
+    "nota_regua": 54,
+    "aberturas": [
+      "Seu CRM tá com duzentos lead parado que ninguém mais vai ligar.",
+      "Saiu uma reportagem essa semana dizendo que o CRM como a gente conhece acabou. Eu discordo de um ponto.",
+      "O problema nunca foi o CRM. Foi quem nunca foi treinado pra usar ele direito."
+    ],
+    "tela_primeiro_quadro": "Seu CRM é um cemitério de lead",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Seu CRM é um cemitério de lead",
+        "topicos": [
+          "Empresário, entra no seu CRM agora. Quantos lead tão parados lá, sem ninguém ligar de novo?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 16 s",
+        "tela": "CRM vira cemitério de lead",
+        "topicos": [
+          "CRM virou cemitério de lead. Entra, enterra, nunca mais abre.",
+          "Saiu uma reportagem essa semana dizendo que o CRM do jeito que a gente conhece não aguenta mais ser, sozinho, o centro da venda, nem com inteligência artificial dentro dele."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "16 a 28 s",
+        "tela": "O problema nunca foi a ferramenta",
+        "topicos": [
+          "E aí todo mundo vai trocar de CRM, comprar módulo novo de IA, achando que o sistema vai resolver.",
+          "Só que o problema nunca foi a ferramenta. Foi o time que nunca foi treinado pra qualificar, seguir e fechar o que entra ali dentro."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "28 a 38 s",
+        "tela": "Time treinado faz o CRM funcionar",
+        "topicos": [
+          "Dá o mesmo CRM pra um time treinado dentro de um sistema e pra um time sem treino nenhum. O primeiro fecha. O segundo enterra lead.",
+          "Troca de ferramenta não resolve rotatividade de lead parado. Treino do time resolve."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "Giro News - O fim do CRM como conhecemos",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10Q3ZXdVdQSTlJdGEwb19kODlYT3pXdjdRZzVtVWpwaUgtM3FUN05DbTJreDVoN09fd0l1aTcwODhkQmlXWFFQVmd2MU1ta2RRX3Q5bG5fWWNYWHRWd3M5eTFncmI1SGg5dDlV?oc=5"
+    },
+    "cta": "comentar uma palavra"
+  },
+  {
+    "id": "2026-10-29-3",
+    "data": "2026-10-29",
+    "vaga": "vida",
+    "pilar": "Vida e identidade",
+    "formato": "bastidores",
+    "tema": "Hoje não tinha luta marcada, nem competição, nem prova. Treinei kickboxing, corri e fiz musculação do mesmo jeito",
+    "moral": "Time de vendas que só capricha quando tem reunião importante com o dono não bate meta com constância; quem treina sem jogo marcado é quem aparece quando a meta aperta",
+    "fala_com": "dono",
+    "nota_regua": 49,
+    "aberturas": [
+      "Hoje não tinha prova marcada. Treinei do mesmo jeito.",
+      "Ninguém tava me cobrando hoje. Fui treinar igual.",
+      "Pergunta: seu time só capricha quando você tá na call?"
+    ],
+    "tela_primeiro_quadro": "Sem jogo marcado. Treinei do mesmo jeito.",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Sem jogo marcado. Treinei do mesmo jeito.",
+        "topicos": [
+          "Hoje não tinha luta, não tinha competição, não tinha prova marcada no calendário."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 16 s",
+        "tela": "Kickboxing, corrida e musculação, mesmo sem prova",
+        "topicos": [
+          "Mesmo assim treinei kickboxing, corri e fiz musculação, igual eu faço todo santo dia.",
+          "E aí eu penso no time de vendas de muito empresário: só capricha quando o dono tá na call, quando tem reunião importante marcada."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "16 a 28 s",
+        "tela": "Atleta não treina só quando tem prova",
+        "topicos": [
+          "Só que atleta não treina só quando tem prova marcada. Treina todo dia, prova ou não prova, porque o corpo não sabe fingir no dia que importa.",
+          "Pensa comigo: o vendedor que só afia o discurso quando o dono tá olhando também não sabe fingir na hora que o cliente aperta."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "28 a 38 s",
+        "tela": "Quem treina sem jogo marcado aparece quando aperta",
+        "topicos": [
+          "Time que bate meta com constância é time que treina sem jogo marcado, não só antes da reunião com você.",
+          "Treino TODO DIA é isso: treinar quando ninguém tá vendo, pra aparecer inteiro quando todo mundo tá vendo."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "moldes.md - Linha de exposição (rotina de treino: kickboxing, corrida e musculação); segunda versão de 'Se torne obcecado e faça todos os dias as mesmas coisas' (quadro dele)",
+      "link": ""
+    },
+    "cta": ""
   }
 ]
