@@ -1,200 +1,5 @@
 [
   {
-    "id": "2026-10-23-1",
-    "data": "2026-10-23",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "palestrinha",
-    "tema": "Chefe que só cobra, funcionário que não rende",
-    "moral": "Time se forma com treino diário, não com cobrança",
-    "fala_com": "dono",
-    "nota_regua": 56,
-    "aberturas": [
-      "Cobrar meta todo fim de mês não forma vendedor nenhum.",
-      "Pensa comigo: sua reunião de vendas virou sessão de cobrança, e o número continua o mesmo.",
-      "Toda segunda você senta o time e cobra mais. Toda segunda seguinte, a cena se repete."
-    ],
-    "tela_primeiro_quadro": "Cobrar meta NÃO forma vendedor.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Cobrar meta NÃO forma vendedor.",
-        "topicos": [
-          "Cobrar meta todo fim de mês não forma vendedor nenhum."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "Reunião de cobrança, mesmo número todo mês",
-        "topicos": [
-          "Pensa comigo: toda segunda você senta o time, mostra o número que faltou e cobra mais.",
-          "Isso não ensina ninguém a vender melhor. Ensina o vendedor a ter medo de entrar na sua sala."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 27 s",
-        "tela": "7 anos de tatame me ensinaram isso",
-        "topicos": [
-          "Treinei 7 anos pra pisar num tatame de Mundial. Nunca vi um atleta virar campeão só de ouvir o técnico gritar o placar no intervalo.",
-          "Então troquei a reunião de cobrança por treino: toda semana a gente simula a ligação difícil antes dela virar venda perdida de verdade."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "27 a 35 s",
-        "tela": "Time treinado bate meta. Time cobrado, finge.",
-        "topicos": [
-          "Time não bate meta porque alguém grita mais alto. Bate porque treinou TODO DIA antes do jogo valer.",
-          "Isso é sistema. Grito é só susto."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "sem molde externo, tese própria a partir do mapa de conflitos do tese-conteudo.md (chefe que só cobra, funcionário que não rende) e da Regra 3 (prova pela trajetória)"
-    },
-    "fonte": {
-      "nome": "moldes.md - Regras de fato (7 anos até o Mundial de Budapeste 2018) e tese-conteudo.md (tabela de conflitos)",
-      "link": ""
-    },
-    "cta": "comentar uma palavra"
-  },
-  {
-    "id": "2026-10-23-2",
-    "data": "2026-10-23",
-    "vaga": "quente",
-    "pilar": "Tese e bandeira",
-    "formato": "narrado",
-    "tema": "Time que atende pedido, mas não vende",
-    "moral": "Vendedor conduz a conversa; atendente só responde. Isso se treina, cargo por cargo.",
-    "fala_com": "dono",
-    "nota_regua": 60,
-    "aberturas": [
-      "Vi uma matéria essa semana contando isso: empresa com time inteiro pagando salário de vendedor pra gente que só atende pedido.",
-      "Empresário, seu vendedor responde preço ou conduz a venda? São coisas bem diferentes.",
-      "Tem gente ganhando salário de vendedor pra fazer o trabalho de atendente. E o dono nem percebeu."
-    ],
-    "tela_primeiro_quadro": "Empresa paga salário de VENDEDOR pra quem só ATENDE.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Empresa paga salário de VENDEDOR pra quem só ATENDE.",
-        "topicos": [
-          "Vi uma matéria essa semana contando isso: empresa com time inteiro, pagando salário de vendedor, pra gente que só atende pedido."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "Atender pedido não é vender",
-        "topicos": [
-          "Pensa comigo: o cliente manda mensagem perguntando preço, o atendente responde o preço e espera o cliente decidir sozinho.",
-          "Isso não é venda. É balcão de informação com salário de vendedor."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 28 s",
-        "tela": "Cada cargo aqui treina o próprio playbook",
-        "topicos": [
-          "Aqui na KONE a gente separou isso: SDR treina o playbook de SDR, social seller treina o de social seller, vendedor treina o de closer.",
-          "Cada um treina pra CONDUZIR a conversa, não só responder ela."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "28 a 35 s",
-        "tela": "Vendedor conduz. Atendente responde.",
-        "topicos": [
-          "Então antes de contratar mais um vendedor, treine o time que você já tem pra conduzir, não só responder.",
-          "Time que conduz vende. Time que só responde, atende."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "pauta de notícia, não é molde de vídeo viral; reação ao tema com moral ligada aos playbooks por cargo (moldes.md)"
-    },
-    "fonte": {
-      "nome": "Portal Agora Tocantins - O custo de ter atendentes no lugar de vendedores",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzTnlkM25Oak1GZnpwRXZxeTNSUzRSSlhkbC03dTNSajhpZUJLaWpac0pLSkIyR1NXS1BoVVVjdG8xUHh4c1NNaVZsUGtJZXFqUVp2c2xBNjZOQTNyLTY0LVlHcTduck85ZkNsR1NjOUZUWGN4aWpxNmZpQ0Ridw?oc=5"
-    },
-    "cta": "comentar uma palavra"
-  },
-  {
-    "id": "2026-10-23-3",
-    "data": "2026-10-23",
-    "vaga": "vida",
-    "pilar": "Bastidor da KONE",
-    "formato": "bastidores",
-    "tema": "Vendedor novo aprende sozinho, no erro, com cliente real",
-    "moral": "Vendedor treina antes de ir pro campo; não aprende errando com o cliente pagando a conta",
-    "fala_com": "dono",
-    "nota_regua": 51,
-    "aberturas": [
-      "Vendedor novo não entra em ligação de cliente de verdade no primeiro dia aqui.",
-      "Pensa comigo: na maioria das empresas, o vendedor novo aprende errando com cliente de verdade até pegar o jeito.",
-      "Contratar vendedor novo é fácil. Treinar antes dele pegar o telefone de verdade é o difícil."
-    ],
-    "tela_primeiro_quadro": "Ninguém erra com cliente pagando a conta.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Ninguém erra com cliente pagando a conta.",
-        "topicos": [
-          "Vendedor novo não entra em ligação de cliente de verdade no primeiro dia aqui."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "Aprender ouvindo os outros ligarem",
-        "topicos": [
-          "Pensa comigo: na maioria das empresas, o vendedor novo aprende ouvindo os outros ligarem, tentando imitar, errando com cliente de verdade até pegar o jeito.",
-          "E cada erro desse é um lead que não volta."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 26 s",
-        "tela": "Treino presencial antes do cliente real",
-        "topicos": [
-          "Aqui a gente treina a ligação, a objeção e a condução antes do vendedor pegar o telefone pra valer.",
-          "É treino presencial, com o time todo, antes do cliente real entrar na história."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "26 a 33 s",
-        "tela": "Treina antes. Erra depois, menos.",
-        "topicos": [
-          "Time que bate meta não aprendeu errando com o cliente pagando a conta.",
-          "Aprendeu treinando antes, TODO DIA, até a ligação ficar automática."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "sem molde externo; bastidor da operação real (KONE, montagem do time) descrito em moldes.md"
-    },
-    "fonte": {
-      "nome": "moldes.md - O que ele tem rodando (KONE sócio operador desde outubro de 2026; Treinamento de time presencial)",
-      "link": ""
-    },
-    "cta": "seguir"
-  },
-  {
     "id": "2026-10-24-1",
     "data": "2026-10-24",
     "vaga": "tese",
@@ -1369,5 +1174,202 @@
       "link": ""
     },
     "cta": ""
+  },
+  {
+    "id": "2026-10-30-1",
+    "data": "2026-10-30",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "Dono paga caro pra roubar o vendedor \"pronto\" da concorrência, achando que resolve o time, e três meses depois ele não entrega nem a metade do que entregava lá",
+    "moral": "Vendedor não nasce pronto, ninguém nasce lutando; o vendedor \"pronto\" que você contratou também foi formado dentro de um sistema, e fora dele, sem treino diário, não repete o resultado sozinho",
+    "fala_com": "dono",
+    "nota_regua": 53,
+    "aberturas": [
+      "Você pagou uma fortuna pra roubar o melhor vendedor da concorrência.",
+      "Empresário, seu vendedor \"pronto\" já decepcionou você nos primeiros três meses?",
+      "Vendedor não nasce pronto. Ninguém nasce lutando."
+    ],
+    "tela_primeiro_quadro": "Pagou caro pelo vendedor \"pronto\" da concorrência?",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Pagou caro pelo vendedor \"pronto\" da concorrência?",
+        "topicos": [
+          "Você pagou uma fortuna pra roubar o melhor vendedor da concorrência.",
+          "Três meses depois, ele não vendia nem a metade do que vendia lá."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Vendedor bom não é vendedor pronto",
+        "topicos": [
+          "Pensa comigo: você contratou a pessoa, não contratou o sistema que formava essa pessoa todo dia.",
+          "Só que sem o treino diário, sem o script, sem a cobrança de lá, o vendedor \"pronto\" volta a ser só um talento perdido."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 28 s",
+        "tela": "Ninguém nasce pronto",
+        "topicos": [
+          "Vendedor não nasce pronto. Ninguém nasce lutando.",
+          "Eu treinei 7 anos até pisar no tatame de um Mundial, e mesmo assim não sobrevivo um round sem treinar toda semana.",
+          "E aí por que você acha que um vendedor sobrevive sem treino, só porque já vendeu bem em outro lugar?"
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "28 a 38 s",
+        "tela": "Time se forma, não se contrata pronto",
+        "topicos": [
+          "Então o vendedor que você contratou caro não é ruim. Ele só tá fora do sistema que fazia ele parecer bom.",
+          "Time que bate meta tem treino diário dentro de um sistema que forma gente, não depende de achar gente pronta."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "moldes.md - Regras de fato (Taekwondo aos 9 anos com bolsa; titular no Mundial de Budapeste em 2018) e frase de ataque pronta \"Vendedor não nasce pronto\"; tangente a \"Como contratar gente boa\" do quadro dele, mas ângulo distinto (mito do vendedor pronto, não o processo de contratar)",
+      "link": ""
+    },
+    "cta": "Comenta PRONTO se já contratou vendedor caro que não entregou."
+  },
+  {
+    "id": "2026-10-30-2",
+    "data": "2026-10-30",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "comparação",
+    "tema": "No treino da semana, dois vendedores do mesmo time batem a mesma meta todo mês: um sempre fechando no desconto, o outro sempre fechando no preço cheio",
+    "moral": "Vendedor sem treino não sabe mostrar resultado, então vende o único argumento que sobrou, o preço; vendedor treinado vende resultado e fecha sem furar a margem",
+    "fala_com": "dono",
+    "nota_regua": 53,
+    "aberturas": [
+      "No treino dessa semana, separei dois vendedores do mesmo time. Os dois batem a mesma meta.",
+      "Pobre vende desconto. Rico vende resultado. Isso vale pra cliente e vale pro seu vendedor.",
+      "Empresário, o seu vendedor que sempre desconta bate a mesma meta do que nunca desconta?"
+    ],
+    "tela_primeiro_quadro": "Mesma meta. Um vende desconto, o outro vende resultado.",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Mesma meta. Métodos opostos.",
+        "topicos": [
+          "No treino dessa semana, separei dois vendedores do mesmo time.",
+          "Os dois batem a mesma meta todo mês."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Um vende desconto, o outro vende resultado",
+        "topicos": [
+          "Só que um fecha sempre no desconto, e o outro fecha sempre no preço cheio.",
+          "Pensa comigo: se os dois batem meta, por que um tá destruindo a sua margem e o outro não?"
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 28 s",
+        "tela": "Desconto é falta de treino, não falta de preço",
+        "topicos": [
+          "E aí eu vi o que separa os dois: não é talento, é treino.",
+          "Quem desconta não sabe mostrar resultado, então vende o único argumento que sobrou: o preço."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "28 a 38 s",
+        "tela": "Treine pra vender resultado, não desconto",
+        "topicos": [
+          "Então antes de cortar preço na próxima negociação, pergunta: seu time foi treinado pra vender resultado, ou só aprendeu a pedir desconto pro dono?",
+          "Time que bate meta sem furar a margem é time treinado TODO DIA pra defender valor."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/Deh3Ay2tZK0/",
+      "perfil": "ecauduro",
+      "vezes": "58.6",
+      "molde": "frase-tese seca sobre comportamento e preço (\"Pobre compra desconto, rico compra resultado\"); mantida a estrutura comparativa, o ritmo e o ponto de virada, trocado o assunto para desconto x resultado dentro do time de vendas"
+    },
+    "fonte": {
+      "nome": "outliers.csv - ecauduro, 58.6x; cena ancorada no treinamento de time presencial (moldes.md, inventário)",
+      "link": "https://www.instagram.com/reel/Deh3Ay2tZK0/"
+    },
+    "cta": "Comenta RESULTADO se seu vendedor fecha sem desconto."
+  },
+  {
+    "id": "2026-10-30-3",
+    "data": "2026-10-30",
+    "vaga": "vida",
+    "pilar": "Bastidor da KONE",
+    "formato": "bastidores",
+    "tema": "Time comercial pequeno onde todo vendedor faz a venda inteira sozinho, do primeiro contato ao fechamento, e nada sai redondo",
+    "moral": "Time que bate meta com constância não é o time onde todo mundo faz tudo; é o time com função clara, cada papel treinado no que faz",
+    "fala_com": "dono",
+    "nota_regua": 51,
+    "aberturas": [
+      "Essa semana vi um time comercial pequeno onde todo vendedor fazia a venda inteira, sozinho.",
+      "Tenta vender assim: todo mundo no time qualifica, atende e fecha. Nada sai redondo.",
+      "Na KONE a gente não deixa todo vendedor fazer tudo. E foi isso que mudou o resultado."
+    ],
+    "tela_primeiro_quadro": "Time pequeno, todo mundo fazendo tudo. Nada sai redondo.",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Time pequeno, todo mundo fazendo tudo",
+        "topicos": [
+          "Essa semana vi um time comercial pequeno onde todo vendedor fazia a venda inteira, do primeiro contato até o fechamento."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 16 s",
+        "tela": "Nada sai redondo",
+        "topicos": [
+          "Só que cada vendedor gastava energia qualificando lead frio, esquentando relação e tentando fechar, tudo sozinho, tudo ao mesmo tempo.",
+          "Pensa comigo: quando uma pessoa só faz um pouco de cada etapa, nenhuma etapa fica boa."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "16 a 28 s",
+        "tela": "Na KONE cada papel é treinado separado",
+        "topicos": [
+          "Então na KONE a gente separa: um treina pra qualificar quem chega, outro treina pra esquentar a relação nas redes, outro treina só pra fechar.",
+          "E aí cada um fica bom numa coisa só, em vez de mediano em três."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "28 a 36 s",
+        "tela": "Função clara. Time fecha redondo.",
+        "topicos": [
+          "Time que bate meta com constância não é o time onde todo mundo faz tudo. É o time com função clara, cada papel treinado no que faz."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "moldes.md - O que ele tem rodando (KONE: sócio operador desde outubro de 2026, montando o time de SDR, social seller e vendedor)",
+      "link": ""
+    },
+    "cta": "Comenta FUNÇÃO se seu time ainda faz tudo igual."
   }
 ]
