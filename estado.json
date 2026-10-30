@@ -157,5 +157,10 @@
     "erro": "401 no userinfo (token vencido ou sem openid/profile?): {\"status\":401,\"serviceErrorCode\":65600,\"code\":\"INVALID_ACCESS_TOKEN\",\"message\":\"Invalid access token\"}",
     "tentativas": 5,
     "em": "2026-10-29T16:10:56+00:00"
+  },
+  "tweet-06": {
+    "status": "publicado",
+    "media_id": "17969861001077215",
+    "em": "2026-10-30T16:01:29+00:00"
   }
 }
