@@ -1371,5 +1371,201 @@
       "link": ""
     },
     "cta": "Comenta FUNÇÃO se seu time ainda faz tudo igual."
+  },
+  {
+    "id": "2026-10-31-1",
+    "data": "2026-10-31",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "comparação",
+    "tema": "O dono entra na call pra salvar a venda sempre que o vendedor trava, e isso se repete todo mês",
+    "moral": "Sistema que não depende do dono: vendedor treinado fecha sozinho a call; se só fecha com o dono no meio, o time não existe, existe um plantão",
+    "fala_com": "dono",
+    "nota_regua": 54,
+    "aberturas": [
+      "Empresário, toda vez que o seu vendedor trava numa call, quem entra pra salvar a venda é você?",
+      "Pensa comigo: se você sair de férias duas semanas, sua meta do mês bate sozinha?",
+      "Seu time fecha venda. Ou é você que fecha, só que pelo telefone do seu vendedor?"
+    ],
+    "tela_primeiro_quadro": "Quem fecha a venda: seu vendedor ou você pelo telefone dele?",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Quem fecha a venda: seu vendedor ou você pelo telefone dele?",
+        "topicos": [
+          "Empresário, toda vez que o seu vendedor trava numa call importante, quem entra pra salvar a venda é você?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Call trava. Vendedor chama o dono.",
+        "topicos": [
+          "Pensa comigo: isso já aconteceu esse mês, não aconteceu?",
+          "Só que, se isso acontece sempre, o problema não é aquela call. É que o seu time não foi treinado pra fechar sem você."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 25 s",
+        "tela": "Você não tem time. Tem plantão.",
+        "topicos": [
+          "E aí o que parece força do dono é, na verdade, um buraco no sistema.",
+          "Enquanto for você entrando na call, o seu time vai continuar chamando você."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 35 s",
+        "tela": "Sistema que fecha sem o dono",
+        "topicos": [
+          "Então o trabalho não é você aprender a fechar melhor pelo telefone do seu vendedor.",
+          "É treinar o vendedor pra conduzir a call do início ao fim, sem precisar de você no meio."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "originado da Regra 1 do moldes.md (dependência do dono na call), sem vídeo de referência"
+    },
+    "fonte": {
+      "nome": "moldes.md, Regra 1 e tese-conteudo.md, tabela de conflitos",
+      "link": ""
+    },
+    "cta": "vazio"
+  },
+  {
+    "id": "2026-10-31-2",
+    "data": "2026-10-31",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "dinamismo",
+    "tema": "Dono não sabe diferenciar, só ouvindo a call, um vendedor treinado de um que decorou o script",
+    "moral": "Vendedor treinado aparece na call, não no currículo; cinco sinais mostram quem treinou de verdade e quem só decorou o script",
+    "fala_com": "dono",
+    "nota_regua": 48,
+    "aberturas": [
+      "5 sinais que aparecem na call e mostram se o seu vendedor foi treinado ou só decorou o script.",
+      "Empresário, você sabe diferenciar um vendedor treinado de um vendedor decorado só ouvindo a call dele?",
+      "Separei 5 coisas que só aparecem na call de quem passou por treino de verdade."
+    ],
+    "tela_primeiro_quadro": "5 sinais de vendedor TREINADO numa call",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "5 sinais de vendedor TREINADO numa call",
+        "topicos": [
+          "Separei 5 sinais que só aparecem na call de quem passou por treino de verdade."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 18 s",
+        "tela": "1. Muda o tom no silêncio / 2. Pergunta antes do preço / 3. Deixa o cliente falar mais",
+        "topicos": [
+          "Primeiro: ele muda o tom quando o cliente fica calado, em vez de preencher o silêncio com desconto.",
+          "Segundo: ele pergunta o que travou a decisão antes de falar preço.",
+          "Terceiro: ele deixa o cliente falar mais do que ele mesmo fala."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "18 a 28 s",
+        "tela": "4. Anota o que o cliente disse / 5. Fecha sem descontar",
+        "topicos": [
+          "Quarto: ele anota o que o cliente falou, não o que o script manda falar.",
+          "Quinto: ele sabe fechar sem precisar cortar preço pra isso."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "28 a 35 s",
+        "tela": "Faltou algum? Comenta aqui.",
+        "topicos": [
+          "Então, se o seu vendedor faz os cinco, ele foi treinado.",
+          "Se faz um ou dois, ele ainda está decorando script. Faltou algum? Comenta aqui."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/Depbw6YtTLC/",
+      "perfil": "joaokissel",
+      "vezes": "11.2",
+      "molde": "lista de itens numerados encerrada com pergunta de comentário (Faltou algum?); Regra 2: mesma estrutura de lista e pergunta final, troca-se o assunto do perfil original para sinais de vendedor treinado"
+    },
+    "fonte": {
+      "nome": "outliers.csv, joaokissel, 18/10/2026",
+      "link": "https://www.instagram.com/reel/Depbw6YtTLC/"
+    },
+    "cta": "comentar uma palavra"
+  },
+  {
+    "id": "2026-10-31-3",
+    "data": "2026-10-31",
+    "vaga": "vida",
+    "pilar": "Bastidor da KONE",
+    "formato": "bastidores",
+    "tema": "Dono só descobre quem bateu meta e quem não bateu quando o mês já fechou",
+    "moral": "Time com treino diário tem placar visível todo dia; quem só olha o fechamento do mês decide tarde demais",
+    "fala_com": "dono",
+    "nota_regua": 55,
+    "aberturas": [
+      "Esse é o quadro que a gente olha todo dia dentro da KONE, não só no fim do mês.",
+      "Empresário, você só descobre quem bateu meta quando o mês já fechou?",
+      "Esse aqui é o placar real do time essa semana. Mostro o que bateu e o que não bateu."
+    ],
+    "tela_primeiro_quadro": "O placar do time essa semana, dentro da KONE",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "O placar do time essa semana",
+        "topicos": [
+          "Esse é o quadro que a gente olha todo dia aqui dentro da KONE, não só no fim do mês."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "A maioria só olha o fechamento do mês",
+        "topicos": [
+          "Pensa comigo: a maioria dos donos só descobre quem bateu meta quando o mês já fechou.",
+          "Só que aí já é tarde pra treinar, pra corrigir, pra trocar quem não está rendendo."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 25 s",
+        "tela": "Aqui o placar é todo dia",
+        "topicos": [
+          "E aí a gente virou isso ao contrário: o placar fica visível todo dia, cada vendedor vê o número dele.",
+          "Quem está travando aparece na terça, não no dia 30."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 33 s",
+        "tela": "Treino diário precisa de placar diário",
+        "topicos": [
+          "Então time que bate meta com constância não é o time mais talentoso.",
+          "É o time que tem o próprio resultado na cara, todo dia, dentro de um sistema que treina em cima disso."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "bastidor próprio da operação (quadro/placar da KONE), sem vídeo de referência externo"
+    },
+    "fonte": {
+      "nome": "moldes.md, inventário (sistemas próprios: quadro)",
+      "link": ""
+    },
+    "cta": "vazio"
   }
 ]
