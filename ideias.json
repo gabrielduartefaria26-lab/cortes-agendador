@@ -1367,5 +1367,202 @@
       "link": ""
     },
     "cta": ""
+  },
+  {
+    "id": "2026-11-02-1",
+    "data": "2026-11-02",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "Dono cobra meta todo mês, toda segunda, mas nunca treinou o vendedor nenhum dia desse mês",
+    "moral": "Time se forma com treino diário, não com cobrança",
+    "fala_com": "dono",
+    "nota_regua": 54,
+    "aberturas": [
+      "Empresário, toda segunda você entra na reunião e cobra meta. Agora me diz: quantas vezes você treinou esse vendedor esse mês?",
+      "Pensa comigo: você grita meta todo dia 25. Treina o time quantos dias por mês?",
+      "Cobrar meta de quem você nunca treinou é cobrar gol de quem nunca treinou."
+    ],
+    "tela_primeiro_quadro": "Você cobra meta todo mês. Treina quantos dias?",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Você cobra meta todo mês. Treina quantos dias?",
+        "topicos": [
+          "Empresário, toda segunda você entra na reunião e cobra meta."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Cobrança sem treino nenhum.",
+        "topicos": [
+          "Só que eu quero saber uma coisa: quantas vezes você treinou esse vendedor esse mês?",
+          "Treino de verdade, não reunião de resultado.",
+          "Porque cobrar meta de quem nunca treinou é cobrar gol de quem nunca treinou."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 25 s",
+        "tela": "Time vira time de uma estrela só.",
+        "topicos": [
+          "E aí o time vira time de uma estrela só, esperando o melhor vendedor segurar a meta sozinho.",
+          "Então não é motivação que falta. É treino."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 32 s",
+        "tela": "Treino diário, não cobrança.",
+        "topicos": [
+          "Time que bate meta tem treino TODO DIA, não reunião de cobrança no fim do mês.",
+          "Cobrança sem treino não forma vendedor. Só forma vendedor cansado."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "original, sem modelagem externa; tese seca em cima do par cobrança sem treino / treino diário do tese-conteudo.md"
+    },
+    "fonte": {
+      "nome": "",
+      "link": ""
+    },
+    "cta": "Comenta quantos dias por mês você treina seu time, de verdade."
+  },
+  {
+    "id": "2026-11-02-2",
+    "data": "2026-11-02",
+    "vaga": "quente",
+    "pilar": "Bastidor da KONE",
+    "formato": "bastidores",
+    "tema": "Desafia um vendedor do time, sem preparo, a vender um produto que ele nunca vendeu antes, na frente de todo mundo",
+    "moral": "Vendedor treinado em processo vende qualquer coisa; vendedor que só memoriza script trava assim que o cliente sai do combinado",
+    "fala_com": "time",
+    "nota_regua": 59,
+    "aberturas": [
+      "Pensa comigo: separei um produto que meu vendedor nunca vendeu na vida e mandei ele me vender agora, sem preparo.",
+      "Desafiei um vendedor aqui da KONE a vender, do nada, um produto que ele nunca viu.",
+      "Sem script pronto, sem decorar nada: só o processo que a gente treina toda semana."
+    ],
+    "tela_primeiro_quadro": "Desafiei meu vendedor a vender algo que ele nunca vendeu.",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Desafiei meu vendedor a vender algo que ele nunca vendeu.",
+        "topicos": [
+          "Pensa comigo: separei um produto que meu vendedor nunca vendeu na vida e mandei ele me vender agora, sem preparo."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Sem script pronto, sem decorar nada.",
+        "topicos": [
+          "Sem script pronto. Sem decorar nada. Só o processo que a gente treina toda semana aqui na KONE.",
+          "Porque vendedor que só memoriza o que falar trava assim que o cliente sai do combinado."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 28 s",
+        "tela": "Processo aguenta onde script quebra.",
+        "topicos": [
+          "Aí dá pra ver na hora quem foi treinado em processo e quem só decorou script.",
+          "O vendedor treinado em processo pergunta, escuta e conduz, mesmo sem conhecer o produto."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "28 a 38 s",
+        "tela": "Treine processo, não só produto.",
+        "topicos": [
+          "Vendedor treinado em processo vende qualquer coisa.",
+          "Vendedor que só decora script trava fora do roteiro, e a venda que sai da sua mão vai junto."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/DeMbtvsgvQp/",
+      "perfil": "ohenriquecedor",
+      "vezes": "83.3",
+      "molde": "trecho real de treinamento desafiando alguém do time a vender um produto que não conhece; mantida a estrutura do desafio filmado ao vivo, trocado o produto misterioso por um produto qualquer e o foco virou processo de vendas (não produto) dentro do treino da KONE"
+    },
+    "fonte": {
+      "nome": "outliers.csv - ohenriquecedor, 07/10/2026, 83.3x",
+      "link": "https://www.instagram.com/reel/DeMbtvsgvQp/"
+    },
+    "cta": "Comenta PROCESSO se você também treina seu time em processo, não só em produto."
+  },
+  {
+    "id": "2026-11-02-3",
+    "data": "2026-11-02",
+    "vaga": "vida",
+    "pilar": "Vida e identidade",
+    "formato": "palestrinha",
+    "tema": "Quase nenhum time de vendas treina, porque treinar dá medo de falhar na frente de todo mundo",
+    "moral": "Disciplina vence motivação; treinar pouco, mas todo dia, já coloca seu time na frente de quase todo mundo que não treina nada",
+    "fala_com": "dono",
+    "nota_regua": 58,
+    "aberturas": [
+      "Eu treinei 7 anos até pisar no tatame de um Mundial. E aprendi uma coisa que ninguém me contou antes: é mais fácil não treinar do que treinar e ainda assim perder.",
+      "A maioria dos times de vendas não treina NADA. Então treinar até um pouco já coloca seu time na frente de quase todo mundo.",
+      "Pensa comigo: se é mais fácil ficar parado do que treinar e falhar, por que seu time tá parado?"
+    ],
+    "tela_primeiro_quadro": "É mais fácil não treinar do que treinar e falhar.",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "É mais fácil não treinar do que treinar e falhar.",
+        "topicos": [
+          "Eu treinei 7 anos até pisar no tatame de um Mundial.",
+          "E aprendi uma coisa que ninguém te conta: é mais fácil ficar parado do que treinar e ainda assim perder."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Quase nenhum time treina de verdade.",
+        "topicos": [
+          "Por isso quase nenhum time de vendas treina. Treinar dá medo de falhar na frente de todo mundo.",
+          "Então o time para de treinar, e o dono acha que o problema é motivação."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 25 s",
+        "tela": "Treinar pouco já vence quase todo mundo.",
+        "topicos": [
+          "Só que o time que treina, mesmo pouco, já tá na frente de quase todo mundo que não treina nada.",
+          "Isso valeu no tatame. Vale igual em time de vendas."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 33 s",
+        "tela": "Disciplina vence motivação. Treino é TODO DIA.",
+        "topicos": [
+          "Disciplina vence motivação. Treino é TODO DIA, não só quando dá ânimo.",
+          "Você não precisa ser o melhor time do mercado. Precisa ser o time que treina."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/DepYm6_BI9E/",
+      "perfil": "hormozi",
+      "vezes": "111.4",
+      "molde": "conselho direto em uma frase sobre esforço versus medo de falhar; mantida a estrutura de frase-conselho curta, trocado o tema de produtividade genérica pelo medo de treinar o time de vendas e falhar na frente dele"
+    },
+    "fonte": {
+      "nome": "moldes.md - Regras de fato (trajetória: Taekwondo aos 9, Mundial de Budapeste 2018)",
+      "link": ""
+    },
+    "cta": "seguir"
   }
 ]
