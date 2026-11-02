@@ -187,7 +187,7 @@
   "li:car06-quem-conduz": {
     "status": "erro",
     "erro": "401 no userinfo (token vencido ou sem openid/profile?): {\"status\":401,\"serviceErrorCode\":65600,\"code\":\"INVALID_ACCESS_TOKEN\",\"message\":\"Invalid access token\"}",
-    "tentativas": 1,
-    "em": "2026-11-02T16:03:17+00:00"
+    "tentativas": 2,
+    "em": "2026-11-02T16:05:20+00:00"
   }
 }
