@@ -1,398 +1,5 @@
 [
   {
-    "id": "2026-10-27-1",
-    "data": "2026-10-27",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "palestrinha",
-    "tema": "Dono acredita que seu melhor vendedor é o time, e teme perder a meta se ele sair",
-    "moral": "Time de uma estrela só não é time, é um talento com prazo de validade; sistema de treino diário é o que não depende de ninguém sair",
-    "fala_com": "dono",
-    "nota_regua": 56,
-    "aberturas": [
-      "Se o seu melhor vendedor sair amanhã, sua meta vai junto?",
-      "Pensa comigo: você tem um time ou você tem um talento com data de validade?",
-      "Empresário, responde rápido: se o cara que mais vende pedir as contas hoje, você perde a meta do mês?"
-    ],
-    "tela_primeiro_quadro": "Se ele sair amanhã, sua meta vai junto?",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Se ele sair amanhã, sua meta vai junto?",
-        "topicos": [
-          "Se o seu melhor vendedor sair amanhã, a sua meta vai junto com ele?"
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "Isso não é time. É um time de uma estrela só.",
-        "topicos": [
-          "Pensa comigo: se a resposta for sim, você não tem um time de vendas. Você tem um time de uma estrela só.",
-          "E isso quer dizer que a sua empresa inteira depende do humor e da disponibilidade de uma pessoa."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 26 s",
-        "tela": "Treino diário forma o time. Sorte forma o talento.",
-        "topicos": [
-          "Só que vendedor bom não nasce pronto. Ele se forma treinando todo dia, dentro de um sistema.",
-          "E quando o sistema treina o time inteiro, o seu melhor vendedor vira referência, não vira risco."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "26 a 35 s",
-        "tela": "Troque talento por sistema.",
-        "topicos": [
-          "Então para de rezar pra ele não sair e começa a treinar o time inteiro TODO DIA.",
-          "Time que bate meta sem você e sem ele é time. O resto é sorte com prazo de validade."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "moldes.md - Frases de ataque prontas (não copiada de outlier)",
-      "link": ""
-    },
-    "cta": "Comenta: você tem time ou tem um talento com prazo de validade?"
-  },
-  {
-    "id": "2026-10-27-2",
-    "data": "2026-10-27",
-    "vaga": "quente",
-    "pilar": "Tese e bandeira",
-    "formato": "trivial",
-    "tema": "Dono acha que sabe liderar o time comercial de cabeça, sem nunca ter medido isso",
-    "moral": "Gestão de time comercial não é instinto nem faro bom, é treino diário dentro de um sistema que continua de pé sem quem criou ele",
-    "fala_com": "dono",
-    "nota_regua": 48,
-    "aberturas": [
-      "Vamos ver se você realmente entende de gestão de time comercial.",
-      "Empresário, três perguntas rápidas. Se você errar duas, seu time não tem sistema, tem sorte.",
-      "Pensa comigo: você sabe gerir vendedor ou só sabe cobrar meta?"
-    ],
-    "tela_primeiro_quadro": "Vamos ver se você entende de gestão de time comercial",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Vamos ver se você entende de gestão de time comercial",
-        "topicos": [
-          "Vamos ver se você realmente entende de gestão de time comercial."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 16 s",
-        "tela": "Pergunta 1: seu vendedor treina ou só vende?",
-        "topicos": [
-          "Primeira pergunta: hoje, na sua empresa, o vendedor treina ou ele só vende?",
-          "Se a resposta foi só vende, pensa comigo: ele tá reaprendendo com o erro, no ao vivo, com a sua grana."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "16 a 28 s",
-        "tela": "Pergunta 2: se ele sair, o próximo já sabe o caminho?",
-        "topicos": [
-          "Segunda pergunta: se esse vendedor saísse hoje, o próximo já teria onde aprender o jeito certo de vender aqui dentro?",
-          "E aí a maioria do dono trava. Porque o conhecimento tá na cabeça de uma pessoa, não dentro de um sistema."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "28 a 38 s",
-        "tela": "Gestão de time não é instinto. É treino TODO DIA.",
-        "topicos": [
-          "Então gerir time comercial não é ter faro bom, nem nascer com jeito de líder.",
-          "É treinar todo dia, dentro de um sistema que continua de pé mesmo quando a pessoa que criou ele não está na sala."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "https://www.instagram.com/reel/DejzlnqJtv9/",
-      "perfil": "ecauduro",
-      "vezes": "51.8",
-      "molde": "gancho-quiz provocativo (\"Vamos ver se você realmente entende de X\"); mantém a estrutura e troca psicologia de vendas por gestão de time comercial"
-    },
-    "fonte": {
-      "nome": "outliers.csv - ecauduro, 16/10/2026 (grupo gabriel)",
-      "link": "https://www.instagram.com/reel/DejzlnqJtv9/"
-    },
-    "cta": "Comenta quantas você acertou: 0, 1 ou 2."
-  },
-  {
-    "id": "2026-10-27-3",
-    "data": "2026-10-27",
-    "vaga": "vida",
-    "pilar": "Bastidor da KONE",
-    "formato": "bastidores",
-    "tema": "Reunião de resultado vira reunião de motivação, e ninguém sai sabendo o que vai mudar na segunda",
-    "moral": "Prestação de contas semanal, não motivação, é o que sustenta o treino diário",
-    "fala_com": "time",
-    "nota_regua": 49,
-    "aberturas": [
-      "Toda sexta, meu time se senta e eu leio o placar da semana em voz alta.",
-      "Pensa comigo: reunião de vendas devia animar o time ou mostrar pra ele onde ele travou?",
-      "Eu não faço reunião de motivação com o meu time. Eu faço prestação de contas."
-    ],
-    "tela_primeiro_quadro": "Toda sexta eu leio o placar da semana em voz alta",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Toda sexta eu leio o placar da semana em voz alta",
-        "topicos": [
-          "Toda sexta, meu time se senta e eu leio o placar da semana em voz alta."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 16 s",
-        "tela": "Não tem onde esconder quem não bateu meta",
-        "topicos": [
-          "Não é motivacional. Não tem slide bonito, não tem música. Não tem onde esconder quem bateu e quem não bateu meta.",
-          "E aí todo mundo tenta fugir desse tipo de reunião, porque ninguém gosta de ser visto travando."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "16 a 28 s",
-        "tela": "Quem vê o placar toda semana não trava sozinho",
-        "topicos": [
-          "Só que é exatamente isso que treina time. Atleta vê o próprio resultado toda semana, não só na final.",
-          "Quando o vendedor sabe que o placar vai ser lido na sexta, ele treina a semana inteira diferente."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "28 a 37 s",
-        "tela": "Treino TODO DIA. Placar TODA SEMANA.",
-        "topicos": [
-          "Então não é a palestra de motivação que forma vendedor. É saber que o placar vai ser lido, toda sexta, na cara de todo mundo.",
-          "Monta o seu ritual de placar. Depois me conta se o seu time continua escondendo número de você."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "segunda versão - moldes.md, 'Dia de fechamento (bater meta)' (Ideias dele esperando gravação)",
-      "link": ""
-    },
-    "cta": "Comenta: você já leu o placar pro seu time essa semana?"
-  },
-  {
-    "id": "2026-10-28-1",
-    "data": "2026-10-28",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "palestrinha",
-    "tema": "Dono paga palestra de vendas cara, o time sai animado na sexta e na segunda está tudo igual",
-    "moral": "Time não bate meta com evento de motivação. Bate meta com treino TODO DIA dentro de um sistema",
-    "fala_com": "dono",
-    "nota_regua": 59,
-    "aberturas": [
-      "Empresário, quanto você já pagou por um treinamento de vendas que animou o time na sexta e sumiu na segunda?",
-      "Pensa comigo. Seu time saiu empolgado da última palestra de vendas. Quanto tempo durou?",
-      "Vendedor não nasce pronto, e treinamento de um dia também não forma vendedor nenhum."
-    ],
-    "tela_primeiro_quadro": "Quanto custou a palestra que durou até segunda?",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Quanto custou a palestra que durou até segunda?",
-        "topicos": [
-          "Empresário, quanto você já pagou por um treinamento de vendas que animou o time na sexta e sumiu na segunda?"
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "Palestra anima. Treino forma.",
-        "topicos": [
-          "Pensa comigo. O time volta da palestra empolgado, fala alto, promete fechar tudo.",
-          "Só que chega quarta-feira e o vendedor liga igual ligava antes, erra a mesma objeção, perde pelo mesmo motivo."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "Isso não é falta de vontade.",
-        "topicos": [
-          "E aí o dono acha que o problema foi o vendedor, ou que precisava de outra palestra, mais forte.",
-          "Só que palestra de vendas é vídeo motivacional de academia: te anima na sexta e some na segunda."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 35 s",
-        "tela": "Treino é TODO DIA.",
-        "topicos": [
-          "Time que bate meta não teve um dia de treino. Tem treino TODO DIA, dentro de um sistema que não depende de motivação pra continuar de pé.",
-          "Então antes de pagar a próxima palestra, pergunta pra você mesmo: isso vira rotina ou vira festa de sexta?"
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "sem molde externo; tese original a partir do inimigo 'treino de um dia' do moldes.md e do conflito 'animar e desanimar' do tese-conteudo.md"
-    },
-    "fonte": {
-      "nome": "sem fato externo; frase de ataque já aprovada no moldes.md",
-      "link": ""
-    },
-    "cta": "comentar TREINO"
-  },
-  {
-    "id": "2026-10-28-2",
-    "data": "2026-10-28",
-    "vaga": "quente",
-    "pilar": "Tese e bandeira",
-    "formato": "dinamismo",
-    "tema": "Sinais do dia a dia que mostram que o time comercial nunca passou por treino de verdade",
-    "moral": "Sinal de time sem treino aparece todo dia. Quem treina todo dia não deixa esses sinais aparecerem",
-    "fala_com": "dono",
-    "nota_regua": 50,
-    "aberturas": [
-      "Empresário, 3 sinais de que seu time comercial nunca treinou de verdade. Fica até o final que o terceiro dói.",
-      "Se o seu vendedor faz 2 destes 3 sinais, ele não foi treinado. Foi solto.",
-      "Vou listar 3 sinais de time sem treino. Comenta se faltou algum."
-    ],
-    "tela_primeiro_quadro": "3 sinais de time que nunca treinou de verdade",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "3 sinais de time que nunca treinou de verdade",
-        "topicos": [
-          "Empresário, 3 sinais de que seu time comercial nunca passou por treino de verdade. Fica até o final que o terceiro dói."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 18 s",
-        "tela": "1. Trava na mesma objeção todo mês.",
-        "topicos": [
-          "Primeiro sinal: ele trava na mesma objeção todo mês e continua sem saber o que responder.",
-          "Segundo sinal: ele desconta pra fechar rápido, porque nunca aprendeu a perguntar o que travou a decisão.",
-          "Terceiro sinal: ele empurra o script decorado, mesmo quando o cliente mudou de postura na ligação."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "18 a 28 s",
-        "tela": "O time só mostra o que aprendeu.",
-        "topicos": [
-          "Pensa comigo. Nenhum desses três sinais é falta de talento. É treino que nunca aconteceu.",
-          "Time não erra por acaso. Time erra onde ninguém treinou."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "28 a 35 s",
-        "tela": "Faltou algum?",
-        "topicos": [
-          "Sinal de time sem treino aparece todo dia, até você treinar todo dia dentro de um sistema.",
-          "Faltou algum sinal que o seu time também tem? Comenta aqui."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "https://www.instagram.com/reel/Depbw6YtTLC/",
-      "perfil": "joaokissel",
-      "vezes": "11.2",
-      "molde": "lista com pergunta de comentário ao final ('Faltou algum?'); mantida a estrutura e trocado o assunto pra sinais de time comercial sem treino"
-    },
-    "fonte": {
-      "nome": "sem fato externo citado; lista observacional",
-      "link": ""
-    },
-    "cta": "comentar o sinal que faltou"
-  },
-  {
-    "id": "2026-10-28-3",
-    "data": "2026-10-28",
-    "vaga": "vida",
-    "pilar": "Vida e identidade",
-    "formato": "cine",
-    "tema": "O preço que ele pagou pra virar atleta de Seleção, e o preço que está pagando agora pra montar a KONE",
-    "moral": "Vendedor se forma como atleta se forma: ninguém vê o preço, só vê o resultado",
-    "fala_com": "dono",
-    "nota_regua": 52,
-    "aberturas": [
-      "O pódio aparece pra todo mundo ver. O preço de chegar lá não aparece.",
-      "Comecei no Taekwondo aos 9 anos, com bolsa. Essa parte da história ninguém posta.",
-      "Todo mundo quer o resultado. Quase ninguém quer pagar o treino que vem antes dele."
-    ],
-    "tela_primeiro_quadro": "O pódio aparece. O preço não aparece.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "O pódio aparece. O preço não aparece.",
-        "topicos": [
-          "O pódio aparece pra todo mundo ver. O preço de chegar lá não aparece."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 18 s",
-        "tela": "Taekwondo aos 9 anos, com bolsa.",
-        "topicos": [
-          "Comecei no Taekwondo aos 9 anos, com bolsa, porque não tinha outro jeito de treinar.",
-          "Aos 14 anos eu já trabalhava como empacotador, antes e depois do treino, todo dia.",
-          "Ninguém posta essa parte. Posta o dia que eu fui reserva da Seleção em 2017 e titular no Mundial de Budapeste em 2018."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "18 a 30 s",
-        "tela": "Dez anos de treino sem plateia nenhuma.",
-        "topicos": [
-          "Depois do Mundial vieram mais cinco títulos paulistas e dois títulos brasileiros, um atrás do outro, no mesmo treino repetido.",
-          "Pensa comigo. Entre o Taekwondo aos 9 e esses títulos foram quase dez anos de treino TODO DIA, sem plateia nenhuma vendo.",
-          "Hoje é a mesma conta pra montar time de vendas que bate meta. O resultado aparece por último. O treino vem primeiro, e vem sozinho."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "30 a 40 s",
-        "tela": "Vendedor se forma como atleta se forma.",
-        "topicos": [
-          "Vendedor se forma como atleta se forma: ninguém nasce pronto, ninguém vence sem pagar o preço do treino que não aparece.",
-          "Se você só quer o resultado e não quer montar o treino, você não quer um time. Você quer sorte."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "https://www.instagram.com/reel/Dd9XK2RKlaB/",
-      "perfil": "ryanserhant",
-      "vezes": "152.6",
-      "molde": "o custo de vencer: narrativa de sacrifício por trás do resultado; trocado o assunto pra trajetória esportiva dele e ponte pro treino de time"
-    },
-    "fonte": {
-      "nome": "moldes.md - Regras de fato (trajetória)",
-      "link": ""
-    },
-    "cta": "seguir"
-  },
-  {
     "id": "2026-10-29-1",
     "data": "2026-10-29",
     "vaga": "tese",
@@ -1553,6 +1160,201 @@
       "perfil": "ohenriquecedor",
       "vezes": "25.3",
       "molde": "Treino ao vivo filmado como espetáculo: alguém do time numa ligação real com lead"
+    },
+    "fonte": {
+      "nome": "",
+      "link": ""
+    },
+    "cta": "seguir"
+  },
+  {
+    "id": "2026-11-04-1",
+    "data": "2026-11-04",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "Dono mede o vendedor só pelo fechamento do mês, nunca pelo processo que levou até lá",
+    "moral": "Time que bate meta com constância é treinado e medido pelo processo todo dia, não só pelo resultado no fim do mês. Atleta não é avaliado só pela luta de domingo, é avaliado pelo treino de terça.",
+    "fala_com": "dono",
+    "nota_regua": 53,
+    "aberturas": [
+      "Empresário, deixa eu te fazer uma pergunta.",
+      "Você mede seu vendedor pelo fechamento do mês, ou pelo processo que ele fez pra chegar lá?",
+      "Quase todo dono só olha uma coisa no vendedor: se ele fechou. E é aí que o time para de evoluir."
+    ],
+    "tela_primeiro_quadro": "VOCÊ SÓ OLHA O FECHAMENTO?",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "VOCÊ SÓ OLHA O FECHAMENTO?",
+        "topicos": [
+          "Empresário, deixa eu te fazer uma pergunta."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "RESULTADO SEM PROCESSO É SORTE",
+        "topicos": [
+          "Pensa comigo: você sabe quantas ligações seu vendedor fez essa semana? Quantos follow-up ele fez? Quantas vezes ele seguiu o script até o fim?",
+          "Ou você só olha se ele fechou no fim do mês?"
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 24 s",
+        "tela": "ATLETA NÃO É SÓ A LUTA DE DOMINGO",
+        "topicos": [
+          "Eu treinei 7 anos até pisar no tatame de um Mundial. E nenhum treinador meu media minha evolução só pela luta de domingo.",
+          "Media o treino de terça, o de quarta, o de quinta."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "24 a 30 s",
+        "tela": "TREINE O PROCESSO, NÃO SÓ O RESULTADO",
+        "topicos": [
+          "Então se seu time só é cobrado pelo fechamento, você não tem um sistema de vendas. Você tem uma aposta todo fim de mês.",
+          "Time que bate meta com constância treina e mede o processo todo dia."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "Tese direta, sem vídeo de referência; molde próprio dele (palestrinha)"
+    },
+    "fonte": {
+      "nome": "",
+      "link": ""
+    },
+    "cta": "comentar uma palavra"
+  },
+  {
+    "id": "2026-11-04-2",
+    "data": "2026-11-04",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "Dono trata o vendedor como funcionário que precisa ser vigiado o dia inteiro, não como alguém que é dono do próprio resultado",
+    "moral": "Sistema de vendas que funciona não depende de vigilância. Depende de treino que forma o vendedor pra decidir sozinho, como sócio do resultado dele, não como funcionário vigiado.",
+    "fala_com": "dono",
+    "nota_regua": 60,
+    "aberturas": [
+      "Empresário, você trata seu vendedor como funcionário que precisa de vigilância, ou como sócio que é dono do resultado dele?",
+      "Vi um artigo essa semana que resumiu um problema que eu vejo em time de vendas todo santo dia.",
+      "Se toda decisão da venda passa por você, seu vendedor nunca aprendeu a decidir. Só aprendeu a obedecer."
+    ],
+    "tela_primeiro_quadro": "VOCÊ VIGIA SEU VENDEDOR?",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "VOCÊ VIGIA SEU VENDEDOR?",
+        "topicos": [
+          "Empresário, você trata seu vendedor como funcionário que precisa de vigilância, ou como sócio que é dono do resultado dele?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "FUNCIONÁRIO VIGIADO NÃO DECIDE",
+        "topicos": [
+          "Pensa comigo: se toda decisão da venda passa por você, seu vendedor nunca aprende a decidir sozinho. Ele só executa o que você manda.",
+          "E no dia que o cliente foge do script, ele trava, porque nunca treinou pra decidir. Só treinou pra obedecer."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 24 s",
+        "tela": "NINGUÉM DECIDE NO COMBATE SEM TREINAR A DECISÃO",
+        "topicos": [
+          "Vi um artigo essa semana que resumiu isso certeiro: vendedor não é criança que você vigia, é dono do próprio resultado dentro do seu negócio.",
+          "No tatame, ninguém decide bem no meio do combate só porque alguém grita ordem da beira. Decide bem porque treinou aquela decisão centenas de vezes antes."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "24 a 30 s",
+        "tela": "TREINE A DECISÃO, NÃO SÓ A OBEDIÊNCIA",
+        "topicos": [
+          "Time que bate meta com constância não é o time mais vigiado. É o time mais treinado pra decidir sozinho, com ou sem você olhando.",
+          "Isso é sistema. Vigilância não é sistema."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "Pauta do radar (quentes.json), sem vídeo de referência"
+    },
+    "fonte": {
+      "nome": "Furniture Today (Mike Root)",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY3VaQXlya3RsUlpLWGExNWN3VlRXTDhoMXk1X3N4cGF0S0pFRHpFUEQtQTYyeVEtWWdISTRuQmViU2tkWjlZYlBmZlJELURWb2VkWWY1NTVqNVY4ZTJFdlFRZkZNME1zQzZfM0w3cDJoTUhoMGVBVGFVaGV5NDhISlVjVXZ0Y2ZZRTE5Y1VJYWJXb3pLYUtjOHlPRGx0Vzl2aFRIa3kwc3pqTVNfQUkzOWtPRHJGS3hKcHZIcUtoenozblc2Wmc?oc=5"
+    },
+    "cta": "comentar uma palavra"
+  },
+  {
+    "id": "2026-11-04-3",
+    "data": "2026-11-04",
+    "vaga": "vida",
+    "pilar": "Bastidor da KONE",
+    "formato": "bastidores",
+    "tema": "Três vendedores do time, três jeitos diferentes de fechar venda, nenhum dos três é padrão",
+    "moral": "Isso não é falta de talento, é falta de playbook. Na KONE roda playbook escrito pra cada função: SDR, social seller e closer. Vendedor treinado segue o roteiro que fecha mais, não o que ele acha melhor.",
+    "fala_com": "dono",
+    "nota_regua": 45,
+    "aberturas": [
+      "Empresário, você já parou pra ver como cada vendedor do seu time fecha venda do jeito dele?",
+      "Três vendedores, três jeitos diferentes de fechar venda. Nenhum dos três é padrão, é sorte.",
+      "Se três vendedores seus fecham de três jeitos diferentes, você não tem um time. Tem três apostas."
+    ],
+    "tela_primeiro_quadro": "3 VENDEDORES, 3 JEITOS DIFERENTES DE VENDER",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "3 VENDEDORES, 3 JEITOS DIFERENTES DE VENDER",
+        "topicos": [
+          "Empresário, você já parou pra ver como cada vendedor do seu time fecha venda do jeito dele?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "SEM PADRÃO, A VENDA DEPENDE DE QUEM ATENDE",
+        "topicos": [
+          "Pensa comigo: um vendedor só fecha dando desconto. Outro trava quando o cliente muda de assunto no meio da ligação. Um terceiro não sabe o que fazer quando o cliente simplesmente some.",
+          "Isso não é falta de talento. É falta de um jeito certo, testado, que todo mundo segue."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 24 s",
+        "tela": "NA KONE TEM PLAYBOOK PRA CADA FUNÇÃO",
+        "topicos": [
+          "Na KONE a gente resolveu isso com playbook escrito pra cada função: um pro SDR, um pro social seller, um pro closer.",
+          "Cada etapa da venda tem um jeito certo, testado, escrito, que não depende de quem tá na ligação."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "24 a 30 s",
+        "tela": "SEGUE O ROTEIRO QUE FECHA MAIS, NÃO O QUE ACHA MELHOR",
+        "topicos": [
+          "Vendedor treinado segue o roteiro que fecha mais. Não o que ele, no calor da ligação, acha que é melhor.",
+          "Isso é sistema que não depende de quem tá na ligação."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "Bastidor próprio da KONE, sem molde de referência externo"
     },
     "fonte": {
       "nome": "",
