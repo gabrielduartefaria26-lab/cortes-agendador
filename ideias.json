@@ -1361,5 +1361,200 @@
       "link": ""
     },
     "cta": "seguir"
+  },
+  {
+    "id": "2026-11-05-1",
+    "data": "2026-11-05",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "Dono contrata o vendedor com o currículo perfeito e descarta o candidato torto que ninguém apostaria, achando que experiência pronta resolve o time",
+    "moral": "Vendedor se forma como atleta se forma. Não é currículo pronto que bate meta, é o sistema de treino que transforma potencial em resultado; currículo bonito sem treino também trava",
+    "fala_com": "dono",
+    "nota_regua": 45,
+    "aberturas": [
+      "Empresário, você já contratou o vendedor com o currículo perfeito e viu ele travar na primeira call de verdade?",
+      "Pensa comigo: por que o vendedor com toda a experiência no papel some na primeira meta difícil, e o torto que ninguém queria vira o melhor do time?",
+      "Currículo bonito não fecha venda nenhuma. Quem fecha é quem treinou."
+    ],
+    "tela_primeiro_quadro": "CURRÍCULO PRONTO NÃO BATE META",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "CURRÍCULO PRONTO NÃO BATE META",
+        "topicos": [
+          "Empresário, você já contratou o vendedor com o currículo perfeito e viu ele travar na primeira call de verdade?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 16 s",
+        "tela": "experiência pronta não é treino seu",
+        "topicos": [
+          "Isso acontece porque você contratou a experiência que ele teve em outro sistema, com outro script, com outro treino.",
+          "Só que, fora daquele sistema, sem o treino diário que formou ele lá, esse currículo bonito não repete o resultado sozinho dentro da sua empresa."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "16 a 28 s",
+        "tela": "o torto que ninguém apostava",
+        "topicos": [
+          "Enquanto isso, o vendedor torto que ninguém apostaria entra no seu sistema, treina todo dia, e em noventa dias vira o melhor do time.",
+          "Não foi sorte. Foi treino dentro de um sistema que formou ele do zero, do seu jeito, com a sua meta."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "28 a 38 s",
+        "tela": "VENDEDOR SE FORMA, NÃO VEM PRONTO",
+        "topicos": [
+          "Vendedor se forma como atleta se forma.",
+          "Não é o currículo pronto que bate meta. É o sistema de treino que transforma potencial em resultado."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "tese-conteudo.md - conflito universal (depender de talento pronto) adaptado para contratação",
+      "link": ""
+    },
+    "cta": "comentar uma palavra"
+  },
+  {
+    "id": "2026-11-05-2",
+    "data": "2026-11-05",
+    "vaga": "quente",
+    "pilar": "Bastidor da KONE",
+    "formato": "narrado",
+    "tema": "Cliente ouve a proposta inteira, gosta, e no fim fala que precisa alinhar com o sócio antes de fechar. A venda trava ali e muitas vezes nunca mais fecha",
+    "moral": "Essa objeção não se resolve com talento nem intuição. Se resolve com o script que o time treinou especificamente pra ela, dentro do treino diário; é isso que separa o vendedor que improvisa do time que já sabe o que fazer porque treinou aquela cena a semana toda",
+    "fala_com": "time",
+    "nota_regua": 52,
+    "aberturas": [
+      "O que fazer quando o cliente fecha a reunião inteira e no final fala que precisa alinhar com o sócio antes de assinar?",
+      "Pensa comigo: o cliente gostou da proposta inteira, e no fim fala que precisa falar com o sócio. Isso é objeção de verdade ou só um jeito educado de fugir?",
+      "Sua venda não trava no preço. Trava quando o decisor que você não viu entra na sala depois que você saiu."
+    ],
+    "tela_primeiro_quadro": "PRECISO ALINHAR COM MEU SÓCIO",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "PRECISO ALINHAR COM MEU SÓCIO",
+        "topicos": [
+          "O que fazer quando o cliente fecha a reunião inteira e no final fala que precisa alinhar com o sócio antes de assinar?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 16 s",
+        "tela": "objeção verdadeira ou fuga educada?",
+        "topicos": [
+          "Primeiro, vendedor treinado não aceita essa frase como ponto final. Ele precisa descobrir se é uma objeção verdadeira ou só um jeito educado de fugir de um não.",
+          "Pra isso, ele pergunta direto: o que o seu sócio vai querer saber que eu ainda não respondi aqui?"
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "16 a 30 s",
+        "tela": "treine essa cena, não essa frase",
+        "topicos": [
+          "Se a resposta vier clara, ele já marca a próxima call com o sócio dentro da conversa, com data e hora, não depois dela.",
+          "No meu time a gente não treina frase bonita pra objeção. A gente treina a cena inteira: o que o vendedor pergunta, o que ele escuta, o que ele marca antes de sair da sala."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "30 a 40 s",
+        "tela": "TREINO DIÁRIO FECHA O QUE O IMPROVISO PERDE",
+        "topicos": [
+          "Essa objeção não se resolve com talento nem com intuição.",
+          "Se resolve com o script que o time treinou especificamente pra ela, dentro do treino de todo dia."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/De-GlMcjMgl/",
+      "perfil": "ohenriquecedor",
+      "vezes": "18.2",
+      "molde": "pergunta de objeção específica do cliente seguida de passo a passo prático de resposta"
+    },
+    "fonte": {
+      "nome": "outliers.csv - grupo gabriel, perfil ohenriquecedor, 26/10/2026",
+      "link": "https://www.instagram.com/reel/De-GlMcjMgl/"
+    },
+    "cta": ""
+  },
+  {
+    "id": "2026-11-05-3",
+    "data": "2026-11-05",
+    "vaga": "vida",
+    "pilar": "Vida e identidade",
+    "formato": "narrado",
+    "tema": "Ficou um ano inteiro como reserva da Seleção, treinando igual titular mesmo sem jogar, antes de virar titular no Mundial de Budapeste",
+    "moral": "Time que bate meta com constância trata o vendedor júnior como reserva que treina igual titular, não como estagiário esperando a vez. Quem treina igual quem já tá jogando, joga rápido",
+    "fala_com": "dono",
+    "nota_regua": 49,
+    "aberturas": [
+      "Fiquei um ano inteiro reserva da Seleção. Treinava igual titular, todo dia, sem jogar um minuto sequer.",
+      "Pensa comigo: por que o vendedor júnior do seu time treina menos que o closer, se é ele quem mais precisa treinar?",
+      "Ninguém vira titular de Mundial direto. Vira depois de treinar como titular sendo reserva."
+    ],
+    "tela_primeiro_quadro": "FUI RESERVA UM ANO INTEIRO",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "FUI RESERVA UM ANO INTEIRO",
+        "topicos": [
+          "Fiquei um ano inteiro reserva da Seleção. Treinava igual titular, todo dia, sem jogar um minuto sequer."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "treinar sem jogar dói mais",
+        "topicos": [
+          "Só que treinar sem jogar é mais difícil do que treinar pra jogo marcado. Ninguém está vendo, ninguém está cobrando resultado daquele treino.",
+          "É fácil largar a mão quando ninguém vai notar."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 28 s",
+        "tela": "aí veio o Mundial de Budapeste",
+        "topicos": [
+          "Então, quando a vaga de titular abriu no Mundial de Budapeste em 2018, eu já tinha treinado o ano inteiro como se fosse eu lá.",
+          "E hoje eu vejo o mesmo erro no time de vendas: o vendedor júnior treina menos que o closer, porque ainda 'não é ele quem vende'."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "28 a 38 s",
+        "tela": "QUEM TREINA IGUAL TITULAR, JOGA RÁPIDO",
+        "topicos": [
+          "Time que bate meta com constância trata o vendedor júnior como reserva que treina igual titular, não como estagiário esperando a vez.",
+          "Quem treina igual quem já tá jogando, joga rápido."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "Regras de fato (moldes.md): reserva da Seleção em 2017, titular no Mundial de Budapeste em 2018, 5º lugar",
+      "link": ""
+    },
+    "cta": ""
   }
 ]
