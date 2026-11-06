@@ -1,397 +1,5 @@
 [
   {
-    "id": "2026-10-29-1",
-    "data": "2026-10-29",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "palestrinha",
-    "tema": "O melhor vendedor do time pede demissão de manhã e a carteira de clientes some com ele no mesmo dia",
-    "moral": "Contratar e treinar vendedor é processo que roda sempre dentro do sistema; dono que só contrata quando falta gente vai sofrer rotatividade pra sempre",
-    "fala_com": "dono",
-    "nota_regua": 54,
-    "aberturas": [
-      "Seu melhor vendedor pediu as contas hoje de manhã. E a carteira dele foi junto.",
-      "Pensa comigo: se o seu vendedor que mais fecha sair hoje, quantos clientes só falam com ele?",
-      "O vendedor que mais vendia pediu demissão. O cliente ligou perguntando por ele, não pela empresa."
-    ],
-    "tela_primeiro_quadro": "Seu melhor vendedor pediu demissão hoje",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Seu melhor vendedor pediu demissão hoje",
-        "topicos": [
-          "Empresário, seu melhor vendedor acabou de pedir as contas."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 16 s",
-        "tela": "A carteira de clientes some com ele",
-        "topicos": [
-          "Só que não é só o vendedor que sai. A carteira de cliente sai com ele, porque é ele quem atende, quem conhece a manha de cada um.",
-          "E aí o dono vira a empresa de ponta cabeça: entrevista de emergência, anúncio de vaga, vendedor novo aprendendo do zero enquanto a meta do mês já era."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "16 a 28 s",
-        "tela": "Isso só acontece onde contratar é emergência",
-        "topicos": [
-          "Então pensa comigo: isso só vira drama em empresa onde contratar vendedor é emergência, não rotina.",
-          "Na KONE eu monto o time pra isso nunca ser surpresa: SDR, social seller, vendedor, cada um treinado dentro do mesmo sistema, não dentro da cabeça de uma pessoa só."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "28 a 38 s",
-        "tela": "Contratar e treinar é processo, não sorte",
-        "topicos": [
-          "Contratar e treinar vendedor não pode ser aposta de sorte. Tem que ser processo que roda toda semana, com ou sem ninguém saindo.",
-          "Time que bate meta sem depender de uma pessoa só é time que treina gente nova antes de precisar dela."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "moldes.md - Regra 1 (exemplo de conflito: o melhor vendedor que leva a carteira junto) e tese-conteudo.md (rotatividade)",
-      "link": ""
-    },
-    "cta": "comentar uma palavra"
-  },
-  {
-    "id": "2026-10-29-2",
-    "data": "2026-10-29",
-    "vaga": "quente",
-    "pilar": "Tese e bandeira",
-    "formato": "comparação",
-    "tema": "Notícia da semana diz que o CRM como existe hoje não aguenta mais ser, sozinho, o centro da estratégia de venda, nem com IA dentro dele",
-    "moral": "A ferramenta nunca foi o problema nem a solução. CRM vira cemitério de lead quando o time que usa ele não é treinado; treinado, o mesmo CRM funciona",
-    "fala_com": "dono",
-    "nota_regua": 54,
-    "aberturas": [
-      "Seu CRM tá com duzentos lead parado que ninguém mais vai ligar.",
-      "Saiu uma reportagem essa semana dizendo que o CRM como a gente conhece acabou. Eu discordo de um ponto.",
-      "O problema nunca foi o CRM. Foi quem nunca foi treinado pra usar ele direito."
-    ],
-    "tela_primeiro_quadro": "Seu CRM é um cemitério de lead",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Seu CRM é um cemitério de lead",
-        "topicos": [
-          "Empresário, entra no seu CRM agora. Quantos lead tão parados lá, sem ninguém ligar de novo?"
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 16 s",
-        "tela": "CRM vira cemitério de lead",
-        "topicos": [
-          "CRM virou cemitério de lead. Entra, enterra, nunca mais abre.",
-          "Saiu uma reportagem essa semana dizendo que o CRM do jeito que a gente conhece não aguenta mais ser, sozinho, o centro da venda, nem com inteligência artificial dentro dele."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "16 a 28 s",
-        "tela": "O problema nunca foi a ferramenta",
-        "topicos": [
-          "E aí todo mundo vai trocar de CRM, comprar módulo novo de IA, achando que o sistema vai resolver.",
-          "Só que o problema nunca foi a ferramenta. Foi o time que nunca foi treinado pra qualificar, seguir e fechar o que entra ali dentro."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "28 a 38 s",
-        "tela": "Time treinado faz o CRM funcionar",
-        "topicos": [
-          "Dá o mesmo CRM pra um time treinado dentro de um sistema e pra um time sem treino nenhum. O primeiro fecha. O segundo enterra lead.",
-          "Troca de ferramenta não resolve rotatividade de lead parado. Treino do time resolve."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "Giro News - O fim do CRM como conhecemos",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10Q3ZXdVdQSTlJdGEwb19kODlYT3pXdjdRZzVtVWpwaUgtM3FUN05DbTJreDVoN09fd0l1aTcwODhkQmlXWFFQVmd2MU1ta2RRX3Q5bG5fWWNYWHRWd3M5eTFncmI1SGg5dDlV?oc=5"
-    },
-    "cta": "comentar uma palavra"
-  },
-  {
-    "id": "2026-10-29-3",
-    "data": "2026-10-29",
-    "vaga": "vida",
-    "pilar": "Vida e identidade",
-    "formato": "bastidores",
-    "tema": "Hoje não tinha luta marcada, nem competição, nem prova. Treinei kickboxing, corri e fiz musculação do mesmo jeito",
-    "moral": "Time de vendas que só capricha quando tem reunião importante com o dono não bate meta com constância; quem treina sem jogo marcado é quem aparece quando a meta aperta",
-    "fala_com": "dono",
-    "nota_regua": 49,
-    "aberturas": [
-      "Hoje não tinha prova marcada. Treinei do mesmo jeito.",
-      "Ninguém tava me cobrando hoje. Fui treinar igual.",
-      "Pergunta: seu time só capricha quando você tá na call?"
-    ],
-    "tela_primeiro_quadro": "Sem jogo marcado. Treinei do mesmo jeito.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Sem jogo marcado. Treinei do mesmo jeito.",
-        "topicos": [
-          "Hoje não tinha luta, não tinha competição, não tinha prova marcada no calendário."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 16 s",
-        "tela": "Kickboxing, corrida e musculação, mesmo sem prova",
-        "topicos": [
-          "Mesmo assim treinei kickboxing, corri e fiz musculação, igual eu faço todo santo dia.",
-          "E aí eu penso no time de vendas de muito empresário: só capricha quando o dono tá na call, quando tem reunião importante marcada."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "16 a 28 s",
-        "tela": "Atleta não treina só quando tem prova",
-        "topicos": [
-          "Só que atleta não treina só quando tem prova marcada. Treina todo dia, prova ou não prova, porque o corpo não sabe fingir no dia que importa.",
-          "Pensa comigo: o vendedor que só afia o discurso quando o dono tá olhando também não sabe fingir na hora que o cliente aperta."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "28 a 38 s",
-        "tela": "Quem treina sem jogo marcado aparece quando aperta",
-        "topicos": [
-          "Time que bate meta com constância é time que treina sem jogo marcado, não só antes da reunião com você.",
-          "Treino TODO DIA é isso: treinar quando ninguém tá vendo, pra aparecer inteiro quando todo mundo tá vendo."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "moldes.md - Linha de exposição (rotina de treino: kickboxing, corrida e musculação); segunda versão de 'Se torne obcecado e faça todos os dias as mesmas coisas' (quadro dele)",
-      "link": ""
-    },
-    "cta": ""
-  },
-  {
-    "id": "2026-10-30-1",
-    "data": "2026-10-30",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "palestrinha",
-    "tema": "Dono paga caro pra roubar o vendedor \"pronto\" da concorrência, achando que resolve o time, e três meses depois ele não entrega nem a metade do que entregava lá",
-    "moral": "Vendedor não nasce pronto, ninguém nasce lutando; o vendedor \"pronto\" que você contratou também foi formado dentro de um sistema, e fora dele, sem treino diário, não repete o resultado sozinho",
-    "fala_com": "dono",
-    "nota_regua": 53,
-    "aberturas": [
-      "Você pagou uma fortuna pra roubar o melhor vendedor da concorrência.",
-      "Empresário, seu vendedor \"pronto\" já decepcionou você nos primeiros três meses?",
-      "Vendedor não nasce pronto. Ninguém nasce lutando."
-    ],
-    "tela_primeiro_quadro": "Pagou caro pelo vendedor \"pronto\" da concorrência?",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Pagou caro pelo vendedor \"pronto\" da concorrência?",
-        "topicos": [
-          "Você pagou uma fortuna pra roubar o melhor vendedor da concorrência.",
-          "Três meses depois, ele não vendia nem a metade do que vendia lá."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "Vendedor bom não é vendedor pronto",
-        "topicos": [
-          "Pensa comigo: você contratou a pessoa, não contratou o sistema que formava essa pessoa todo dia.",
-          "Só que sem o treino diário, sem o script, sem a cobrança de lá, o vendedor \"pronto\" volta a ser só um talento perdido."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 28 s",
-        "tela": "Ninguém nasce pronto",
-        "topicos": [
-          "Vendedor não nasce pronto. Ninguém nasce lutando.",
-          "Eu treinei 7 anos até pisar no tatame de um Mundial, e mesmo assim não sobrevivo um round sem treinar toda semana.",
-          "E aí por que você acha que um vendedor sobrevive sem treino, só porque já vendeu bem em outro lugar?"
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "28 a 38 s",
-        "tela": "Time se forma, não se contrata pronto",
-        "topicos": [
-          "Então o vendedor que você contratou caro não é ruim. Ele só tá fora do sistema que fazia ele parecer bom.",
-          "Time que bate meta tem treino diário dentro de um sistema que forma gente, não depende de achar gente pronta."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "moldes.md - Regras de fato (Taekwondo aos 9 anos com bolsa; titular no Mundial de Budapeste em 2018) e frase de ataque pronta \"Vendedor não nasce pronto\"; tangente a \"Como contratar gente boa\" do quadro dele, mas ângulo distinto (mito do vendedor pronto, não o processo de contratar)",
-      "link": ""
-    },
-    "cta": "Comenta PRONTO se já contratou vendedor caro que não entregou."
-  },
-  {
-    "id": "2026-10-30-2",
-    "data": "2026-10-30",
-    "vaga": "quente",
-    "pilar": "Tese e bandeira",
-    "formato": "comparação",
-    "tema": "No treino da semana, dois vendedores do mesmo time batem a mesma meta todo mês: um sempre fechando no desconto, o outro sempre fechando no preço cheio",
-    "moral": "Vendedor sem treino não sabe mostrar resultado, então vende o único argumento que sobrou, o preço; vendedor treinado vende resultado e fecha sem furar a margem",
-    "fala_com": "dono",
-    "nota_regua": 53,
-    "aberturas": [
-      "No treino dessa semana, separei dois vendedores do mesmo time. Os dois batem a mesma meta.",
-      "Pobre vende desconto. Rico vende resultado. Isso vale pra cliente e vale pro seu vendedor.",
-      "Empresário, o seu vendedor que sempre desconta bate a mesma meta do que nunca desconta?"
-    ],
-    "tela_primeiro_quadro": "Mesma meta. Um vende desconto, o outro vende resultado.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Mesma meta. Métodos opostos.",
-        "topicos": [
-          "No treino dessa semana, separei dois vendedores do mesmo time.",
-          "Os dois batem a mesma meta todo mês."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "Um vende desconto, o outro vende resultado",
-        "topicos": [
-          "Só que um fecha sempre no desconto, e o outro fecha sempre no preço cheio.",
-          "Pensa comigo: se os dois batem meta, por que um tá destruindo a sua margem e o outro não?"
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 28 s",
-        "tela": "Desconto é falta de treino, não falta de preço",
-        "topicos": [
-          "E aí eu vi o que separa os dois: não é talento, é treino.",
-          "Quem desconta não sabe mostrar resultado, então vende o único argumento que sobrou: o preço."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "28 a 38 s",
-        "tela": "Treine pra vender resultado, não desconto",
-        "topicos": [
-          "Então antes de cortar preço na próxima negociação, pergunta: seu time foi treinado pra vender resultado, ou só aprendeu a pedir desconto pro dono?",
-          "Time que bate meta sem furar a margem é time treinado TODO DIA pra defender valor."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "https://www.instagram.com/reel/Deh3Ay2tZK0/",
-      "perfil": "ecauduro",
-      "vezes": "58.6",
-      "molde": "frase-tese seca sobre comportamento e preço (\"Pobre compra desconto, rico compra resultado\"); mantida a estrutura comparativa, o ritmo e o ponto de virada, trocado o assunto para desconto x resultado dentro do time de vendas"
-    },
-    "fonte": {
-      "nome": "outliers.csv - ecauduro, 58.6x; cena ancorada no treinamento de time presencial (moldes.md, inventário)",
-      "link": "https://www.instagram.com/reel/Deh3Ay2tZK0/"
-    },
-    "cta": "Comenta RESULTADO se seu vendedor fecha sem desconto."
-  },
-  {
-    "id": "2026-10-30-3",
-    "data": "2026-10-30",
-    "vaga": "vida",
-    "pilar": "Bastidor da KONE",
-    "formato": "bastidores",
-    "tema": "Time comercial pequeno onde todo vendedor faz a venda inteira sozinho, do primeiro contato ao fechamento, e nada sai redondo",
-    "moral": "Time que bate meta com constância não é o time onde todo mundo faz tudo; é o time com função clara, cada papel treinado no que faz",
-    "fala_com": "dono",
-    "nota_regua": 51,
-    "aberturas": [
-      "Essa semana vi um time comercial pequeno onde todo vendedor fazia a venda inteira, sozinho.",
-      "Tenta vender assim: todo mundo no time qualifica, atende e fecha. Nada sai redondo.",
-      "Na KONE a gente não deixa todo vendedor fazer tudo. E foi isso que mudou o resultado."
-    ],
-    "tela_primeiro_quadro": "Time pequeno, todo mundo fazendo tudo. Nada sai redondo.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Time pequeno, todo mundo fazendo tudo",
-        "topicos": [
-          "Essa semana vi um time comercial pequeno onde todo vendedor fazia a venda inteira, do primeiro contato até o fechamento."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 16 s",
-        "tela": "Nada sai redondo",
-        "topicos": [
-          "Só que cada vendedor gastava energia qualificando lead frio, esquentando relação e tentando fechar, tudo sozinho, tudo ao mesmo tempo.",
-          "Pensa comigo: quando uma pessoa só faz um pouco de cada etapa, nenhuma etapa fica boa."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "16 a 28 s",
-        "tela": "Na KONE cada papel é treinado separado",
-        "topicos": [
-          "Então na KONE a gente separa: um treina pra qualificar quem chega, outro treina pra esquentar a relação nas redes, outro treina só pra fechar.",
-          "E aí cada um fica bom numa coisa só, em vez de mediano em três."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "28 a 36 s",
-        "tela": "Função clara. Time fecha redondo.",
-        "topicos": [
-          "Time que bate meta com constância não é o time onde todo mundo faz tudo. É o time com função clara, cada papel treinado no que faz."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "moldes.md - O que ele tem rodando (KONE: sócio operador desde outubro de 2026, montando o time de SDR, social seller e vendedor)",
-      "link": ""
-    },
-    "cta": "Comenta FUNÇÃO se seu time ainda faz tudo igual."
-  },
-  {
     "id": "2026-10-31-1",
     "data": "2026-10-31",
     "vaga": "tese",
@@ -1553,6 +1161,203 @@
     },
     "fonte": {
       "nome": "Regras de fato (moldes.md): reserva da Seleção em 2017, titular no Mundial de Budapeste em 2018, 5º lugar",
+      "link": ""
+    },
+    "cta": ""
+  },
+  {
+    "id": "2026-11-06-1",
+    "data": "2026-11-06",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "Vendedor que só anota o pedido do cliente e passa pra dentro, sem nunca perguntar o motivo da compra",
+    "moral": "Vendedor que não treina pra diagnosticar não vende, atende; sistema de treino forma vendedor consultor, não tirador de pedido",
+    "fala_com": "dono",
+    "nota_regua": 51,
+    "aberturas": [
+      "Empresário, seu vendedor não vende. Ele é CORREIO.",
+      "Pensa comigo: seu vendedor atende o telefone, anota o que o cliente pediu e manda pra dentro. Isso não é vender.",
+      "Se o seu vendedor só recebe o pedido e repassa, você não contratou um vendedor. Contratou um CORREIO."
+    ],
+    "tela_primeiro_quadro": "SEU VENDEDOR NÃO VENDE. ELE ENTREGA.",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "ELE NÃO VENDE. ENTREGA.",
+        "topicos": [
+          "Empresário, seu vendedor não vende. Ele é CORREIO: leva o pedido do cliente pra dentro e a resposta pra fora."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "A PERGUNTA QUE NINGUÉM FAZ",
+        "topicos": [
+          "Pensa comigo: o cliente liga, fala o que quer, e o seu vendedor já sai correndo pra montar a proposta.",
+          "Só que ele nunca perguntou por quê. Nunca perguntou o que o cliente ia resolver com aquilo."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 25 s",
+        "tela": "DIAGNÓSTICO, NÃO PEDIDO",
+        "topicos": [
+          "E aí o concorrente aparece com preço menor e o cliente some, porque pra ele os dois venderam a mesma coisa.",
+          "Então o problema não é o preço. É que seu vendedor nunca abriu a cabeça do cliente pra entender o que ele realmente precisava."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 35 s",
+        "tela": "TREINO FAZ O DIAGNÓSTICO, NÃO O TALENTO",
+        "topicos": [
+          "Vendedor que diagnostica não entra na comparação de preço, porque entrega uma solução que o concorrente nem enxergou.",
+          "E isso não nasce com ele. Isso é treino, é processo, é o sistema que ensina ele a perguntar antes de empurrar proposta."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "E-Commerce Brasil (via quentes.json, tema time de vendas)",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcDdCLTFXWVJLMkJEN3g5amxZdm9MaDFuZ1ZCTk42T1NCd2tmUE1aWFJKa29wOXBKWXRlRTNCYjdzRF91RnhBZkhTbEFpd05hdFNmVzdmR2Y1blJrZXRSYkdudFZZVnQ2NVd1WXZyTi1EVGloeWc5U2xpek42WVcza0JJOEZvT2hUaFRlRWRXWG9Ocjd3MUJSTFZpMA?oc=5"
+    },
+    "cta": "Comenta DIAGNÓSTICO se seu time também só anota pedido"
+  },
+  {
+    "id": "2026-11-06-2",
+    "data": "2026-11-06",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "trivial",
+    "tema": "Dono não sabe se o time dele vende por sistema ou só segura a onda com sorte, até faltar o melhor vendedor",
+    "moral": "Time que depende de motivação, cobrança e do vendedor-estrela não tem sistema, tem sorte que ainda não acabou; time de verdade tem treino diário que não depende de ninguém",
+    "fala_com": "dono",
+    "nota_regua": 47,
+    "aberturas": [
+      "5 sinais de que seu time vende por sorte, não por sistema 👇🏻",
+      "Empresário, confere aqui se seu time comercial tem sistema ou só sorte.",
+      "Se o seu time bate 2 destes 5 sinais, ele não tem sistema. Tem sorte que ainda não acabou."
+    ],
+    "tela_primeiro_quadro": "5 SINAIS DE QUE SEU TIME VENDE POR SORTE 👇🏻",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "5 SINAIS DE TIME SEM SISTEMA",
+        "topicos": [
+          "Empresário, confere aqui se seu time comercial vende por sistema ou só sorte."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "1, 2 E 3",
+        "topicos": [
+          "Primeiro sinal: o time sai animado da palestra de vendas e na segunda-feira já voltou pra estaca zero.",
+          "Segundo sinal: se o seu melhor vendedor sair amanhã, a meta do mês cai com ele.",
+          "Terceiro sinal: o vendedor aprende errando com cliente de verdade, porque nunca treinou antes de atender."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 25 s",
+        "tela": "4 E 5",
+        "topicos": [
+          "Quarto sinal: ninguém no seu time mede o processo, só o fechamento do mês.",
+          "Quinto sinal: o vendedor que fecha no desconto é chamado de esforçado, quando na verdade é o problema."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 35 s",
+        "tela": "SORTE OU SISTEMA?",
+        "topicos": [
+          "Então pensa comigo: se você bateu mais de dois desses sinais, seu time não tem sistema.",
+          "Tem sorte, e sorte, cedo ou tarde, acaba.",
+          "Comenta aqui quantos bateram, que eu te digo o que fazer com cada um."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/DeqBxsCvUXL/",
+      "perfil": "joaokissel",
+      "vezes": "61.9",
+      "molde": "lista numerada com pergunta de comentário no fim (esqueleto 'Faltou algum?'); assunto trocado para sinais de time sem sistema"
+    },
+    "fonte": {
+      "nome": "",
+      "link": ""
+    },
+    "cta": "Comenta quantos sinais bateram no seu time"
+  },
+  {
+    "id": "2026-11-06-3",
+    "data": "2026-11-06",
+    "vaga": "vida",
+    "pilar": "Prova e caso",
+    "formato": "comparação",
+    "tema": "Dono de empresa B2B que já ouviu 'isso funciona pra qualquer time ou só pro seu' antes de fechar uma implementação comercial",
+    "moral": "Não é sorte nem caso isolado: mais de 100 empresas já passaram pelo mesmo sistema, com 95% de renovação, porque o treino diário repete resultado, não depende de quem está na mesa",
+    "fala_com": "dono",
+    "nota_regua": 49,
+    "aberturas": [
+      "A pergunta que todo dono de empresa me faz antes de fechar: isso funciona pra qualquer time ou só pro seu?",
+      "Pensa comigo: toda vez que eu mostro resultado, o dono pergunta se foi sorte.",
+      "Empresário, a dúvida não é se o sistema funciona. É se funciona pro seu time."
+    ],
+    "tela_primeiro_quadro": "FUNCIONA PRA QUALQUER TIME OU SÓ PRO SEU?",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "A PERGUNTA QUE TODO DONO FAZ",
+        "topicos": [
+          "A pergunta que todo dono de empresa me faz antes de fechar comigo é sempre a mesma: isso funciona pra qualquer time, ou só funcionou pro seu?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "SERÁ QUE FOI SORTE?",
+        "topicos": [
+          "Pensa comigo: é fácil acreditar que deu certo numa empresa e não vai dar certo na sua, porque o time é diferente, o mercado é diferente, o momento é diferente.",
+          "E essa dúvida trava gente boa de treinar o próprio time direito."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 25 s",
+        "tela": "MAIS DE 100 EMPRESAS, 95% DE RENOVAÇÃO",
+        "topicos": [
+          "Só que não é um caso isolado. Já passaram mais de 100 empresas pelo mesmo sistema, com mais de R$ 30 milhões gerados pra elas.",
+          "E 95% renovam, porque o resultado se repete quando o treino é diário, não quando depende de quem está sentado na mesa."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 35 s",
+        "tela": "SISTEMA SE REPETE, SORTE NÃO",
+        "topicos": [
+          "Então a pergunta certa não é se funciona pro seu time.",
+          "É se o seu time treina todo dia, ou só espera a sorte aparecer de novo."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "Dominium, dados agregados (moldes.md)",
       "link": ""
     },
     "cta": ""
