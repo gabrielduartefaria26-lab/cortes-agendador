@@ -1,201 +1,5 @@
 [
   {
-    "id": "2026-10-31-1",
-    "data": "2026-10-31",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "comparação",
-    "tema": "O dono entra na call pra salvar a venda sempre que o vendedor trava, e isso se repete todo mês",
-    "moral": "Sistema que não depende do dono: vendedor treinado fecha sozinho a call; se só fecha com o dono no meio, o time não existe, existe um plantão",
-    "fala_com": "dono",
-    "nota_regua": 54,
-    "aberturas": [
-      "Empresário, toda vez que o seu vendedor trava numa call, quem entra pra salvar a venda é você?",
-      "Pensa comigo: se você sair de férias duas semanas, sua meta do mês bate sozinha?",
-      "Seu time fecha venda. Ou é você que fecha, só que pelo telefone do seu vendedor?"
-    ],
-    "tela_primeiro_quadro": "Quem fecha a venda: seu vendedor ou você pelo telefone dele?",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Quem fecha a venda: seu vendedor ou você pelo telefone dele?",
-        "topicos": [
-          "Empresário, toda vez que o seu vendedor trava numa call importante, quem entra pra salvar a venda é você?"
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "Call trava. Vendedor chama o dono.",
-        "topicos": [
-          "Pensa comigo: isso já aconteceu esse mês, não aconteceu?",
-          "Só que, se isso acontece sempre, o problema não é aquela call. É que o seu time não foi treinado pra fechar sem você."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "Você não tem time. Tem plantão.",
-        "topicos": [
-          "E aí o que parece força do dono é, na verdade, um buraco no sistema.",
-          "Enquanto for você entrando na call, o seu time vai continuar chamando você."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 35 s",
-        "tela": "Sistema que fecha sem o dono",
-        "topicos": [
-          "Então o trabalho não é você aprender a fechar melhor pelo telefone do seu vendedor.",
-          "É treinar o vendedor pra conduzir a call do início ao fim, sem precisar de você no meio."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "originado da Regra 1 do moldes.md (dependência do dono na call), sem vídeo de referência"
-    },
-    "fonte": {
-      "nome": "moldes.md, Regra 1 e tese-conteudo.md, tabela de conflitos",
-      "link": ""
-    },
-    "cta": "vazio"
-  },
-  {
-    "id": "2026-10-31-2",
-    "data": "2026-10-31",
-    "vaga": "quente",
-    "pilar": "Tese e bandeira",
-    "formato": "dinamismo",
-    "tema": "Dono não sabe diferenciar, só ouvindo a call, um vendedor treinado de um que decorou o script",
-    "moral": "Vendedor treinado aparece na call, não no currículo; cinco sinais mostram quem treinou de verdade e quem só decorou o script",
-    "fala_com": "dono",
-    "nota_regua": 48,
-    "aberturas": [
-      "5 sinais que aparecem na call e mostram se o seu vendedor foi treinado ou só decorou o script.",
-      "Empresário, você sabe diferenciar um vendedor treinado de um vendedor decorado só ouvindo a call dele?",
-      "Separei 5 coisas que só aparecem na call de quem passou por treino de verdade."
-    ],
-    "tela_primeiro_quadro": "5 sinais de vendedor TREINADO numa call",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "5 sinais de vendedor TREINADO numa call",
-        "topicos": [
-          "Separei 5 sinais que só aparecem na call de quem passou por treino de verdade."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 18 s",
-        "tela": "1. Muda o tom no silêncio / 2. Pergunta antes do preço / 3. Deixa o cliente falar mais",
-        "topicos": [
-          "Primeiro: ele muda o tom quando o cliente fica calado, em vez de preencher o silêncio com desconto.",
-          "Segundo: ele pergunta o que travou a decisão antes de falar preço.",
-          "Terceiro: ele deixa o cliente falar mais do que ele mesmo fala."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "18 a 28 s",
-        "tela": "4. Anota o que o cliente disse / 5. Fecha sem descontar",
-        "topicos": [
-          "Quarto: ele anota o que o cliente falou, não o que o script manda falar.",
-          "Quinto: ele sabe fechar sem precisar cortar preço pra isso."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "28 a 35 s",
-        "tela": "Faltou algum? Comenta aqui.",
-        "topicos": [
-          "Então, se o seu vendedor faz os cinco, ele foi treinado.",
-          "Se faz um ou dois, ele ainda está decorando script. Faltou algum? Comenta aqui."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "https://www.instagram.com/reel/Depbw6YtTLC/",
-      "perfil": "joaokissel",
-      "vezes": "11.2",
-      "molde": "lista de itens numerados encerrada com pergunta de comentário (Faltou algum?); Regra 2: mesma estrutura de lista e pergunta final, troca-se o assunto do perfil original para sinais de vendedor treinado"
-    },
-    "fonte": {
-      "nome": "outliers.csv, joaokissel, 18/10/2026",
-      "link": "https://www.instagram.com/reel/Depbw6YtTLC/"
-    },
-    "cta": "comentar uma palavra"
-  },
-  {
-    "id": "2026-10-31-3",
-    "data": "2026-10-31",
-    "vaga": "vida",
-    "pilar": "Bastidor da KONE",
-    "formato": "bastidores",
-    "tema": "Dono só descobre quem bateu meta e quem não bateu quando o mês já fechou",
-    "moral": "Time com treino diário tem placar visível todo dia; quem só olha o fechamento do mês decide tarde demais",
-    "fala_com": "dono",
-    "nota_regua": 55,
-    "aberturas": [
-      "Esse é o quadro que a gente olha todo dia dentro da KONE, não só no fim do mês.",
-      "Empresário, você só descobre quem bateu meta quando o mês já fechou?",
-      "Esse aqui é o placar real do time essa semana. Mostro o que bateu e o que não bateu."
-    ],
-    "tela_primeiro_quadro": "O placar do time essa semana, dentro da KONE",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "O placar do time essa semana",
-        "topicos": [
-          "Esse é o quadro que a gente olha todo dia aqui dentro da KONE, não só no fim do mês."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "A maioria só olha o fechamento do mês",
-        "topicos": [
-          "Pensa comigo: a maioria dos donos só descobre quem bateu meta quando o mês já fechou.",
-          "Só que aí já é tarde pra treinar, pra corrigir, pra trocar quem não está rendendo."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "Aqui o placar é todo dia",
-        "topicos": [
-          "E aí a gente virou isso ao contrário: o placar fica visível todo dia, cada vendedor vê o número dele.",
-          "Quem está travando aparece na terça, não no dia 30."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 33 s",
-        "tela": "Treino diário precisa de placar diário",
-        "topicos": [
-          "Então time que bate meta com constância não é o time mais talentoso.",
-          "É o time que tem o próprio resultado na cara, todo dia, dentro de um sistema que treina em cima disso."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "bastidor próprio da operação (quadro/placar da KONE), sem vídeo de referência externo"
-    },
-    "fonte": {
-      "nome": "moldes.md, inventário (sistemas próprios: quadro)",
-      "link": ""
-    },
-    "cta": "vazio"
-  },
-  {
     "id": "2026-11-01-1",
     "data": "2026-11-01",
     "vaga": "tese",
@@ -1358,6 +1162,202 @@
     },
     "fonte": {
       "nome": "Dominium, dados agregados (moldes.md)",
+      "link": ""
+    },
+    "cta": ""
+  },
+  {
+    "id": "2026-11-07-1",
+    "data": "2026-11-07",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "Dono paga um treinamento ou leva o time pra uma imersão cara, o time sai de lá animado, e na segunda-feira o CRM continua exatamente igual",
+    "moral": "Treino não é evento isolado que você compra uma vez por ano. É rotina diária dentro de um sistema; sem ela, até o melhor treinamento do mundo esfria em uma semana",
+    "fala_com": "dono",
+    "nota_regua": 57,
+    "aberturas": [
+      "Toda vez que eu assumo um time novo na KONE, minha primeira pergunta pro dono é: quantos treinamentos você já pagou esse ano?",
+      "Empresário, o time voltou animado da imersão. Só que isso foi sexta. Hoje é segunda. O que mudou?",
+      "Pensa comigo: você gastou um dinheirão pra levar o time pro treinamento do ano. E semana que vem, tá tudo igual."
+    ],
+    "tela_primeiro_quadro": "QUANTOS TREINAMENTOS VOCÊ JÁ PAGOU ESSE ANO?",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "QUANTOS TREINAMENTOS VOCÊ JÁ PAGOU ESSE ANO?",
+        "topicos": [
+          "Toda vez que eu assumo um time novo na KONE, a primeira pergunta que eu faço pro dono é essa: quantos treinamentos você já pagou esse ano?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 16 s",
+        "tela": "SEXTA ANIMADO, SEGUNDA IGUAL",
+        "topicos": [
+          "Pensa comigo: o time sai de lá animado, foto em grupo, frase de efeito na legenda do story.",
+          "Só que isso foi sexta-feira. Segunda-feira, o vendedor abre o CRM e faz exatamente a mesma ligação do jeito que fazia antes.",
+          "E aí o dono acha que o treinamento não funcionou. Não é isso. Faltou o que vem depois dele."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "16 a 26 s",
+        "tela": "TREINO É ROTINA, NÃO EVENTO",
+        "topicos": [
+          "Então o que eu faço diferente: o treinamento de um dia é só a entrada. O que fixa é o treino diário depois, dentro do sistema, com playbook pra cada função e revisão de call toda semana.",
+          "É igual luta: ninguém entra no tatame só porque assistiu uma palestra sobre Taekwondo. Entra porque treinou a mesma cena centenas de vezes."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "26 a 33 s",
+        "tela": "SEM TREINO DIÁRIO, O MELHOR TREINAMENTO ESFRIA EM UMA SEMANA",
+        "topicos": [
+          "Então antes de contratar outro treinamento caro, pergunta: quem vai treinar esse time toda semana, depois que o evento acabar?",
+          "Se a resposta é ninguém, o problema nunca foi o treinamento. Foi não ter sistema depois dele."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "moldes.md, Voz, frase de ataque publicável ('Palestra de vendas é vídeo motivacional de academia')",
+      "link": ""
+    },
+    "cta": ""
+  },
+  {
+    "id": "2026-11-07-2",
+    "data": "2026-11-07",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "Artigo dessa semana diz que a habilidade do empresário na era da IA começa por não depender do vendedor; só que na maioria das empresas que eu assumo, quem não pode faltar nem um dia é o próprio dono, que ainda fecha a venda grande sozinho",
+    "moral": "Sistema de vendas que funciona não depende de ninguém insubstituível, nem do vendedor-estrela, nem do dono; depende de treino documentado que qualquer um do time consegue repetir",
+    "fala_com": "dono",
+    "nota_regua": 56,
+    "aberturas": [
+      "Vi um artigo essa semana falando que a habilidade do empresário na era da IA é não depender do vendedor. Só que, pelo que eu vejo todo dia na KONE, quem não pode faltar na maioria dessas empresas nem é o vendedor.",
+      "Empresário, se a venda grande só fecha quando você entra na call, você não tem um time de vendas. Tem um funcionário a mais: você.",
+      "Pensa comigo: todo mundo fala em treinar o vendedor pra não depender dele. Ninguém fala em treinar o processo pra não depender do dono."
+    ],
+    "tela_primeiro_quadro": "QUEM NÃO PODE FALTAR NA SUA EMPRESA?",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "QUEM NÃO PODE FALTAR NA SUA EMPRESA?",
+        "topicos": [
+          "Vi um artigo essa semana dizendo que a habilidade do empresário na era da IA é não depender do vendedor."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 16 s",
+        "tela": "NA PRÁTICA, QUEM NÃO FALTA É O DONO",
+        "topicos": [
+          "Só que, pelo que eu vejo toda vez que assumo um time novo, o nome que não pode faltar nem um dia não é o do melhor vendedor. É o do próprio dono.",
+          "Porque a venda grande, a que decide o mês, só fecha quando ele entra na call. O time até qualifica, até agenda, até apresenta. Mas quem assina o fechamento continua sendo ele."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "16 a 26 s",
+        "tela": "O GARGALO NÃO TEM NOME PRÓPRIO, TEM TREINO QUE FALTA",
+        "topicos": [
+          "E aí não é sobre contratar um vendedor melhor. É sobre treinar o time até ele conduzir a call do jeito que o dono conduziria.",
+          "Isso não sai de palestra. Sai de treino de call real, repetido, com playbook escrito, até virar rotina do time, não talento isolado de uma pessoa."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "26 a 33 s",
+        "tela": "SISTEMA NÃO TEM NOME PRÓPRIO",
+        "topicos": [
+          "Então antes de perguntar quem no seu time não pode faltar, pergunta: se essa pessoa faltasse amanhã, o treino que ela recebeu continuaria fechando venda sem ela?",
+          "Se a resposta for não, o problema nunca foi o vendedor. Nem você. Foi nunca ter documentado o treino."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "Pauta do radar (quentes.json), sem vídeo de referência"
+    },
+    "fonte": {
+      "nome": "igmais, 'Habilidades do futuro para empreendedores na era da IA começam por não depender do vendedor'",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0NMWnA2MnFZSVpSbUF0ai1mUnRvUnNnaGduaU9FbTA2OGluS3ZjRldYckF5ZWxrMU9wSHA5Q0g0VUpkUk0xMlBraGgteU9BOVloalo2dWVQN1VmSlF3ZDIxYV9iTWRuaEt2TGdUNmdhYjEyNjdfVGozaWhqeklKSEFOUDRWSXF4ZHRUb1NISGppdlJNZ0Z3QmtVck55eWEwN25Mb2pkMWdEbE5RdlBLUU9FVy1QN0c4cGJaejVUSHBHNV83YXRrVU1JRjNUMHNXbmRLTFppUDFHLU3SAeABQVVfeXFMT0w4WElwWXVackxmRUN5SmlEMUtxb2tBWWxrVHo2U1UtTFFRd3k5d21ZRHUtX1BTUDVTRlNxWWp1U3VXeXYycWx5aW96dkJFT1FJbWd5dkY4MXZyYk1OazloRWFLcllLVVVTZmdxYkJsUXVqU1ZzLWJLNTFvQmU0VHNsc2hHZTNWclpDWkJMV3NWXzhLdHRUaGVjT0Q5WXctWENKUjZMWkRiUENYUWFJNVhBNHhhX2FHWDV0ZzlsMXNkM2hoQnI0WldFTGVBeVFPLXowcG9XRVVyd1lhamhGQkI?oc=5"
+    },
+    "cta": ""
+  },
+  {
+    "id": "2026-11-07-3",
+    "data": "2026-11-07",
+    "vaga": "vida",
+    "pilar": "Vida e identidade",
+    "formato": "lo-fi",
+    "tema": "Treino de kickboxing, corrida ou musculação antes de qualquer reunião, mesmo nos dias sem vontade nenhuma de treinar",
+    "moral": "Time que bate meta com constância não espera motivação pra treinar. Treina todo dia, com ou sem vontade, do mesmo jeito que atleta entra no tatame mesmo no dia que não quer",
+    "fala_com": "dono",
+    "nota_regua": 44,
+    "aberturas": [
+      "Hoje teve treino antes de qualquer reunião. Não porque eu tava motivado. Porque é terça-feira.",
+      "Pensa comigo: eu já treinei motivado e já treinei sem vontade nenhuma. Motivação nunca foi o que decidiu se eu ia ou não.",
+      "Ninguém me pergunta se eu treinei hoje porque eu tava inspirado. Treino é antes da reunião, antes de qualquer coisa, ponto."
+    ],
+    "tela_primeiro_quadro": "HOJE NÃO TAVA COM VONTADE DE TREINAR",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "HOJE NÃO TAVA COM VONTADE DE TREINAR",
+        "topicos": [
+          "Hoje teve treino antes de qualquer reunião. E não foi porque eu tava motivado."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 14 s",
+        "tela": "MOTIVAÇÃO VEM E VAI",
+        "topicos": [
+          "Pensa comigo: eu já treinei kickboxing, corrida e musculação motivado, e já treinei sem vontade nenhuma de levantar da cama.",
+          "Se eu dependesse de motivação, eu teria parado de treinar ainda nos primeiros anos de Taekwondo, lá quando eu era bolsista."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "14 a 24 s",
+        "tela": "É A MESMA REGRA QUE EU LEVO PRO TIME",
+        "topicos": [
+          "E é essa mesma regra que eu levo pro time de vendas que eu monto: ninguém combina treino pra quando o vendedor 'tiver motivado'.",
+          "Combina treino todo dia, de segunda a segunda, do mesmo jeito que eu entro no tatame mesmo no dia que eu não quero."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "24 a 30 s",
+        "tela": "TREINO É TODO DIA, COM OU SEM VONTADE",
+        "topicos": [
+          "Time que bate meta com constância não é o time mais motivado. É o time que treina todo dia, com ou sem vontade.",
+          "Motivação é combustível que acaba. Treino é rotina que fica."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "moldes.md, Linha de exposição (rotina de treino: kickboxing, corrida, musculação) e Regras de fato (Taekwondo aos 9 anos, com bolsa)",
       "link": ""
     },
     "cta": ""
