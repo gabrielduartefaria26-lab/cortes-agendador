@@ -1,198 +1,5 @@
 [
   {
-    "id": "2026-11-01-1",
-    "data": "2026-11-01",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "narrado",
-    "tema": "Vendedor novo chega com meta cheia e cobrança desde a primeira semana, mas nunca treinou objeção nenhuma antes de pegar cliente de verdade",
-    "moral": "Time que bate meta com constância treina o vendedor novo todo dia antes de soltar ele pro cliente real; vendedor que aprende errando com cliente de verdade não é treinado, é sorte que ainda não acabou",
-    "fala_com": "dono",
-    "nota_regua": 53,
-    "aberturas": [
-      "Empresário, você contrata um vendedor novo e já cobra meta cheia dele na primeira semana?",
-      "Pensa comigo: seu vendedor novo nunca treinou uma objeção com você, e já vai estrear com cliente de verdade.",
-      "Quem paga o aprendizado do seu vendedor novo é o seu cliente, não você."
-    ],
-    "tela_primeiro_quadro": "Vendedor novo, meta cheia, zero treino.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Vendedor novo, meta cheia, zero treino.",
-        "topicos": [
-          "Empresário, você contrata um vendedor novo e já cobra meta cheia dele na primeira semana?"
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "Só o script na mão.",
-        "topicos": [
-          "Pensa comigo. Ele chega, você entrega o script, mostra o CRM e solta ele na rua pra fechar.",
-          "Só que ele nunca treinou uma objeção com você, nunca simulou uma ligação difícil antes de pegar um cliente de verdade."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 30 s",
-        "tela": "Quem paga o treino dele é o seu cliente.",
-        "topicos": [
-          "E aí quem paga o aprendizado dele é o seu cliente, que recebe a ligação mais travada, a proposta mais fraca, o primeiro erro dele.",
-          "Eu treinei 7 anos até pisar no tatame de um Mundial. Nenhum atleta entra numa luta oficial sem ter treinado antes, com ninguém assistindo."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "30 a 45 s",
-        "tela": "Treino TODO DIA antes do cliente real.",
-        "topicos": [
-          "Então time que bate meta com constância treina o vendedor novo TODO DIA antes de soltar ele pro cliente de verdade.",
-          "Vendedor que aprende errando com cliente de verdade não é vendedor treinado, é sorte que ainda não acabou."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "moldes.md - Regras de fato (Taekwondo aos 9 anos; titular no Mundial de Budapeste em 2018) e frase de ataque pronta \"treinei 7 anos até pisar no tatame de um Mundial\"",
-      "link": ""
-    },
-    "cta": "Comenta TREINO se seu vendedor novo já perdeu cliente por falta de preparo."
-  },
-  {
-    "id": "2026-11-01-2",
-    "data": "2026-11-01",
-    "vaga": "quente",
-    "pilar": "Bastidor da KONE",
-    "formato": "bastidores",
-    "tema": "Cliente liga impaciente, corta a explicação na metade e já pede o desconto antes de ouvir a proposta",
-    "moral": "Vendedor treinado usa a pressa do cliente a favor dele, não contra a margem; vendedor sem treino confunde pressa com motivo pra ceder",
-    "fala_com": "dono",
-    "nota_regua": 58,
-    "aberturas": [
-      "Pensa comigo: o cliente liga, corta sua explicação na metade e solta: me diz o desconto que eu decido rápido.",
-      "Simulei essa ligação de verdade com o time aqui na KONE, do jeito que ela acontece no dia a dia.",
-      "Empresário, seu vendedor já descontou só pra aliviar a pressão de uma ligação apressada?"
-    ],
-    "tela_primeiro_quadro": "Cliente impaciente: só me diz o desconto.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Cliente impaciente: só me diz o desconto.",
-        "topicos": [
-          "Pensa comigo: o cliente liga, corta sua explicação na metade e já solta: me diz o desconto que eu decido rápido."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 12 s",
-        "tela": "Vendedor sem treino cede na hora.",
-        "topicos": [
-          "Só que vendedor sem treino trava, sente a pressão e já corta o preço, só pra aliviar a ligação. E aí a venda fecha, mas a margem já foi embora antes mesmo de fechar."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "12 a 25 s",
-        "tela": "Treino real do time, agora.",
-        "topicos": [
-          "Então simulei essa ligação de verdade com o time aqui na KONE, do jeito que ela acontece no dia a dia.",
-          "Treinei eles a responder a pressa do cliente com uma pergunta, não com desconto."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 40 s",
-        "tela": "Pressa não é motivo pra descontar.",
-        "topicos": [
-          "Vendedor treinado usa a pressa do cliente a favor dele, não contra a margem da empresa.",
-          "Vendedor sem treino confunde pressa com sinal pra ceder, e aí quem perde é o dono no fim do mês."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "https://www.instagram.com/reel/DehUt5DlNSy/",
-      "perfil": "ohenriquecedor",
-      "vezes": "10.2",
-      "molde": "trecho real de treinamento mostrando a resposta certa pra uma objeção específica do cliente; mantida a estrutura de treino filmado ao vivo, trocado o assunto para ligação de vendas com cliente impaciente dentro do time da KONE"
-    },
-    "fonte": {
-      "nome": "outliers.csv - ohenriquecedor, 15/10/2026, 10.2x",
-      "link": "https://www.instagram.com/reel/DehUt5DlNSy/"
-    },
-    "cta": "Comenta PRESSA se seu time já descontou só pra aliviar uma ligação difícil."
-  },
-  {
-    "id": "2026-11-01-3",
-    "data": "2026-11-01",
-    "vaga": "vida",
-    "pilar": "Vida e identidade",
-    "formato": "cine",
-    "tema": "Empresa do pai quebrou mesmo tendo cliente e demanda, só não tinha gestão nem sistema que aguentasse de pé sem ele resolvendo tudo na mão",
-    "moral": "Monta time de vendas que não depende do talento de ninguém nem do dono apagando incêndio, porque já viu de perto o que acontece quando o negócio depende só de uma pessoa",
-    "fala_com": "dono",
-    "nota_regua": 55,
-    "aberturas": [
-      "Empresário, eu vi de perto uma empresa ter cliente, ter demanda, e quebrar do mesmo jeito.",
-      "A empresa do meu pai quebrou não porque faltou venda. Faltou gestão.",
-      "Eu cresci vendo o que acontece quando o negócio depende só de uma pessoa segurando tudo."
-    ],
-    "tela_primeiro_quadro": "Empresa não quebra só por falta de cliente.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Empresa não quebra só por falta de cliente.",
-        "topicos": [
-          "Empresário, eu vi de perto uma empresa ter cliente, ter demanda, e quebrar do mesmo jeito."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "A empresa do meu pai quebrou assim.",
-        "topicos": [
-          "A empresa do meu pai quebrou não porque faltou venda. Faltou gestão. Faltou sistema que aguentasse o negócio de pé sem ele resolvendo tudo na mão."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "Eu vi o resultado disso em casa.",
-        "topicos": [
-          "Então eu cresci vendo o que acontece quando o negócio depende só de uma pessoa segurando tudo.",
-          "E aí, quando parei de competir, resolvi não repetir isso."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 40 s",
-        "tela": "Monto time que não depende de mim.",
-        "topicos": [
-          "É por isso que hoje eu monto time de vendas que não depende do talento de ninguém, nem do dono apagando incêndio.",
-          "Sistema que aguenta de pé é o que separa negócio de passatempo caro."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "moldes.md - Linha de exposição (empresas do pai que quebraram por falta de gestão)",
-      "link": ""
-    },
-    "cta": ""
-  },
-  {
     "id": "2026-11-02-1",
     "data": "2026-11-02",
     "vaga": "tese",
@@ -1358,6 +1165,201 @@
     },
     "fonte": {
       "nome": "moldes.md, Linha de exposição (rotina de treino: kickboxing, corrida, musculação) e Regras de fato (Taekwondo aos 9 anos, com bolsa)",
+      "link": ""
+    },
+    "cta": ""
+  },
+  {
+    "id": "2026-11-08-1",
+    "data": "2026-11-08",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "Vendedor bom pede demissão e leva a sensação de que o time quebrou junto com ele",
+    "moral": "Rotatividade não é sorte nem culpa do vendedor que saiu. É processo de contratar e treinar que não existe, por isso cada saída dói como se fosse a primeira",
+    "fala_com": "dono",
+    "nota_regua": 47,
+    "aberturas": [
+      "Empresário, seu melhor vendedor pediu demissão esse ano? Então deixa eu te contar o que isso realmente mostrou sobre o seu time.",
+      "Pensa comigo: por que toda vez que um vendedor bom sai, parece que a empresa perdeu metade da meta do mês?",
+      "Toda vez que o vendedor bom pede as contas, o dono entra em pânico. Mas o pânico não é sobre o vendedor. É sobre o que ficou exposto."
+    ],
+    "tela_primeiro_quadro": "SEU MELHOR VENDEDOR SAIU. E AGORA?",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "SEU MELHOR VENDEDOR SAIU. E AGORA?",
+        "topicos": [
+          "Empresário, seu melhor vendedor já pediu demissão e você sentiu a meta do mês ir embora com ele?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "ROTATIVIDADE NÃO É SORTE",
+        "topicos": [
+          "Pensa comigo: todo dono trata a saída de um vendedor bom como loteria que deu ruim. Só que não é sorte.",
+          "Se a saída de uma pessoa derruba a sua meta, o problema não é quem saiu. É que você nunca teve um time, você tinha um talento carregando a empresa nas costas."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 25 s",
+        "tela": "CONTRATAR E TREINAR É PROCESSO",
+        "topicos": [
+          "Na KONE a gente não reza pra achar outro vendedor bom igual ao que saiu. A gente treina todo mundo dentro do mesmo sistema, desde o dia um.",
+          "Então quando alguém sai, o time sente a falta da pessoa, mas a meta não vai com ela embora."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 32 s",
+        "tela": "TIME NÃO DEPENDE DE QUEM SAI",
+        "topicos": [
+          "Time que bate meta com constância não depende de quem fica ou de quem sai. Depende de treino diário dentro de um sistema.",
+          "Se a sua empresa treme cada vez que alguém pede as contas, você não tem time. Tem um talento e um problema."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "moldes.md, tese-conteudo.md (par 'Pedir demissão, ser demitido, rotatividade' → 'Contratar e treinar é processo, não sorte')",
+      "link": ""
+    },
+    "cta": ""
+  },
+  {
+    "id": "2026-11-08-2",
+    "data": "2026-11-08",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "narrado",
+    "tema": "Empresa de capital aberto (MNTN) perdeu mais da metade do valor de mercado depois de errar a meta do trimestre por problema no time de vendas",
+    "moral": "Time de vendas sem sistema não é só problema de empresa pequena. Até empresa listada na bolsa quebra a própria meta quando o time comercial falha",
+    "fala_com": "dono",
+    "nota_regua": 53,
+    "aberturas": [
+      "Saiu notícia essa semana de uma empresa americana de capital aberto que perdeu mais da metade do valor dela na bolsa. O motivo? O time de vendas não entregou.",
+      "Empresário, se você acha que só empresa pequena quebra a cara por causa de time de vendas desorganizado, olha o que aconteceu com uma empresa listada na bolsa agora.",
+      "Pensa comigo: uma empresa de capital aberto, com investidor, com relatório trimestral, perdeu mais de 50% do valor de mercado. E o motivo foi o time de vendas."
+    ],
+    "tela_primeiro_quadro": "ESSA EMPRESA PERDEU MAIS DA METADE DO VALOR NA BOLSA",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "ESSA EMPRESA PERDEU MAIS DA METADE DO VALOR NA BOLSA",
+        "topicos": [
+          "Saiu notícia essa semana: uma empresa americana de capital aberto, chamada MNTN, perdeu mais da metade do valor dela na bolsa de uma vez."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 16 s",
+        "tela": "O MOTIVO FOI O TIME DE VENDAS",
+        "topicos": [
+          "O motivo, segundo os relatórios do próprio trimestre, não foi um produto ruim nem a concorrência. Foi o time de vendas não bater a meta que a empresa prometeu pro mercado.",
+          "Investidor fugindo, ação despencando, tudo porque o time comercial não entregou o que foi prometido."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "16 a 26 s",
+        "tela": "ISSO NÃO É SÓ PROBLEMA DE EMPRESA PEQUENA",
+        "topicos": [
+          "Empresário, se você pensa que isso só acontece com empresa pequena e desorganizada, essa notícia mostra o contrário.",
+          "Time de vendas sem sistema quebra meta em empresa de garagem e quebra meta em empresa de bolsa de valores. O tamanho não protege ninguém."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "26 a 33 s",
+        "tela": "SISTEMA DE VENDAS NÃO É LUXO, É SOBREVIVÊNCIA",
+        "topicos": [
+          "Time que bate meta com constância não é o time mais talentoso. É o time que treina dentro de um sistema todo dia.",
+          "Se uma empresa de capital aberto quebra a própria meta por time sem sistema, imagina o que isso custa pra sua empresa."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "quentes.json: 'MNTN shares plunge 55% after missing Q3 revenue and EBITDA targets due to sales team issues' (Pluang) e 'MNTN: Sales execution disruption drove a Q3 miss and a cautious Q4 outlook as the sales team rebuilds' (TradingView)",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZXlwZVRERTlLTUJ3bDlYT0F6dVNac3MyS2locjRPYWNHNDByaGlMNGF3UVJWeDFQRE56RzNHd2MxWWpWcEFVNFJZYjRXMFNrdWhiZHNHMmw5ZVVZSzBQMTlKZHdkcmxJR1JPclQzeXcyNEFtMDJXVGRfMEVtME42Z2FpQzNjOUFw?oc=5"
+    },
+    "cta": ""
+  },
+  {
+    "id": "2026-11-08-3",
+    "data": "2026-11-08",
+    "vaga": "vida",
+    "pilar": "Bastidor da KONE",
+    "formato": "bastidores",
+    "tema": "Um vendedor do time trava numa objeção clássica durante um treinamento real, e fica claro na hora que treino não é teoria",
+    "moral": "Time que bate meta com constância não é o que decorou o script. É o que treinou a objeção travando, errando e corrigindo na frente de todo mundo, igual atleta treina a mesma queda até não cair mais",
+    "fala_com": "time",
+    "nota_regua": 53,
+    "aberturas": [
+      "Esse é um corte do treinamento real que a gente fez essa semana na KONE. O vendedor travou numa objeção clássica, e foi exatamente isso que a gente queria ver.",
+      "Gravei esse pedaço do treinamento porque foi o momento em que o vendedor travou. E é aí que o treino de verdade começa.",
+      "Pensa comigo: se o vendedor só treina quando sabe a resposta certa, ele nunca aprende a travar na frente de todo mundo e continuar."
+    ],
+    "tela_primeiro_quadro": "ELE TRAVOU NA OBJEÇÃO. E ISSO FOI BOM.",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "ELE TRAVOU NA OBJEÇÃO. E ISSO FOI BOM.",
+        "topicos": [
+          "Esse é um corte do treinamento real que a gente fez essa semana com o time da KONE."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 14 s",
+        "tela": "A OBJEÇÃO MAIS COMUM DO MERCADO",
+        "topicos": [
+          "O cliente simulado soltou a objeção que todo vendedor escuta: 'me manda por escrito que eu te retorno'. E o vendedor travou.",
+          "Travou na frente do time inteiro, sem script pronto pra aquele momento exato."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "14 a 24 s",
+        "tela": "TRAVAR NO TREINO É O PONTO",
+        "topicos": [
+          "E é exatamente isso que eu quero que aconteça no treino, não na call de verdade com o cliente pagando a conta.",
+          "A gente parou, voltou, treinou a mesma objeção três vezes seguidas até ele responder sem travar."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "24 a 31 s",
+        "tela": "TREINO É A QUEDA REPETIDA, NÃO O SCRIPT DECORADO",
+        "topicos": [
+          "Time que bate meta com constância não é o que decorou resposta pronta. É o que já travou, errou e corrigiu isso no treino, igual eu treinava a mesma queda no tatame até não cair mais.",
+          "Treino que não deixa ninguém travar não é treino. É teatro."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/Dep18qiDi0K/",
+      "perfil": "ohenriquecedor",
+      "vezes": "25.3",
+      "molde": "Trecho real de treinamento com alguém do time, lidando com objeção de cliente na ligação, como espetáculo de bastidor"
+    },
+    "fonte": {
+      "nome": "moldes.md, Linha de exposição (bastidor da KONE, com aval do João) e Regras de fato (Taekwondo: 9 anos de treino até o Mundial)",
       "link": ""
     },
     "cta": ""
