@@ -1363,5 +1363,200 @@
       "link": ""
     },
     "cta": ""
+  },
+  {
+    "id": "2026-11-09-1",
+    "data": "2026-11-09",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "Dono olha o CRM lotado de negociação em andamento e já comemora a meta, mas na virada do mês metade vira \"vou te retornar\" e a meta não bate",
+    "moral": "Funil cheio no CRM não é meta batida. É vendedor jogando lead qualquer pra dentro só para não deixar a tela vazia. Sistema de treino que ensina a qualificar antes de entrar no funil é o que sustenta meta, não o tamanho do funil",
+    "fala_com": "dono",
+    "nota_regua": 52,
+    "aberturas": [
+      "Empresário, seu CRM tá lotado de negociação e mesmo assim você não bate meta? Eu vou te falar o motivo.",
+      "Seu funil tá cheio. Sua meta não bate. Pensa comigo.",
+      "40 negociações em andamento no CRM. Meta batida? Não necessariamente."
+    ],
+    "tela_primeiro_quadro": "Seu funil tá lotado. Sua meta não bate.",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Seu funil tá lotado. Sua meta não bate.",
+        "topicos": [
+          "Você abre o CRM, vê 40 negociação em andamento e já comemora a meta do mês."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Dia 28: metade virou \"te retorno depois\"",
+        "topicos": [
+          "Só que chega dia 28 e metade desses 40 virou \"vou te retornar\", \"deixa eu alinhar com o sócio\", \"me manda de novo semana que vem\".",
+          "E aí o funil que parecia cheio esvazia tudo de uma vez, e você fica rezando pra fechar o resto em dois dias."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 25 s",
+        "tela": "CRM vira cemitério de lead",
+        "topicos": [
+          "Pensa comigo: funil cheio não é meta batida, é vendedor jogando lead qualquer pra dentro do CRM só para não ficar com a tela vazia.",
+          "CRM virou cemitério de lead. Parece movimento, mas lá dentro só tem negócio morto esperando enterro."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 35 s",
+        "tela": "Treino diário qualifica. Funil bonito não.",
+        "topicos": [
+          "Time que bate meta com constância não mede o funil pelo tamanho, mede pela qualificação que entrou nele.",
+          "Isso é treino diário, TODO DIA. Não é sorte de fechar rápido no fim do mês."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "tese original, sem esqueleto de vídeo viral copiado"
+    },
+    "fonte": {
+      "nome": "moldes.md — Voz (metáfora \"CRM vira cemitério de lead\") e tese-conteudo.md (conflito de dependência/sistema)",
+      "link": ""
+    },
+    "cta": "comentar a palavra FUNIL"
+  },
+  {
+    "id": "2026-11-09-2",
+    "data": "2026-11-09",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "caixinha polêmica",
+    "tema": "A Renner, uma das maiores redes de loja do Brasil, anunciou há menos de um ano uma meta de crescimento de receita até 2030 e essa semana teve que retirar essa meta do papel depois que a venda nas mesmas lojas caiu no trimestre",
+    "moral": "Se até uma empresa de bilhões, com dinheiro, sistema e CRM dos grandes, trava quando o time comercial não sustenta o ritmo, o problema nunca foi tamanho de orçamento. Meta não é frase bonita de slide pra investidor, é treino que sustenta o número todo santo mês",
+    "fala_com": "dono",
+    "nota_regua": 47,
+    "aberturas": [
+      "Uma das maiores redes de loja do Brasil cancelou a própria meta de crescimento essa semana. Deixa eu te contar o motivo.",
+      "Gigante do varejo. Meta de crescimento até 2030. Cancelada em menos de um ano.",
+      "Empresário, se uma rede de bilhões trava na meta, o que você acha que acontece com o seu time sem sistema?"
+    ],
+    "tela_primeiro_quadro": "Gigante do varejo. Meta de crescimento. Cancelada.",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Gigante do varejo. Meta de crescimento. Cancelada.",
+        "topicos": [
+          "Uma das maiores redes de loja do Brasil anunciou pro mercado inteiro uma meta de crescimento de receita até 2030. Faz menos de um ano."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Essa semana: meta retirada do papel",
+        "topicos": [
+          "Essa semana ela voltou atrás. Tirou a meta do papel.",
+          "O motivo? A venda nas mesmas lojas caiu no trimestre, bem abaixo do que o próprio mercado esperava."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 25 s",
+        "tela": "Orçamento grande não é o problema",
+        "topicos": [
+          "Pensa comigo: se uma empresa desse tamanho, com dinheiro, sistema e CRM dos grandes, trava quando a venda desacelera...",
+          "...o problema nunca foi tamanho de orçamento. Foi o time comercial não aguentando o ritmo que a meta exigia."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 35 s",
+        "tela": "Treino sustenta a meta, não o slide",
+        "topicos": [
+          "Meta não é frase bonita de slide pra investidor. É treino que sustenta o número todo santo mês.",
+          "Empresa grande erra meta do mesmo jeito que empresa pequena: quando o time para de treinar, por dentro de qualquer camada de sistema que você tenha."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "notícia de mercado (quentes.json), sem esqueleto de vídeo viral copiado"
+    },
+    "fonte": {
+      "nome": "Jornal do Comércio — Renner retira projeções de crescimento de receita até 2030 citando desafios no varejo (fato relevante de 05/11/2026; queda de 2,5% nas vendas em mesmas lojas no 3º trimestre)",
+      "link": "https://www.jornaldocomercio.com/economia/2026/11/1269569-renner-retira-projecoes-de-crescimento-de-receita-ate-2030-citando-desafios-no-varejo.html"
+    },
+    "cta": "seguir"
+  },
+  {
+    "id": "2026-11-09-3",
+    "data": "2026-11-09",
+    "vaga": "vida",
+    "pilar": "Vida e identidade",
+    "formato": "storytelling visual",
+    "tema": "As empresas do pai dele quebraram não por falta de cliente ou de venda, mas por falta de gestão",
+    "moral": "Um negócio pode vender bem e quebrar do mesmo jeito se ninguém tocar ele com sistema. Time de vendas quebra pelo mesmo motivo que empresa quebra: não é falta de venda, é falta de gestão. É por isso que ele treina time todo dia dentro de um sistema",
+    "fala_com": "dono",
+    "nota_regua": 54,
+    "aberturas": [
+      "As empresas do meu pai quebraram. Mais de uma. E não foi por falta de venda.",
+      "Eu vi de perto uma empresa que vendia bem quebrar. Pensa comigo no motivo.",
+      "Meu pai teve empresas. Elas quebraram. O motivo não foi o que você imagina."
+    ],
+    "tela_primeiro_quadro": "As empresas do meu pai quebraram.",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "As empresas do meu pai quebraram.",
+        "topicos": [
+          "As empresas do meu pai quebraram. Mais de uma."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Não foi por falta de venda. Foi por falta de gestão.",
+        "topicos": [
+          "Eu vi de perto. Não foi por falta de cliente, nem por falta de venda. Foi por falta de gestão.",
+          "Um negócio pode vender bem e quebrar do mesmo jeito, se ninguém tocar ele com sistema."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 25 s",
+        "tela": "Decidi: nunca ia depender de talento",
+        "topicos": [
+          "Pensa comigo: quantas empresas você conhece que vendem bem e ainda assim vivem no sufoco?",
+          "Eu decidi ainda moleque que meu negócio ia depender de sistema, não de sorte nem de talento de ninguém, nem o meu."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 35 s",
+        "tela": "Gestão decide se sobrevive ou quebra",
+        "topicos": [
+          "Time de vendas quebra pelo mesmo motivo que empresa quebra: não é falta de venda, é falta de gestão.",
+          "É por isso que eu treino time todo dia dentro de um sistema. Gestão não é opcional. É o que decide se o que você construiu sobrevive ou quebra."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "história pessoal, sem esqueleto de vídeo copiado"
+    },
+    "fonte": {
+      "nome": "moldes.md — Linha de exposição (Mostra: origem, empresas do pai que quebraram por falta de gestão)",
+      "link": ""
+    },
+    "cta": ""
   }
 ]
