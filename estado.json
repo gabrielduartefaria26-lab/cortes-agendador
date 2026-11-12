@@ -254,9 +254,8 @@
     "em": "2026-11-11T16:01:31+00:00"
   },
   "tweet-30": {
-    "status": "erro",
-    "erro": "500 em media: {\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"code\":2,\"type\":\"OAuthException\",\"is_transient\":true,\"fbtrace_id\":\"AEv6VFqvaQcUXUjN0T9-hjg\"}}",
-    "tentativas": 1,
-    "em": "2026-11-12T16:00:51+00:00"
+    "status": "publicado",
+    "media_id": "18058840553582099",
+    "em": "2026-11-12T16:02:57+00:00"
   }
 }
