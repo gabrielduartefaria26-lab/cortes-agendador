@@ -1,200 +1,5 @@
 [
   {
-    "id": "2026-11-04-1",
-    "data": "2026-11-04",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "palestrinha",
-    "tema": "Dono mede o vendedor só pelo fechamento do mês, nunca pelo processo que levou até lá",
-    "moral": "Time que bate meta com constância é treinado e medido pelo processo todo dia, não só pelo resultado no fim do mês. Atleta não é avaliado só pela luta de domingo, é avaliado pelo treino de terça.",
-    "fala_com": "dono",
-    "nota_regua": 53,
-    "aberturas": [
-      "Empresário, deixa eu te fazer uma pergunta.",
-      "Você mede seu vendedor pelo fechamento do mês, ou pelo processo que ele fez pra chegar lá?",
-      "Quase todo dono só olha uma coisa no vendedor: se ele fechou. E é aí que o time para de evoluir."
-    ],
-    "tela_primeiro_quadro": "VOCÊ SÓ OLHA O FECHAMENTO?",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "VOCÊ SÓ OLHA O FECHAMENTO?",
-        "topicos": [
-          "Empresário, deixa eu te fazer uma pergunta."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "RESULTADO SEM PROCESSO É SORTE",
-        "topicos": [
-          "Pensa comigo: você sabe quantas ligações seu vendedor fez essa semana? Quantos follow-up ele fez? Quantas vezes ele seguiu o script até o fim?",
-          "Ou você só olha se ele fechou no fim do mês?"
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 24 s",
-        "tela": "ATLETA NÃO É SÓ A LUTA DE DOMINGO",
-        "topicos": [
-          "Eu treinei 7 anos até pisar no tatame de um Mundial. E nenhum treinador meu media minha evolução só pela luta de domingo.",
-          "Media o treino de terça, o de quarta, o de quinta."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "24 a 30 s",
-        "tela": "TREINE O PROCESSO, NÃO SÓ O RESULTADO",
-        "topicos": [
-          "Então se seu time só é cobrado pelo fechamento, você não tem um sistema de vendas. Você tem uma aposta todo fim de mês.",
-          "Time que bate meta com constância treina e mede o processo todo dia."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "Tese direta, sem vídeo de referência; molde próprio dele (palestrinha)"
-    },
-    "fonte": {
-      "nome": "",
-      "link": ""
-    },
-    "cta": "comentar uma palavra"
-  },
-  {
-    "id": "2026-11-04-2",
-    "data": "2026-11-04",
-    "vaga": "quente",
-    "pilar": "Tese e bandeira",
-    "formato": "palestrinha",
-    "tema": "Dono trata o vendedor como funcionário que precisa ser vigiado o dia inteiro, não como alguém que é dono do próprio resultado",
-    "moral": "Sistema de vendas que funciona não depende de vigilância. Depende de treino que forma o vendedor pra decidir sozinho, como sócio do resultado dele, não como funcionário vigiado.",
-    "fala_com": "dono",
-    "nota_regua": 60,
-    "aberturas": [
-      "Empresário, você trata seu vendedor como funcionário que precisa de vigilância, ou como sócio que é dono do resultado dele?",
-      "Vi um artigo essa semana que resumiu um problema que eu vejo em time de vendas todo santo dia.",
-      "Se toda decisão da venda passa por você, seu vendedor nunca aprendeu a decidir. Só aprendeu a obedecer."
-    ],
-    "tela_primeiro_quadro": "VOCÊ VIGIA SEU VENDEDOR?",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "VOCÊ VIGIA SEU VENDEDOR?",
-        "topicos": [
-          "Empresário, você trata seu vendedor como funcionário que precisa de vigilância, ou como sócio que é dono do resultado dele?"
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "FUNCIONÁRIO VIGIADO NÃO DECIDE",
-        "topicos": [
-          "Pensa comigo: se toda decisão da venda passa por você, seu vendedor nunca aprende a decidir sozinho. Ele só executa o que você manda.",
-          "E no dia que o cliente foge do script, ele trava, porque nunca treinou pra decidir. Só treinou pra obedecer."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 24 s",
-        "tela": "NINGUÉM DECIDE NO COMBATE SEM TREINAR A DECISÃO",
-        "topicos": [
-          "Vi um artigo essa semana que resumiu isso certeiro: vendedor não é criança que você vigia, é dono do próprio resultado dentro do seu negócio.",
-          "No tatame, ninguém decide bem no meio do combate só porque alguém grita ordem da beira. Decide bem porque treinou aquela decisão centenas de vezes antes."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "24 a 30 s",
-        "tela": "TREINE A DECISÃO, NÃO SÓ A OBEDIÊNCIA",
-        "topicos": [
-          "Time que bate meta com constância não é o time mais vigiado. É o time mais treinado pra decidir sozinho, com ou sem você olhando.",
-          "Isso é sistema. Vigilância não é sistema."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "Pauta do radar (quentes.json), sem vídeo de referência"
-    },
-    "fonte": {
-      "nome": "Furniture Today (Mike Root)",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY3VaQXlya3RsUlpLWGExNWN3VlRXTDhoMXk1X3N4cGF0S0pFRHpFUEQtQTYyeVEtWWdISTRuQmViU2tkWjlZYlBmZlJELURWb2VkWWY1NTVqNVY4ZTJFdlFRZkZNME1zQzZfM0w3cDJoTUhoMGVBVGFVaGV5NDhISlVjVXZ0Y2ZZRTE5Y1VJYWJXb3pLYUtjOHlPRGx0Vzl2aFRIa3kwc3pqTVNfQUkzOWtPRHJGS3hKcHZIcUtoenozblc2Wmc?oc=5"
-    },
-    "cta": "comentar uma palavra"
-  },
-  {
-    "id": "2026-11-04-3",
-    "data": "2026-11-04",
-    "vaga": "vida",
-    "pilar": "Bastidor da KONE",
-    "formato": "bastidores",
-    "tema": "Três vendedores do time, três jeitos diferentes de fechar venda, nenhum dos três é padrão",
-    "moral": "Isso não é falta de talento, é falta de playbook. Na KONE roda playbook escrito pra cada função: SDR, social seller e closer. Vendedor treinado segue o roteiro que fecha mais, não o que ele acha melhor.",
-    "fala_com": "dono",
-    "nota_regua": 45,
-    "aberturas": [
-      "Empresário, você já parou pra ver como cada vendedor do seu time fecha venda do jeito dele?",
-      "Três vendedores, três jeitos diferentes de fechar venda. Nenhum dos três é padrão, é sorte.",
-      "Se três vendedores seus fecham de três jeitos diferentes, você não tem um time. Tem três apostas."
-    ],
-    "tela_primeiro_quadro": "3 VENDEDORES, 3 JEITOS DIFERENTES DE VENDER",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "3 VENDEDORES, 3 JEITOS DIFERENTES DE VENDER",
-        "topicos": [
-          "Empresário, você já parou pra ver como cada vendedor do seu time fecha venda do jeito dele?"
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "SEM PADRÃO, A VENDA DEPENDE DE QUEM ATENDE",
-        "topicos": [
-          "Pensa comigo: um vendedor só fecha dando desconto. Outro trava quando o cliente muda de assunto no meio da ligação. Um terceiro não sabe o que fazer quando o cliente simplesmente some.",
-          "Isso não é falta de talento. É falta de um jeito certo, testado, que todo mundo segue."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 24 s",
-        "tela": "NA KONE TEM PLAYBOOK PRA CADA FUNÇÃO",
-        "topicos": [
-          "Na KONE a gente resolveu isso com playbook escrito pra cada função: um pro SDR, um pro social seller, um pro closer.",
-          "Cada etapa da venda tem um jeito certo, testado, escrito, que não depende de quem tá na ligação."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "24 a 30 s",
-        "tela": "SEGUE O ROTEIRO QUE FECHA MAIS, NÃO O QUE ACHA MELHOR",
-        "topicos": [
-          "Vendedor treinado segue o roteiro que fecha mais. Não o que ele, no calor da ligação, acha que é melhor.",
-          "Isso é sistema que não depende de quem tá na ligação."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "Bastidor próprio da KONE, sem molde de referência externo"
-    },
-    "fonte": {
-      "nome": "",
-      "link": ""
-    },
-    "cta": "seguir"
-  },
-  {
     "id": "2026-11-05-1",
     "data": "2026-11-05",
     "vaga": "tese",
@@ -1566,5 +1371,199 @@
       "link": ""
     },
     "cta": "seguir"
+  },
+  {
+    "id": "2026-11-12-1",
+    "data": "2026-11-12",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "Fim do mes, meta quase batendo, o vendedor liga pro dono pedindo aval pra dar desconto num cliente que ja tinha dito sim pro preco cheio duas semanas atras",
+    "moral": "Desconto no fim do mes nao e fechamento, e o cliente aprendendo a esperar o desespero bater. Time que qualifica valor fecha pelo preco cheio porque treinou a objecao antes dela aparecer; time que so cobra meta fecha no desconto e ensina o cliente a nunca mais pagar o preco certo",
+    "fala_com": "dono",
+    "nota_regua": 50,
+    "aberturas": [
+      "Empresario, fim do mes, faltando bater a meta, o teu vendedor te liga pedindo aval pra dar desconto.",
+      "Teve uma venda ali que ja tinha fechado no preco cheio. So que foi na semana errada do mes.",
+      "Pensa comigo: o cliente que fecha no desconto no fim do mes, ele te ensinou a ensinar isso."
+    ],
+    "tela_primeiro_quadro": "O DESCONTO QUE VOCÊ MESMO ENSINOU O CLIENTE A ESPERAR",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "O DESCONTO QUE VOCÊ MESMO ENSINOU O CLIENTE A ESPERAR",
+        "topicos": [
+          "Empresario, fim do mes, faltando bater a meta, o teu vendedor te liga pedindo aval pra dar desconto."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "O MESMO CLIENTE JÁ TINHA DITO SIM",
+        "topicos": [
+          "Só que esse mesmo cliente, duas semanas atrás, já tinha dito sim pro preço cheio.",
+          "Pensa comigo: o que mudou não foi o produto. Foi o vendedor que ficou duro, com medo de perder a venda, e apostou no desconto em vez de defender o preço."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 25 s",
+        "tela": "VOCÊ TREINOU O CLIENTE A ESPERAR O DESESPERO",
+        "topicos": [
+          "E aí você aprova, porque meta é meta. Só que, sem perceber, você treinou aquele cliente a esperar desconto toda vez que o mês fecha.",
+          "Então na próxima negociação ele já entra sabendo que, se travar, o preço cai."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 35 s",
+        "tela": "QUALIFICA VALOR, NÃO VENDE DESCONTO",
+        "topicos": [
+          "Vendedor que treina todo dia sabe responder a objeção de preço antes dela virar desconto, porque já ensaiou aquela cena a semana toda.",
+          "Time que qualifica valor fecha pelo preço cheio. Time que só cobra meta, fecha no desconto, e ensina o cliente a nunca mais pagar o preço certo."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "",
+      "link": ""
+    },
+    "cta": "comentar a palavra PREÇO"
+  },
+  {
+    "id": "2026-11-12-2",
+    "data": "2026-11-12",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "narrado",
+    "tema": "A Exame publicou hoje que a saida de um vendedor pode colocar toda a carteira de clientes B2B em risco",
+    "moral": "Se o relacionamento sai da empresa junto com o vendedor, a empresa nunca teve um time, tinha um talento alugado com crachá. Sistema de vendas registra cada conversa, cada objeção e cada motivo de compra, treinado todo dia pelo time inteiro, pra carteira pertencer à empresa e não a uma pessoa só",
+    "fala_com": "dono",
+    "nota_regua": 54,
+    "aberturas": [
+      "Empresário, saiu hoje na Exame: quando um vendedor sai, a carteira de cliente B2B sai com ele.",
+      "Se isso virou notícia, é porque está acontecendo com gente que achava que tinha um time de vendas.",
+      "A Exame publicou hoje uma frase que devia assustar todo dono de empresa B2B."
+    ],
+    "tela_primeiro_quadro": "HOJE NA EXAME: A CARTEIRA SAI COM O VENDEDOR",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "HOJE NA EXAME: A CARTEIRA SAI COM O VENDEDOR",
+        "topicos": [
+          "Empresário, saiu hoje na Exame: quando um vendedor sai, a carteira de cliente B2B sai com ele."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "O CLIENTE NUNCA COMPROU DA EMPRESA",
+        "topicos": [
+          "Pensa comigo: se isso é notícia, é porque está acontecendo com gente que achava que tinha um time.",
+          "Só que o cliente nunca comprou da empresa. Comprou da pessoa que atendeu, porque nenhum histórico daquela relação ficou registrado em lugar nenhum."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 25 s",
+        "tela": "TALENTO ALUGADO COM CRACHÁ DA EMPRESA",
+        "topicos": [
+          "E aí o vendedor pede as contas, leva o WhatsApp, leva a confiança, e o dono descobre, no pior momento possível, que não tinha time.",
+          "Tinha um talento alugado com crachá da empresa."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 35 s",
+        "tela": "CARTEIRA DA EMPRESA NÃO SAI PELA PORTA",
+        "topicos": [
+          "Então o problema nunca foi o vendedor que saiu. Foi a empresa nunca ter um sistema que registra cada conversa, cada objeção e cada motivo de compra, treinado todo dia pelo time inteiro.",
+          "Carteira que pertence à empresa não sai pela porta com um vendedor só. Carteira que pertence a uma pessoa só, sai."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "Exame — \"A saída de um vendedor pode colocar toda a carteira de clientes B2B em risco\"",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeERnNXFUU2JubXZFM2VKUXVybzZnSWtZXzY5Rm1nZWtGX09feTRLbDZzM0FfUTgwTFVwMFR0TklzTE01RGR1OUNSNm9kR2NLTlhvVUszbEpDRUM2clZsYWtVbGRpUHZHUFlwTVM2bm1FODJTaThpc3hUcE5iYURYZ2RQcmdKNTFrSFkybkVEVGJQMmRfT1l3cjduRW9KR3h3N1ZlblRrcUozV3ZvcS1JRnNkUEl2dTJ3WkF0LTBZVF95azFM?oc=5"
+    },
+    "cta": "seguir"
+  },
+  {
+    "id": "2026-11-12-3",
+    "data": "2026-11-12",
+    "vaga": "vida",
+    "pilar": "Vida e identidade",
+    "formato": "cine",
+    "tema": "Comecou a trabalhar aos 14 anos como empacotador de supermercado, numa familia de imigrantes sem estrutura, antes de qualquer faixa ou medalha no tatame",
+    "moral": "Vendedor se forma como atleta se forma: ninguém nasce pronto, se forma trabalhando e treinando desde cedo, com ou sem estrutura; é esse treino que ele aplica hoje pra formar vendedor dentro do time",
+    "fala_com": "dono",
+    "nota_regua": 46,
+    "aberturas": [
+      "Aos 14 anos, antes de qualquer faixa ou medalha, eu empacotava sacola de supermercado.",
+      "Antes de pisar num tatame de Mundial, a minha primeira rotina foi empacotar mercado aos 14 anos.",
+      "Ninguém me perguntou se eu tava pronto pra empacotar mercado aos 14. Eu só aprendi fazendo."
+    ],
+    "tela_primeiro_quadro": "AOS 14 ANOS, EU EMPACOTAVA MERCADO",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "AOS 14 ANOS, EU EMPACOTAVA MERCADO",
+        "topicos": [
+          "Aos 14 anos, antes de qualquer faixa ou medalha, eu empacotava sacola de supermercado."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "FAMÍLIA DE IMIGRANTES, SEM ESTRUTURA NENHUMA",
+        "topicos": [
+          "Minha família era de imigrantes, sem estrutura nenhuma pra me colocar pronto em time nenhum.",
+          "Pensa comigo: ninguém nasce sabendo empacotar rápido, nem sabendo lutar, nem sabendo vender. Eu aprendi empacotando, depois lutando, treinando todo santo dia até virar titular num Mundial."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 25 s",
+        "tela": "O MESMO ERRO, ANOS DEPOIS",
+        "topicos": [
+          "Só que, quando eu olho pro vendedor que chega na KONE achando que devia nascer pronto pra vender, eu vejo o mesmo erro que eu via em mim com 14 anos: querer o resultado sem aceitar o treino."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 35 s",
+        "tela": "VENDEDOR SE FORMA COMO ATLETA SE FORMA",
+        "topicos": [
+          "Então vendedor se forma do mesmo jeito que eu me formei: treinando todo dia, sem estrutura perfeita, sem atalho.",
+          "Time que bate meta com constância não nasceu pronto. Treinou, igual eu treinei, desde o empacotamento até o tatame."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "Trajetória (Regras de fato, moldes.md)",
+      "link": ""
+    },
+    "cta": ""
   }
 ]
