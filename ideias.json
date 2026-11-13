@@ -1,200 +1,5 @@
 [
   {
-    "id": "2026-11-05-1",
-    "data": "2026-11-05",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "palestrinha",
-    "tema": "Dono contrata o vendedor com o currículo perfeito e descarta o candidato torto que ninguém apostaria, achando que experiência pronta resolve o time",
-    "moral": "Vendedor se forma como atleta se forma. Não é currículo pronto que bate meta, é o sistema de treino que transforma potencial em resultado; currículo bonito sem treino também trava",
-    "fala_com": "dono",
-    "nota_regua": 45,
-    "aberturas": [
-      "Empresário, você já contratou o vendedor com o currículo perfeito e viu ele travar na primeira call de verdade?",
-      "Pensa comigo: por que o vendedor com toda a experiência no papel some na primeira meta difícil, e o torto que ninguém queria vira o melhor do time?",
-      "Currículo bonito não fecha venda nenhuma. Quem fecha é quem treinou."
-    ],
-    "tela_primeiro_quadro": "CURRÍCULO PRONTO NÃO BATE META",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "CURRÍCULO PRONTO NÃO BATE META",
-        "topicos": [
-          "Empresário, você já contratou o vendedor com o currículo perfeito e viu ele travar na primeira call de verdade?"
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 16 s",
-        "tela": "experiência pronta não é treino seu",
-        "topicos": [
-          "Isso acontece porque você contratou a experiência que ele teve em outro sistema, com outro script, com outro treino.",
-          "Só que, fora daquele sistema, sem o treino diário que formou ele lá, esse currículo bonito não repete o resultado sozinho dentro da sua empresa."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "16 a 28 s",
-        "tela": "o torto que ninguém apostava",
-        "topicos": [
-          "Enquanto isso, o vendedor torto que ninguém apostaria entra no seu sistema, treina todo dia, e em noventa dias vira o melhor do time.",
-          "Não foi sorte. Foi treino dentro de um sistema que formou ele do zero, do seu jeito, com a sua meta."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "28 a 38 s",
-        "tela": "VENDEDOR SE FORMA, NÃO VEM PRONTO",
-        "topicos": [
-          "Vendedor se forma como atleta se forma.",
-          "Não é o currículo pronto que bate meta. É o sistema de treino que transforma potencial em resultado."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "tese-conteudo.md - conflito universal (depender de talento pronto) adaptado para contratação",
-      "link": ""
-    },
-    "cta": "comentar uma palavra"
-  },
-  {
-    "id": "2026-11-05-2",
-    "data": "2026-11-05",
-    "vaga": "quente",
-    "pilar": "Bastidor da KONE",
-    "formato": "narrado",
-    "tema": "Cliente ouve a proposta inteira, gosta, e no fim fala que precisa alinhar com o sócio antes de fechar. A venda trava ali e muitas vezes nunca mais fecha",
-    "moral": "Essa objeção não se resolve com talento nem intuição. Se resolve com o script que o time treinou especificamente pra ela, dentro do treino diário; é isso que separa o vendedor que improvisa do time que já sabe o que fazer porque treinou aquela cena a semana toda",
-    "fala_com": "time",
-    "nota_regua": 52,
-    "aberturas": [
-      "O que fazer quando o cliente fecha a reunião inteira e no final fala que precisa alinhar com o sócio antes de assinar?",
-      "Pensa comigo: o cliente gostou da proposta inteira, e no fim fala que precisa falar com o sócio. Isso é objeção de verdade ou só um jeito educado de fugir?",
-      "Sua venda não trava no preço. Trava quando o decisor que você não viu entra na sala depois que você saiu."
-    ],
-    "tela_primeiro_quadro": "PRECISO ALINHAR COM MEU SÓCIO",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "PRECISO ALINHAR COM MEU SÓCIO",
-        "topicos": [
-          "O que fazer quando o cliente fecha a reunião inteira e no final fala que precisa alinhar com o sócio antes de assinar?"
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 16 s",
-        "tela": "objeção verdadeira ou fuga educada?",
-        "topicos": [
-          "Primeiro, vendedor treinado não aceita essa frase como ponto final. Ele precisa descobrir se é uma objeção verdadeira ou só um jeito educado de fugir de um não.",
-          "Pra isso, ele pergunta direto: o que o seu sócio vai querer saber que eu ainda não respondi aqui?"
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "16 a 30 s",
-        "tela": "treine essa cena, não essa frase",
-        "topicos": [
-          "Se a resposta vier clara, ele já marca a próxima call com o sócio dentro da conversa, com data e hora, não depois dela.",
-          "No meu time a gente não treina frase bonita pra objeção. A gente treina a cena inteira: o que o vendedor pergunta, o que ele escuta, o que ele marca antes de sair da sala."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "30 a 40 s",
-        "tela": "TREINO DIÁRIO FECHA O QUE O IMPROVISO PERDE",
-        "topicos": [
-          "Essa objeção não se resolve com talento nem com intuição.",
-          "Se resolve com o script que o time treinou especificamente pra ela, dentro do treino de todo dia."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "https://www.instagram.com/reel/De-GlMcjMgl/",
-      "perfil": "ohenriquecedor",
-      "vezes": "18.2",
-      "molde": "pergunta de objeção específica do cliente seguida de passo a passo prático de resposta"
-    },
-    "fonte": {
-      "nome": "outliers.csv - grupo gabriel, perfil ohenriquecedor, 26/10/2026",
-      "link": "https://www.instagram.com/reel/De-GlMcjMgl/"
-    },
-    "cta": ""
-  },
-  {
-    "id": "2026-11-05-3",
-    "data": "2026-11-05",
-    "vaga": "vida",
-    "pilar": "Vida e identidade",
-    "formato": "narrado",
-    "tema": "Ficou um ano inteiro como reserva da Seleção, treinando igual titular mesmo sem jogar, antes de virar titular no Mundial de Budapeste",
-    "moral": "Time que bate meta com constância trata o vendedor júnior como reserva que treina igual titular, não como estagiário esperando a vez. Quem treina igual quem já tá jogando, joga rápido",
-    "fala_com": "dono",
-    "nota_regua": 49,
-    "aberturas": [
-      "Fiquei um ano inteiro reserva da Seleção. Treinava igual titular, todo dia, sem jogar um minuto sequer.",
-      "Pensa comigo: por que o vendedor júnior do seu time treina menos que o closer, se é ele quem mais precisa treinar?",
-      "Ninguém vira titular de Mundial direto. Vira depois de treinar como titular sendo reserva."
-    ],
-    "tela_primeiro_quadro": "FUI RESERVA UM ANO INTEIRO",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "FUI RESERVA UM ANO INTEIRO",
-        "topicos": [
-          "Fiquei um ano inteiro reserva da Seleção. Treinava igual titular, todo dia, sem jogar um minuto sequer."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "treinar sem jogar dói mais",
-        "topicos": [
-          "Só que treinar sem jogar é mais difícil do que treinar pra jogo marcado. Ninguém está vendo, ninguém está cobrando resultado daquele treino.",
-          "É fácil largar a mão quando ninguém vai notar."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 28 s",
-        "tela": "aí veio o Mundial de Budapeste",
-        "topicos": [
-          "Então, quando a vaga de titular abriu no Mundial de Budapeste em 2018, eu já tinha treinado o ano inteiro como se fosse eu lá.",
-          "E hoje eu vejo o mesmo erro no time de vendas: o vendedor júnior treina menos que o closer, porque ainda 'não é ele quem vende'."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "28 a 38 s",
-        "tela": "QUEM TREINA IGUAL TITULAR, JOGA RÁPIDO",
-        "topicos": [
-          "Time que bate meta com constância trata o vendedor júnior como reserva que treina igual titular, não como estagiário esperando a vez.",
-          "Quem treina igual quem já tá jogando, joga rápido."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "Regras de fato (moldes.md): reserva da Seleção em 2017, titular no Mundial de Budapeste em 2018, 5º lugar",
-      "link": ""
-    },
-    "cta": ""
-  },
-  {
     "id": "2026-11-06-1",
     "data": "2026-11-06",
     "vaga": "tese",
@@ -1565,5 +1370,200 @@
       "link": ""
     },
     "cta": ""
+  },
+  {
+    "id": "2026-11-13-1",
+    "data": "2026-11-13",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "Vendedor novo recebe o playbook da empresa em PDF no primeiro dia e, depois da primeira semana, nunca mais abre esse arquivo",
+    "moral": "Playbook em PDF não forma vendedor nenhum. É o treino diário em cima do que o PDF escreve que fixa o conteúdo; sem esse treino, o PDF some numa pasta do Drive e o vendedor volta a vender do jeito que sabia antes",
+    "fala_com": "dono",
+    "nota_regua": 46,
+    "aberturas": [
+      "Empresário, você mandou o playbook em PDF pro vendedor novo no primeiro dia. Sabe quantas vezes ele abriu esse arquivo depois da primeira semana?",
+      "Pensa comigo: o playbook tá pronto, bonito, com capa e tudo. Só que ele mora numa pasta do Drive que ninguém mais abre.",
+      "PDF não treina vendedor. PDF só guarda o que deveria estar sendo treinado todo dia."
+    ],
+    "tela_primeiro_quadro": "O PLAYBOOK QUE NINGUÉM MAIS ABRE",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "O PLAYBOOK QUE NINGUÉM MAIS ABRE",
+        "topicos": [
+          "Empresário, você mandou o playbook em PDF pro vendedor novo no primeiro dia de trabalho."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 16 s",
+        "tela": "DEPOIS DA 1ª SEMANA, NINGUÉM MAIS ABRE",
+        "topicos": [
+          "Pensa comigo: ele leu na primeira semana, talvez até fez um resumo bonito. Só que depois disso o arquivo vai pra uma pasta do Drive e nunca mais é aberto.",
+          "E aí, meses depois, o vendedor tá vendendo do jeito que sabia antes de entrar, porque ler uma vez não é treino, é leitura."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "16 a 27 s",
+        "tela": "O QUE FIXA NÃO É O PDF, É A REPETIÇÃO",
+        "topicos": [
+          "Na KONE o playbook existe, mas ele não é o treino. Ele é o roteiro. O treino é pegar cada página dele e repetir a cena até o vendedor responder sem pensar.",
+          "Um script de objeção só vira hábito depois que o time treinou aquela mesma objeção várias vezes, em voz alta, com alguém corrigindo."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "27 a 35 s",
+        "tela": "PDF GUARDA O CONTEÚDO. TREINO FORMA O VENDEDOR.",
+        "topicos": [
+          "Então antes de mandar fazer outro playbook bonito, pergunta: quem vai treinar o time nele, toda semana, depois que ele for entregue?",
+          "Se a resposta for ninguém, o PDF não vai formar vendedor nenhum. Vai só ocupar espaço na nuvem."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "moldes.md — O que ele tem rodando (Playbook Comercial v2.2 e playbooks de SDR, Social Seller e Closer) e inimigo (playbook em PDF que anima na sexta e some na segunda)",
+      "link": ""
+    },
+    "cta": "comentar a palavra PDF"
+  },
+  {
+    "id": "2026-11-13-2",
+    "data": "2026-11-13",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "comparação",
+    "tema": "Uma pesquisa do setor automotivo nos EUA mostrou essa semana que leads de vendas mais caras precisam ser trabalhados por mais tempo antes de fechar, enquanto a maioria dos vendedores desiste rápido de um lead de ticket alto que não responde de imediato",
+    "moral": "Lead de ticket alto não fecha rápido porque é caro, fecha quando o vendedor treinou a cadência certa pra ele; desistir rápido não é falta de sorte, é falta de processo de follow-up pensado pra venda grande",
+    "fala_com": "time",
+    "nota_regua": 50,
+    "aberturas": [
+      "Saiu uma pesquisa essa semana no setor automotivo americano: lead de venda mais cara precisa ser trabalhado por mais tempo antes de fechar.",
+      "Pensa comigo: por que seu vendedor desiste rápido do lead de ticket alto, se é justamente esse lead que precisa de mais tempo?",
+      "Quanto maior o ticket, mais rápido seu vendedor costuma desistir do lead. Devia ser o contrário."
+    ],
+    "tela_primeiro_quadro": "LEAD CARO PRECISA DE MAIS TEMPO, NÃO DE MENOS",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "LEAD CARO PRECISA DE MAIS TEMPO, NÃO DE MENOS",
+        "topicos": [
+          "Saiu uma pesquisa essa semana no mercado automotivo americano: lead de venda mais cara precisa ser trabalhado por mais tempo antes de fechar."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 16 s",
+        "tela": "SEU VENDEDOR DESISTE RÁPIDO DEMAIS",
+        "topicos": [
+          "Só que, pensa comigo, é quase o contrário do que a maioria dos vendedores faz. No lead de ticket alto, ele manda uma mensagem, não tem resposta na hora, e já marca como perdido.",
+          "E marca rápido, porque esse lead dá mais trabalho e o vendedor quer liberar espaço na agenda pros leads fáceis."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "16 a 27 s",
+        "tela": "TICKET ALTO PEDE CADÊNCIA TREINADA, NÃO IMPROVISO",
+        "topicos": [
+          "Só que lead caro não fecha no improviso de quem tá com pressa. Fecha com cadência pensada: quantos toques, em quantos canais, com qual intervalo entre eles.",
+          "No meu time a gente treina isso como processo, não como feeling: cada etapa do follow-up de ticket alto tem um motivo pra existir."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "27 a 35 s",
+        "tela": "NÃO É SORTE DE QUEM INSISTE, É TREINO DE QUEM SABE A CADÊNCIA",
+        "topicos": [
+          "Então antes de marcar o próximo lead caro como perdido, pergunta: seu time treinou a cadência certa pra ele, ou só desistiu rápido porque dava trabalho?",
+          "Lead de ticket alto se fecha com processo treinado, não com quem aguenta insistir mais."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "Car Dealer Magazine — \"Research shows expensive car sales leads need to be worked for longer\" (via quentes.json, visto em 09/11/2026)",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd24wRUVrTW16SThRd0tDZHdTWWpIVGxZSDM2RFFWME5jcG1SOXJZbHU4VW5TaXdZMktxaFJ4ajFWU2NPaUJFTm9iTVB6bUF3MTZyX2ZSZXJOTUtfdDBWdE1LSUJlRHdCZHVCRjhJYzA0VkZhajk2UUFGb0NGMlhtdTNJTi0yU2NYN1VrMUVpYVlvZW5Fc3dxMlEwVmNyUjZvalAxcjdxS25BTXA4?oc=5"
+    },
+    "cta": ""
+  },
+  {
+    "id": "2026-11-13-3",
+    "data": "2026-11-13",
+    "vaga": "vida",
+    "pilar": "Bastidor da KONE",
+    "formato": "bastidores",
+    "tema": "Toda sexta, a KONE fecha o quadro da semana com o placar de cada vendedor: quem bateu meta, quem não bateu e quem precisa de treino extra na semana seguinte, exposto pra todo o time ver",
+    "moral": "Time que bate meta com constância tem o placar exposto, não escondido numa planilha que só o dono vê. O que não é medido em público não é treinado em público, só fica guardado como vergonha de quem não bateu",
+    "fala_com": "time",
+    "nota_regua": 48,
+    "aberturas": [
+      "Toda sexta a gente fecha o placar da semana na KONE. E ele fica exposto pra todo o time ver, não só pro dono.",
+      "Pensa comigo: por que o placar do seu time de vendas só o dono vê?",
+      "Sexta-feira, na KONE, todo mundo vê quem bateu meta. Não é só o dono que sabe."
+    ],
+    "tela_primeiro_quadro": "O PLACAR DA SEXTA. PRA TODO MUNDO VER.",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "O PLACAR DA SEXTA. PRA TODO MUNDO VER.",
+        "topicos": [
+          "Toda sexta a gente fecha o placar da semana na KONE: quem bateu meta, quem não bateu e quem precisa de treino extra."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "NA MAIORIA DAS EMPRESAS, SÓ O DONO VÊ",
+        "topicos": [
+          "Pensa comigo: na maioria das empresas esse placar existe, só que mora numa planilha que só o dono abre.",
+          "E quem não bateu meta descobre isso numa conversa fechada, sozinho, como se fosse vergonha pra escondida."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 25 s",
+        "tela": "PLACAR ABERTO NÃO É PRA CONSTRANGER",
+        "topicos": [
+          "No meu time o placar fica aberto pra todo mundo, porque o que não é medido em público não é treinado em público.",
+          "Quem não bateu não leva bronca escondida. Leva treino marcado pra semana seguinte, na frente de quem também vai treinar."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 33 s",
+        "tela": "TIME QUE TREINA EM PÚBLICO, BATE META EM PÚBLICO",
+        "topicos": [
+          "Time que bate meta com constância tem o placar exposto, não escondido.",
+          "O que você esconde do time, você também deixa de treinar no time."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "moldes.md — As vagas do dia (bastidor da KONE: contratar, treinar, placar da semana)",
+      "link": ""
+    },
+    "cta": "seguir"
   }
 ]
