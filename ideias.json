@@ -1,202 +1,5 @@
 [
   {
-    "id": "2026-11-06-1",
-    "data": "2026-11-06",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "palestrinha",
-    "tema": "Vendedor que só anota o pedido do cliente e passa pra dentro, sem nunca perguntar o motivo da compra",
-    "moral": "Vendedor que não treina pra diagnosticar não vende, atende; sistema de treino forma vendedor consultor, não tirador de pedido",
-    "fala_com": "dono",
-    "nota_regua": 51,
-    "aberturas": [
-      "Empresário, seu vendedor não vende. Ele é CORREIO.",
-      "Pensa comigo: seu vendedor atende o telefone, anota o que o cliente pediu e manda pra dentro. Isso não é vender.",
-      "Se o seu vendedor só recebe o pedido e repassa, você não contratou um vendedor. Contratou um CORREIO."
-    ],
-    "tela_primeiro_quadro": "SEU VENDEDOR NÃO VENDE. ELE ENTREGA.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "ELE NÃO VENDE. ENTREGA.",
-        "topicos": [
-          "Empresário, seu vendedor não vende. Ele é CORREIO: leva o pedido do cliente pra dentro e a resposta pra fora."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "A PERGUNTA QUE NINGUÉM FAZ",
-        "topicos": [
-          "Pensa comigo: o cliente liga, fala o que quer, e o seu vendedor já sai correndo pra montar a proposta.",
-          "Só que ele nunca perguntou por quê. Nunca perguntou o que o cliente ia resolver com aquilo."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "DIAGNÓSTICO, NÃO PEDIDO",
-        "topicos": [
-          "E aí o concorrente aparece com preço menor e o cliente some, porque pra ele os dois venderam a mesma coisa.",
-          "Então o problema não é o preço. É que seu vendedor nunca abriu a cabeça do cliente pra entender o que ele realmente precisava."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 35 s",
-        "tela": "TREINO FAZ O DIAGNÓSTICO, NÃO O TALENTO",
-        "topicos": [
-          "Vendedor que diagnostica não entra na comparação de preço, porque entrega uma solução que o concorrente nem enxergou.",
-          "E isso não nasce com ele. Isso é treino, é processo, é o sistema que ensina ele a perguntar antes de empurrar proposta."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "E-Commerce Brasil (via quentes.json, tema time de vendas)",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcDdCLTFXWVJLMkJEN3g5amxZdm9MaDFuZ1ZCTk42T1NCd2tmUE1aWFJKa29wOXBKWXRlRTNCYjdzRF91RnhBZkhTbEFpd05hdFNmVzdmR2Y1blJrZXRSYkdudFZZVnQ2NVd1WXZyTi1EVGloeWc5U2xpek42WVcza0JJOEZvT2hUaFRlRWRXWG9Ocjd3MUJSTFZpMA?oc=5"
-    },
-    "cta": "Comenta DIAGNÓSTICO se seu time também só anota pedido"
-  },
-  {
-    "id": "2026-11-06-2",
-    "data": "2026-11-06",
-    "vaga": "quente",
-    "pilar": "Tese e bandeira",
-    "formato": "trivial",
-    "tema": "Dono não sabe se o time dele vende por sistema ou só segura a onda com sorte, até faltar o melhor vendedor",
-    "moral": "Time que depende de motivação, cobrança e do vendedor-estrela não tem sistema, tem sorte que ainda não acabou; time de verdade tem treino diário que não depende de ninguém",
-    "fala_com": "dono",
-    "nota_regua": 47,
-    "aberturas": [
-      "5 sinais de que seu time vende por sorte, não por sistema 👇🏻",
-      "Empresário, confere aqui se seu time comercial tem sistema ou só sorte.",
-      "Se o seu time bate 2 destes 5 sinais, ele não tem sistema. Tem sorte que ainda não acabou."
-    ],
-    "tela_primeiro_quadro": "5 SINAIS DE QUE SEU TIME VENDE POR SORTE 👇🏻",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "5 SINAIS DE TIME SEM SISTEMA",
-        "topicos": [
-          "Empresário, confere aqui se seu time comercial vende por sistema ou só sorte."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "1, 2 E 3",
-        "topicos": [
-          "Primeiro sinal: o time sai animado da palestra de vendas e na segunda-feira já voltou pra estaca zero.",
-          "Segundo sinal: se o seu melhor vendedor sair amanhã, a meta do mês cai com ele.",
-          "Terceiro sinal: o vendedor aprende errando com cliente de verdade, porque nunca treinou antes de atender."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "4 E 5",
-        "topicos": [
-          "Quarto sinal: ninguém no seu time mede o processo, só o fechamento do mês.",
-          "Quinto sinal: o vendedor que fecha no desconto é chamado de esforçado, quando na verdade é o problema."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 35 s",
-        "tela": "SORTE OU SISTEMA?",
-        "topicos": [
-          "Então pensa comigo: se você bateu mais de dois desses sinais, seu time não tem sistema.",
-          "Tem sorte, e sorte, cedo ou tarde, acaba.",
-          "Comenta aqui quantos bateram, que eu te digo o que fazer com cada um."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "https://www.instagram.com/reel/DeqBxsCvUXL/",
-      "perfil": "joaokissel",
-      "vezes": "61.9",
-      "molde": "lista numerada com pergunta de comentário no fim (esqueleto 'Faltou algum?'); assunto trocado para sinais de time sem sistema"
-    },
-    "fonte": {
-      "nome": "",
-      "link": ""
-    },
-    "cta": "Comenta quantos sinais bateram no seu time"
-  },
-  {
-    "id": "2026-11-06-3",
-    "data": "2026-11-06",
-    "vaga": "vida",
-    "pilar": "Prova e caso",
-    "formato": "comparação",
-    "tema": "Dono de empresa B2B que já ouviu 'isso funciona pra qualquer time ou só pro seu' antes de fechar uma implementação comercial",
-    "moral": "Não é sorte nem caso isolado: mais de 100 empresas já passaram pelo mesmo sistema, com 95% de renovação, porque o treino diário repete resultado, não depende de quem está na mesa",
-    "fala_com": "dono",
-    "nota_regua": 49,
-    "aberturas": [
-      "A pergunta que todo dono de empresa me faz antes de fechar: isso funciona pra qualquer time ou só pro seu?",
-      "Pensa comigo: toda vez que eu mostro resultado, o dono pergunta se foi sorte.",
-      "Empresário, a dúvida não é se o sistema funciona. É se funciona pro seu time."
-    ],
-    "tela_primeiro_quadro": "FUNCIONA PRA QUALQUER TIME OU SÓ PRO SEU?",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "A PERGUNTA QUE TODO DONO FAZ",
-        "topicos": [
-          "A pergunta que todo dono de empresa me faz antes de fechar comigo é sempre a mesma: isso funciona pra qualquer time, ou só funcionou pro seu?"
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "SERÁ QUE FOI SORTE?",
-        "topicos": [
-          "Pensa comigo: é fácil acreditar que deu certo numa empresa e não vai dar certo na sua, porque o time é diferente, o mercado é diferente, o momento é diferente.",
-          "E essa dúvida trava gente boa de treinar o próprio time direito."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "MAIS DE 100 EMPRESAS, 95% DE RENOVAÇÃO",
-        "topicos": [
-          "Só que não é um caso isolado. Já passaram mais de 100 empresas pelo mesmo sistema, com mais de R$ 30 milhões gerados pra elas.",
-          "E 95% renovam, porque o resultado se repete quando o treino é diário, não quando depende de quem está sentado na mesa."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 35 s",
-        "tela": "SISTEMA SE REPETE, SORTE NÃO",
-        "topicos": [
-          "Então a pergunta certa não é se funciona pro seu time.",
-          "É se o seu time treina todo dia, ou só espera a sorte aparecer de novo."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "Dominium, dados agregados (moldes.md)",
-      "link": ""
-    },
-    "cta": ""
-  },
-  {
     "id": "2026-11-07-1",
     "data": "2026-11-07",
     "vaga": "tese",
@@ -1565,5 +1368,201 @@
       "link": ""
     },
     "cta": "seguir"
+  },
+  {
+    "id": "2026-11-14-1",
+    "data": "2026-11-14",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "Dono demite o vendedor que não bate meta e contrata outro parecido, esperando um resultado diferente",
+    "moral": "Contratar e treinar é processo, não sorte. Vendedor se forma como atleta se forma",
+    "fala_com": "dono",
+    "nota_regua": 53,
+    "aberturas": [
+      "Empresário, vendedor que não bate meta não é o problema da sua empresa.",
+      "Pensa comigo. Quantas vezes você já trocou de vendedor achando que ia resolver?",
+      "Toda vez que o vendedor sai, você contrata outro parecido e espera um resultado diferente."
+    ],
+    "tela_primeiro_quadro": "Troca o vendedor. O problema continua.",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Troca o vendedor. O problema continua.",
+        "topicos": [
+          "Empresário, vendedor que não bate meta não é o problema da sua empresa."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Mesma meta. Vendedor diferente. Resultado igual.",
+        "topicos": [
+          "Pensa comigo. Você demite o vendedor que não bateu meta.",
+          "Contrata outro parecido, com a mesma entrevista boa e o mesmo discurso animado no primeiro dia.",
+          "Três meses depois, o número da meta é o mesmo de antes."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 25 s",
+        "tela": "O problema nunca foi a pessoa.",
+        "topicos": [
+          "Só que o problema nunca foi a pessoa que você trocou.",
+          "Foi o treino que ela nunca recebeu, do primeiro dia até hoje."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 35 s",
+        "tela": "Contratar e treinar é processo, não sorte.",
+        "topicos": [
+          "Eu treinei 7 anos até pisar num tatame de Mundial. Ninguém nasce pronto, nem no tatame nem na mesa de vendas.",
+          "Então para de trocar de atleta. Comece a treinar o time que você já tem."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "ideia original de tese, não modelada de outlier"
+    },
+    "fonte": {
+      "nome": "Regras de fato do moldes.md, trajetória esportiva (Mundial de Budapeste, 2018)",
+      "link": ""
+    },
+    "cta": "comentar TREINO"
+  },
+  {
+    "id": "2026-11-14-2",
+    "data": "2026-11-14",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "conflito situacional",
+    "tema": "Cliente B2B diz que vai validar com o financeiro antes de fechar, no meio da negociação",
+    "moral": "Objeção não é não. É o vendedor despreparado que trata objeção financeira como ponto final, em vez de continuar a conversa",
+    "fala_com": "time",
+    "nota_regua": 47,
+    "aberturas": [
+      "Quando o cliente disser: “Vou validar com o financeiro e te retorno.”",
+      "Pensa comigo. Seu vendedor ouve isso e já desiste da venda.",
+      "Essa frase mata mais venda do que qualquer concorrente."
+    ],
+    "tela_primeiro_quadro": "Quando o cliente disser: “Vou validar com o financeiro e te retorno.”",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Quando o cliente disser: “Vou validar com o financeiro e te retorno.”",
+        "topicos": [
+          "Quando o cliente disser: “Vou validar com o financeiro e te retorno.”"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 12 s",
+        "tela": "Vendedor sem treino escuta isso e desiste.",
+        "topicos": [
+          "Vendedor sem treino escuta essa frase e já risca o negócio da lista.",
+          "Ele acha que financeiro validando é o fim da conversa."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "12 a 22 s",
+        "tela": "Financeiro valida número, não decide.",
+        "topicos": [
+          "Só que financeiro não decide se compra. Financeiro valida se cabe no orçamento.",
+          "Quem decide continua sendo quem falou com você."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "22 a 30 s",
+        "tela": "Treina o time pra continuar depois do ‘vou validar’.",
+        "topicos": [
+          "Então treina seu time pra perguntar o que precisa ficar claro pro financeiro aprovar rápido.",
+          "Isso é treino diário, não motivação de segunda-feira."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/De-GlMcjMgl/",
+      "perfil": "ohenriquecedor",
+      "vezes": "26.1",
+      "molde": "Quando o cliente diz que precisa falar com outra pessoa antes de fechar, meu vendedor responde assim: esqueleto mantido, troquei a esposa pelo financeiro"
+    },
+    "fonte": {
+      "nome": "",
+      "link": ""
+    },
+    "cta": ""
+  },
+  {
+    "id": "2026-11-14-3",
+    "data": "2026-11-14",
+    "vaga": "vida",
+    "pilar": "Prova e caso",
+    "formato": "comparação",
+    "tema": "Dono desconfia de contratar ajuda externa pra estruturar vendas porque já pagou consultoria que prometeu e não entregou",
+    "moral": "Processo bem feito se prova em resultado que se repete: mais de R$30 milhões gerados pros clientes da Dominium, com 95% de renovação, porque o sistema funciona, não é sorte",
+    "fala_com": "dono",
+    "nota_regua": 50,
+    "aberturas": [
+      "Empresário, você já pagou um consultor que prometeu o mundo e entregou uma planilha?",
+      "Pensa comigo. Quantas vezes você contratou ajuda pra vendas e nada mudou depois do terceiro mês?",
+      "Isso é o motivo de eu não vender promessa. Eu vendo processo que se repete."
+    ],
+    "tela_primeiro_quadro": "Consultoria que promete. Consultoria que entrega. Qual foi a sua?",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Consultoria que promete. Consultoria que entrega. Qual foi a sua?",
+        "topicos": [
+          "Empresário, você já pagou um consultor que prometeu o mundo e entregou uma planilha?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 14 s",
+        "tela": "A maioria promete e desaparece depois do contrato assinado.",
+        "topicos": [
+          "A maioria vende diagnóstico bonito, PDF grosso, e desaparece depois que o contrato é assinado.",
+          "Três meses depois você está sozinho de novo, com o mesmo time e o mesmo problema."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "14 a 24 s",
+        "tela": "95% dos clientes da Dominium renovam.",
+        "topicos": [
+          "Então eu meço o meu trabalho pelo que fica depois que eu saio da sala.",
+          "Mais de R$30 milhões gerados pros clientes, mais de 100 empresas atendidas, e 95% de renovação."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "24 a 32 s",
+        "tela": "Processo que se repete não é sorte.",
+        "topicos": [
+          "Cliente não renova contrato por educação. Renova porque o número continua subindo sem mim do lado.",
+          "Isso é sistema. Sorte não se repete 100 vezes."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "Regras de fato do moldes.md, Dominium (agregados publicáveis)",
+      "link": ""
+    },
+    "cta": ""
   }
 ]
