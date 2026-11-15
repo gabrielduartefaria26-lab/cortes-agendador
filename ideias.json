@@ -1,201 +1,5 @@
 [
   {
-    "id": "2026-11-07-1",
-    "data": "2026-11-07",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "palestrinha",
-    "tema": "Dono paga um treinamento ou leva o time pra uma imersão cara, o time sai de lá animado, e na segunda-feira o CRM continua exatamente igual",
-    "moral": "Treino não é evento isolado que você compra uma vez por ano. É rotina diária dentro de um sistema; sem ela, até o melhor treinamento do mundo esfria em uma semana",
-    "fala_com": "dono",
-    "nota_regua": 57,
-    "aberturas": [
-      "Toda vez que eu assumo um time novo na KONE, minha primeira pergunta pro dono é: quantos treinamentos você já pagou esse ano?",
-      "Empresário, o time voltou animado da imersão. Só que isso foi sexta. Hoje é segunda. O que mudou?",
-      "Pensa comigo: você gastou um dinheirão pra levar o time pro treinamento do ano. E semana que vem, tá tudo igual."
-    ],
-    "tela_primeiro_quadro": "QUANTOS TREINAMENTOS VOCÊ JÁ PAGOU ESSE ANO?",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "QUANTOS TREINAMENTOS VOCÊ JÁ PAGOU ESSE ANO?",
-        "topicos": [
-          "Toda vez que eu assumo um time novo na KONE, a primeira pergunta que eu faço pro dono é essa: quantos treinamentos você já pagou esse ano?"
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 16 s",
-        "tela": "SEXTA ANIMADO, SEGUNDA IGUAL",
-        "topicos": [
-          "Pensa comigo: o time sai de lá animado, foto em grupo, frase de efeito na legenda do story.",
-          "Só que isso foi sexta-feira. Segunda-feira, o vendedor abre o CRM e faz exatamente a mesma ligação do jeito que fazia antes.",
-          "E aí o dono acha que o treinamento não funcionou. Não é isso. Faltou o que vem depois dele."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "16 a 26 s",
-        "tela": "TREINO É ROTINA, NÃO EVENTO",
-        "topicos": [
-          "Então o que eu faço diferente: o treinamento de um dia é só a entrada. O que fixa é o treino diário depois, dentro do sistema, com playbook pra cada função e revisão de call toda semana.",
-          "É igual luta: ninguém entra no tatame só porque assistiu uma palestra sobre Taekwondo. Entra porque treinou a mesma cena centenas de vezes."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "26 a 33 s",
-        "tela": "SEM TREINO DIÁRIO, O MELHOR TREINAMENTO ESFRIA EM UMA SEMANA",
-        "topicos": [
-          "Então antes de contratar outro treinamento caro, pergunta: quem vai treinar esse time toda semana, depois que o evento acabar?",
-          "Se a resposta é ninguém, o problema nunca foi o treinamento. Foi não ter sistema depois dele."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "moldes.md, Voz, frase de ataque publicável ('Palestra de vendas é vídeo motivacional de academia')",
-      "link": ""
-    },
-    "cta": ""
-  },
-  {
-    "id": "2026-11-07-2",
-    "data": "2026-11-07",
-    "vaga": "quente",
-    "pilar": "Tese e bandeira",
-    "formato": "palestrinha",
-    "tema": "Artigo dessa semana diz que a habilidade do empresário na era da IA começa por não depender do vendedor; só que na maioria das empresas que eu assumo, quem não pode faltar nem um dia é o próprio dono, que ainda fecha a venda grande sozinho",
-    "moral": "Sistema de vendas que funciona não depende de ninguém insubstituível, nem do vendedor-estrela, nem do dono; depende de treino documentado que qualquer um do time consegue repetir",
-    "fala_com": "dono",
-    "nota_regua": 56,
-    "aberturas": [
-      "Vi um artigo essa semana falando que a habilidade do empresário na era da IA é não depender do vendedor. Só que, pelo que eu vejo todo dia na KONE, quem não pode faltar na maioria dessas empresas nem é o vendedor.",
-      "Empresário, se a venda grande só fecha quando você entra na call, você não tem um time de vendas. Tem um funcionário a mais: você.",
-      "Pensa comigo: todo mundo fala em treinar o vendedor pra não depender dele. Ninguém fala em treinar o processo pra não depender do dono."
-    ],
-    "tela_primeiro_quadro": "QUEM NÃO PODE FALTAR NA SUA EMPRESA?",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "QUEM NÃO PODE FALTAR NA SUA EMPRESA?",
-        "topicos": [
-          "Vi um artigo essa semana dizendo que a habilidade do empresário na era da IA é não depender do vendedor."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 16 s",
-        "tela": "NA PRÁTICA, QUEM NÃO FALTA É O DONO",
-        "topicos": [
-          "Só que, pelo que eu vejo toda vez que assumo um time novo, o nome que não pode faltar nem um dia não é o do melhor vendedor. É o do próprio dono.",
-          "Porque a venda grande, a que decide o mês, só fecha quando ele entra na call. O time até qualifica, até agenda, até apresenta. Mas quem assina o fechamento continua sendo ele."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "16 a 26 s",
-        "tela": "O GARGALO NÃO TEM NOME PRÓPRIO, TEM TREINO QUE FALTA",
-        "topicos": [
-          "E aí não é sobre contratar um vendedor melhor. É sobre treinar o time até ele conduzir a call do jeito que o dono conduziria.",
-          "Isso não sai de palestra. Sai de treino de call real, repetido, com playbook escrito, até virar rotina do time, não talento isolado de uma pessoa."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "26 a 33 s",
-        "tela": "SISTEMA NÃO TEM NOME PRÓPRIO",
-        "topicos": [
-          "Então antes de perguntar quem no seu time não pode faltar, pergunta: se essa pessoa faltasse amanhã, o treino que ela recebeu continuaria fechando venda sem ela?",
-          "Se a resposta for não, o problema nunca foi o vendedor. Nem você. Foi nunca ter documentado o treino."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "Pauta do radar (quentes.json), sem vídeo de referência"
-    },
-    "fonte": {
-      "nome": "igmais, 'Habilidades do futuro para empreendedores na era da IA começam por não depender do vendedor'",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0NMWnA2MnFZSVpSbUF0ai1mUnRvUnNnaGduaU9FbTA2OGluS3ZjRldYckF5ZWxrMU9wSHA5Q0g0VUpkUk0xMlBraGgteU9BOVloalo2dWVQN1VmSlF3ZDIxYV9iTWRuaEt2TGdUNmdhYjEyNjdfVGozaWhqeklKSEFOUDRWSXF4ZHRUb1NISGppdlJNZ0Z3QmtVck55eWEwN25Mb2pkMWdEbE5RdlBLUU9FVy1QN0c4cGJaejVUSHBHNV83YXRrVU1JRjNUMHNXbmRLTFppUDFHLU3SAeABQVVfeXFMT0w4WElwWXVackxmRUN5SmlEMUtxb2tBWWxrVHo2U1UtTFFRd3k5d21ZRHUtX1BTUDVTRlNxWWp1U3VXeXYycWx5aW96dkJFT1FJbWd5dkY4MXZyYk1OazloRWFLcllLVVVTZmdxYkJsUXVqU1ZzLWJLNTFvQmU0VHNsc2hHZTNWclpDWkJMV3NWXzhLdHRUaGVjT0Q5WXctWENKUjZMWkRiUENYUWFJNVhBNHhhX2FHWDV0ZzlsMXNkM2hoQnI0WldFTGVBeVFPLXowcG9XRVVyd1lhamhGQkI?oc=5"
-    },
-    "cta": ""
-  },
-  {
-    "id": "2026-11-07-3",
-    "data": "2026-11-07",
-    "vaga": "vida",
-    "pilar": "Vida e identidade",
-    "formato": "lo-fi",
-    "tema": "Treino de kickboxing, corrida ou musculação antes de qualquer reunião, mesmo nos dias sem vontade nenhuma de treinar",
-    "moral": "Time que bate meta com constância não espera motivação pra treinar. Treina todo dia, com ou sem vontade, do mesmo jeito que atleta entra no tatame mesmo no dia que não quer",
-    "fala_com": "dono",
-    "nota_regua": 44,
-    "aberturas": [
-      "Hoje teve treino antes de qualquer reunião. Não porque eu tava motivado. Porque é terça-feira.",
-      "Pensa comigo: eu já treinei motivado e já treinei sem vontade nenhuma. Motivação nunca foi o que decidiu se eu ia ou não.",
-      "Ninguém me pergunta se eu treinei hoje porque eu tava inspirado. Treino é antes da reunião, antes de qualquer coisa, ponto."
-    ],
-    "tela_primeiro_quadro": "HOJE NÃO TAVA COM VONTADE DE TREINAR",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "HOJE NÃO TAVA COM VONTADE DE TREINAR",
-        "topicos": [
-          "Hoje teve treino antes de qualquer reunião. E não foi porque eu tava motivado."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 14 s",
-        "tela": "MOTIVAÇÃO VEM E VAI",
-        "topicos": [
-          "Pensa comigo: eu já treinei kickboxing, corrida e musculação motivado, e já treinei sem vontade nenhuma de levantar da cama.",
-          "Se eu dependesse de motivação, eu teria parado de treinar ainda nos primeiros anos de Taekwondo, lá quando eu era bolsista."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "14 a 24 s",
-        "tela": "É A MESMA REGRA QUE EU LEVO PRO TIME",
-        "topicos": [
-          "E é essa mesma regra que eu levo pro time de vendas que eu monto: ninguém combina treino pra quando o vendedor 'tiver motivado'.",
-          "Combina treino todo dia, de segunda a segunda, do mesmo jeito que eu entro no tatame mesmo no dia que eu não quero."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "24 a 30 s",
-        "tela": "TREINO É TODO DIA, COM OU SEM VONTADE",
-        "topicos": [
-          "Time que bate meta com constância não é o time mais motivado. É o time que treina todo dia, com ou sem vontade.",
-          "Motivação é combustível que acaba. Treino é rotina que fica."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "moldes.md, Linha de exposição (rotina de treino: kickboxing, corrida, musculação) e Regras de fato (Taekwondo aos 9 anos, com bolsa)",
-      "link": ""
-    },
-    "cta": ""
-  },
-  {
     "id": "2026-11-08-1",
     "data": "2026-11-08",
     "vaga": "tese",
@@ -1564,5 +1368,200 @@
       "link": ""
     },
     "cta": ""
+  },
+  {
+    "id": "2026-11-15-1",
+    "data": "2026-11-15",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "O vendedor mais antigo do time, o que mais vende, é o único que nunca mais senta pra treinar, porque já sabe vender",
+    "moral": "Vendedor bom que para de treinar vira talento estagnado. Time que bate meta com constância treina todo mundo todo dia, até quem já é bom",
+    "fala_com": "dono",
+    "nota_regua": 51,
+    "aberturas": [
+      "Empresário, qual foi a última vez que o seu melhor vendedor sentou numa sala pra treinar de novo?",
+      "Pensa comigo. O seu vendedor que mais vende é também o que faz mais tempo que não treina.",
+      "Tem um vendedor no seu time que ninguém mais corrige. Porque ele já é bom."
+    ],
+    "tela_primeiro_quadro": "Seu melhor vendedor. Quando foi a última vez que ele treinou?",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Seu melhor vendedor. Quando foi a última vez que ele treinou?",
+        "topicos": [
+          "Empresário, qual foi a última vez que o seu melhor vendedor sentou numa sala pra treinar de novo?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 16 s",
+        "tela": "Ele já vende bem. Então ninguém mais corrige ele.",
+        "topicos": [
+          "Pensa comigo. Ele já vende bem, já bate meta, já é o nome que você mostra pro vendedor novo.",
+          "Então ele para de treinar. Ninguém grava a call dele, ninguém revisa o script dele, ninguém simula objeção com ele.",
+          "Ele virou o intocável do time."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "16 a 26 s",
+        "tela": "Atleta validado também treina todo dia.",
+        "topicos": [
+          "Só que atleta validado também treina todo dia. Fui pro Mundial de Budapeste e continuei treinando, porque quem para de treinar não mantém o nível, perde."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "26 a 34 s",
+        "tela": "Treino de vendedor bom não é correção, é manutenção.",
+        "topicos": [
+          "Time que bate meta com constância treina todo mundo, até quem já é bom.",
+          "Treino de vendedor bom não é correção. É manutenção."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "ideia original de tese, não modelada de outlier"
+    },
+    "fonte": {
+      "nome": "Regras de fato do moldes.md, trajetória esportiva (Mundial de Budapeste, 2018)",
+      "link": ""
+    },
+    "cta": "comentar TREINO"
+  },
+  {
+    "id": "2026-11-15-2",
+    "data": "2026-11-15",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "comparação",
+    "tema": "Persuasão é a mesma ferramenta na mão do vendedor sem treino e do vendedor bem treinado. Na primeira mão ela engana, na segunda ela ajuda o cliente a decidir mais rápido",
+    "moral": "Treino é o que decide se a persuasão vira manipulação ou vira ajuda. Sistema de vendas ensina a usar a ferramenta certa, não só a ter a ferramenta",
+    "fala_com": "dono",
+    "nota_regua": 52,
+    "aberturas": [
+      "Persuasão não é mentira. Persuasão é ferramenta. E ferramenta na mão errada também corta.",
+      "Pensa comigo. O mesmo discurso que fecha venda também engana. A diferença não está na técnica.",
+      "Eu não treino vendedor pra manipular. Treino pra conduzir."
+    ],
+    "tela_primeiro_quadro": "Mesma ferramenta. Duas mãos diferentes.",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "Mesma ferramenta. Duas mãos diferentes.",
+        "topicos": [
+          "Persuasão não é mentira. Persuasão é ferramenta. E ferramenta na mão errada também corta."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Vendedor sem treino usa persuasão pra empurrar.",
+        "topicos": [
+          "Pensa comigo. O vendedor sem treino usa a mesma técnica pra empurrar o que o cliente não precisa.",
+          "Ele fecha a venda, perde o cliente depois, e o dono acha que foi só sorte ruim."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 25 s",
+        "tela": "O vendedor treinado usa a mesma técnica pra ajudar a decidir.",
+        "topicos": [
+          "Só que o vendedor treinado usa exatamente a mesma técnica pra ajudar o cliente a decidir mais rápido, não pra empurrar.",
+          "Eu não treino vendedor pra manipular. Treino pra conduzir."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 33 s",
+        "tela": "Treino decide se a ferramenta engana ou ajuda.",
+        "topicos": [
+          "A ferramenta é a mesma. Quem decide se ela engana ou ajuda é o treino que o vendedor recebeu.",
+          "Sistema de vendas não dá ferramenta nova. Ensina a usar certo a que já existe."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/DfcdBzIJ_Tt/",
+      "perfil": "ecauduro",
+      "vezes": "34.1",
+      "molde": "Persuasão é ferramenta, dá pra usar pra enganar ou pra ajudar, pergunta final pro público: esqueleto mantido, troquei o fechamento genérico pelo treino de vendas"
+    },
+    "fonte": {
+      "nome": "",
+      "link": ""
+    },
+    "cta": "comentar qual técnica dessas você já viu usarem em você"
+  },
+  {
+    "id": "2026-11-15-3",
+    "data": "2026-11-15",
+    "vaga": "vida",
+    "pilar": "Bastidor da KONE",
+    "formato": "bastidores",
+    "tema": "Social seller do time grava o treinamento de como abordar lead pelo Instagram sem parecer spam, porque vender pelas redes também se treina",
+    "moral": "Vender pelas redes não é dom de quem posta bem. É treino de abordagem como qualquer outra etapa de vendas, com script e correção",
+    "fala_com": "time",
+    "nota_regua": 50,
+    "aberturas": [
+      "Esse é um trecho do treinamento de social selling que a gente passa pro time da KONE.",
+      "Pensa comigo. Seu time manda mensagem no Instagram pro lead e parece robô ou parece spam. Por quê?",
+      "Social seller não nasce sabendo abordar. Ele treina a abordagem igual treina a ligação."
+    ],
+    "tela_primeiro_quadro": "TREINO DE SOCIAL SELLING. ABORDAGEM SEM PARECER SPAM.",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "TREINO DE SOCIAL SELLING. ABORDAGEM SEM PARECER SPAM.",
+        "topicos": [
+          "Esse é um trecho do treinamento de social selling que a gente passa pro time da KONE."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Sem treino, a mensagem parece robô ou parece spam.",
+        "topicos": [
+          "Pensa comigo. Seu time manda mensagem no Instagram pro lead, e o lead nem responde, porque parece robô ou parece spam.",
+          "O dono acha que é falta de jeito de quem mandou. Não é."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 26 s",
+        "tela": "A gente treina a abordagem igual treina a ligação.",
+        "topicos": [
+          "Só que abordagem pelas redes se treina igual ligação se treina: com script, com correção, com repetição.",
+          "A gente passa a metodologia de abordagem pro social seller antes de ele mandar a primeira mensagem de verdade."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "26 a 34 s",
+        "tela": "Vender pelas redes é treino, não é dom.",
+        "topicos": [
+          "Vender pelas redes não é dom de quem posta bem. É treino de abordagem como qualquer outra etapa da venda.",
+          "Time que bate meta treina todo canal que o lead entra, até o Direct."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/Dep18qiDi0K/",
+      "perfil": "ohenriquecedor",
+      "vezes": "32.9",
+      "molde": "Trecho de treinamento real com alguém do time fazendo a abordagem do cliente: esqueleto mantido, troquei a ligação de vendas pela abordagem de social selling"
+    },
+    "fonte": {
+      "nome": "",
+      "link": ""
+    },
+    "cta": "seguir"
   }
 ]
