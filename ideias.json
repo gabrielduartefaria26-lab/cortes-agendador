@@ -1,200 +1,5 @@
 [
   {
-    "id": "2026-11-09-1",
-    "data": "2026-11-09",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "palestrinha",
-    "tema": "Dono olha o CRM lotado de negociação em andamento e já comemora a meta, mas na virada do mês metade vira \"vou te retornar\" e a meta não bate",
-    "moral": "Funil cheio no CRM não é meta batida. É vendedor jogando lead qualquer pra dentro só para não deixar a tela vazia. Sistema de treino que ensina a qualificar antes de entrar no funil é o que sustenta meta, não o tamanho do funil",
-    "fala_com": "dono",
-    "nota_regua": 52,
-    "aberturas": [
-      "Empresário, seu CRM tá lotado de negociação e mesmo assim você não bate meta? Eu vou te falar o motivo.",
-      "Seu funil tá cheio. Sua meta não bate. Pensa comigo.",
-      "40 negociações em andamento no CRM. Meta batida? Não necessariamente."
-    ],
-    "tela_primeiro_quadro": "Seu funil tá lotado. Sua meta não bate.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Seu funil tá lotado. Sua meta não bate.",
-        "topicos": [
-          "Você abre o CRM, vê 40 negociação em andamento e já comemora a meta do mês."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "Dia 28: metade virou \"te retorno depois\"",
-        "topicos": [
-          "Só que chega dia 28 e metade desses 40 virou \"vou te retornar\", \"deixa eu alinhar com o sócio\", \"me manda de novo semana que vem\".",
-          "E aí o funil que parecia cheio esvazia tudo de uma vez, e você fica rezando pra fechar o resto em dois dias."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "CRM vira cemitério de lead",
-        "topicos": [
-          "Pensa comigo: funil cheio não é meta batida, é vendedor jogando lead qualquer pra dentro do CRM só para não ficar com a tela vazia.",
-          "CRM virou cemitério de lead. Parece movimento, mas lá dentro só tem negócio morto esperando enterro."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 35 s",
-        "tela": "Treino diário qualifica. Funil bonito não.",
-        "topicos": [
-          "Time que bate meta com constância não mede o funil pelo tamanho, mede pela qualificação que entrou nele.",
-          "Isso é treino diário, TODO DIA. Não é sorte de fechar rápido no fim do mês."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "tese original, sem esqueleto de vídeo viral copiado"
-    },
-    "fonte": {
-      "nome": "moldes.md — Voz (metáfora \"CRM vira cemitério de lead\") e tese-conteudo.md (conflito de dependência/sistema)",
-      "link": ""
-    },
-    "cta": "comentar a palavra FUNIL"
-  },
-  {
-    "id": "2026-11-09-2",
-    "data": "2026-11-09",
-    "vaga": "quente",
-    "pilar": "Tese e bandeira",
-    "formato": "caixinha polêmica",
-    "tema": "A Renner, uma das maiores redes de loja do Brasil, anunciou há menos de um ano uma meta de crescimento de receita até 2030 e essa semana teve que retirar essa meta do papel depois que a venda nas mesmas lojas caiu no trimestre",
-    "moral": "Se até uma empresa de bilhões, com dinheiro, sistema e CRM dos grandes, trava quando o time comercial não sustenta o ritmo, o problema nunca foi tamanho de orçamento. Meta não é frase bonita de slide pra investidor, é treino que sustenta o número todo santo mês",
-    "fala_com": "dono",
-    "nota_regua": 47,
-    "aberturas": [
-      "Uma das maiores redes de loja do Brasil cancelou a própria meta de crescimento essa semana. Deixa eu te contar o motivo.",
-      "Gigante do varejo. Meta de crescimento até 2030. Cancelada em menos de um ano.",
-      "Empresário, se uma rede de bilhões trava na meta, o que você acha que acontece com o seu time sem sistema?"
-    ],
-    "tela_primeiro_quadro": "Gigante do varejo. Meta de crescimento. Cancelada.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Gigante do varejo. Meta de crescimento. Cancelada.",
-        "topicos": [
-          "Uma das maiores redes de loja do Brasil anunciou pro mercado inteiro uma meta de crescimento de receita até 2030. Faz menos de um ano."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "Essa semana: meta retirada do papel",
-        "topicos": [
-          "Essa semana ela voltou atrás. Tirou a meta do papel.",
-          "O motivo? A venda nas mesmas lojas caiu no trimestre, bem abaixo do que o próprio mercado esperava."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "Orçamento grande não é o problema",
-        "topicos": [
-          "Pensa comigo: se uma empresa desse tamanho, com dinheiro, sistema e CRM dos grandes, trava quando a venda desacelera...",
-          "...o problema nunca foi tamanho de orçamento. Foi o time comercial não aguentando o ritmo que a meta exigia."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 35 s",
-        "tela": "Treino sustenta a meta, não o slide",
-        "topicos": [
-          "Meta não é frase bonita de slide pra investidor. É treino que sustenta o número todo santo mês.",
-          "Empresa grande erra meta do mesmo jeito que empresa pequena: quando o time para de treinar, por dentro de qualquer camada de sistema que você tenha."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "notícia de mercado (quentes.json), sem esqueleto de vídeo viral copiado"
-    },
-    "fonte": {
-      "nome": "Jornal do Comércio — Renner retira projeções de crescimento de receita até 2030 citando desafios no varejo (fato relevante de 05/11/2026; queda de 2,5% nas vendas em mesmas lojas no 3º trimestre)",
-      "link": "https://www.jornaldocomercio.com/economia/2026/11/1269569-renner-retira-projecoes-de-crescimento-de-receita-ate-2030-citando-desafios-no-varejo.html"
-    },
-    "cta": "seguir"
-  },
-  {
-    "id": "2026-11-09-3",
-    "data": "2026-11-09",
-    "vaga": "vida",
-    "pilar": "Vida e identidade",
-    "formato": "storytelling visual",
-    "tema": "As empresas do pai dele quebraram não por falta de cliente ou de venda, mas por falta de gestão",
-    "moral": "Um negócio pode vender bem e quebrar do mesmo jeito se ninguém tocar ele com sistema. Time de vendas quebra pelo mesmo motivo que empresa quebra: não é falta de venda, é falta de gestão. É por isso que ele treina time todo dia dentro de um sistema",
-    "fala_com": "dono",
-    "nota_regua": 54,
-    "aberturas": [
-      "As empresas do meu pai quebraram. Mais de uma. E não foi por falta de venda.",
-      "Eu vi de perto uma empresa que vendia bem quebrar. Pensa comigo no motivo.",
-      "Meu pai teve empresas. Elas quebraram. O motivo não foi o que você imagina."
-    ],
-    "tela_primeiro_quadro": "As empresas do meu pai quebraram.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "As empresas do meu pai quebraram.",
-        "topicos": [
-          "As empresas do meu pai quebraram. Mais de uma."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "Não foi por falta de venda. Foi por falta de gestão.",
-        "topicos": [
-          "Eu vi de perto. Não foi por falta de cliente, nem por falta de venda. Foi por falta de gestão.",
-          "Um negócio pode vender bem e quebrar do mesmo jeito, se ninguém tocar ele com sistema."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "Decidi: nunca ia depender de talento",
-        "topicos": [
-          "Pensa comigo: quantas empresas você conhece que vendem bem e ainda assim vivem no sufoco?",
-          "Eu decidi ainda moleque que meu negócio ia depender de sistema, não de sorte nem de talento de ninguém, nem o meu."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 35 s",
-        "tela": "Gestão decide se sobrevive ou quebra",
-        "topicos": [
-          "Time de vendas quebra pelo mesmo motivo que empresa quebra: não é falta de venda, é falta de gestão.",
-          "É por isso que eu treino time todo dia dentro de um sistema. Gestão não é opcional. É o que decide se o que você construiu sobrevive ou quebra."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "história pessoal, sem esqueleto de vídeo copiado"
-    },
-    "fonte": {
-      "nome": "moldes.md — Linha de exposição (Mostra: origem, empresas do pai que quebraram por falta de gestão)",
-      "link": ""
-    },
-    "cta": ""
-  },
-  {
     "id": "2026-11-10-1",
     "data": "2026-11-10",
     "vaga": "tese",
@@ -1560,6 +1365,201 @@
     },
     "fonte": {
       "nome": "moldes.md, Regras de fato (trajetória esportiva: 5 vezes campeão paulista e 2 vezes campeão brasileiro)",
+      "link": ""
+    },
+    "cta": ""
+  },
+  {
+    "id": "2026-11-17-1",
+    "data": "2026-11-17",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "comparação",
+    "tema": "Dono promove o melhor vendedor a gerente, assumindo que quem vende bem também vai saber treinar e liderar o time, e meses depois perde os dois: o vendedor que fechava e o gerente que nunca aprendeu a liderar",
+    "moral": "Vender bem e treinar time são duas habilidades diferentes, que se treinam separadas. Sistema de vendas separa quem fecha de quem forma, e treina as duas, em vez de empilhar tudo numa pessoa só que nunca foi preparada pra nenhuma das duas",
+    "fala_com": "dono",
+    "nota_regua": 49,
+    "aberturas": [
+      "Empresário, o seu melhor vendedor virou gerente de vendas esse ano?",
+      "Pensa comigo. O melhor jogador de um time quase nunca é escolhido pra ser o treinador. Por que no seu time de vendas é diferente?",
+      "Você promoveu o vendedor que mais fechava pra liderar o time. Meses depois, quem tá pior: o time ou ele?"
+    ],
+    "tela_primeiro_quadro": "O MELHOR VENDEDOR VIROU O PIOR GERENTE",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "O MELHOR VENDEDOR VIROU O PIOR GERENTE",
+        "topicos": [
+          "Empresário, o seu melhor vendedor virou gerente de vendas esse ano?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Vender bem e treinar time são coisas diferentes",
+        "topicos": [
+          "Pensa comigo. O melhor jogador de um time quase nunca é escolhido pra ser o treinador.",
+          "Só que no seu time de vendas você faz o contrário. Pega quem mais fecha e coloca pra liderar o time inteiro.",
+          "E aí ele perde tempo de vender, porque agora tem reunião, relatório e gente pra cobrar, e ninguém treinou ele pra nada disso."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 25 s",
+        "tela": "Você perdeu o vendedor e ainda não ganhou um gerente",
+        "topicos": [
+          "Então, seis meses depois, você perdeu o seu melhor vendedor, que agora só gerencia, e ainda não ganhou um gerente de verdade, porque liderar time também é treino, não é prêmio."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 35 s",
+        "tela": "Vender e treinar time são treinos diferentes",
+        "topicos": [
+          "Vender bem e treinar time são duas habilidades diferentes, que se treinam separadas.",
+          "Sistema de vendas separa quem fecha de quem forma, e treina as duas, em vez de empilhar tudo numa pessoa só que nunca foi preparada pra nenhuma das duas."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "ideia original de tese, não modelada de outlier"
+    },
+    "fonte": {
+      "nome": "",
+      "link": ""
+    },
+    "cta": "comentar a palavra GERENTE"
+  },
+  {
+    "id": "2026-11-17-2",
+    "data": "2026-11-17",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "narrado",
+    "tema": "Quem bate o olho num vendedor sabe na hora se ele foi treinado ou se só tem talento, antes dele abrir a boca, do mesmo jeito que se lê um adversário antes de uma luta",
+    "moral": "Treino se vê no comportamento, não no currículo. Time que bate meta com constância treina até o detalhe que ninguém cobra: qualificar antes de falar preço, assumir o erro sem se esconder, registrar a conversa sem o dono pedir. A culpa não é do vendedor que nunca foi treinado assim, é de quem nunca treinou",
+    "fala_com": "dono",
+    "nota_regua": 50,
+    "aberturas": [
+      "Eu bato o olho num vendedor e sei, antes dele abrir a boca, se foi treinado ou se tá confiando só no talento.",
+      "Empresário, você sabe distinguir o vendedor treinado do vendedor que só tem lábia?",
+      "Aprendi a ler isso no tatame, lendo o adversário antes da luta começar. Hoje eu leio vendedor do mesmo jeito."
+    ],
+    "tela_primeiro_quadro": "EU BATO O OLHO E JÁ SEI",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "EU BATO O OLHO E JÁ SEI",
+        "topicos": [
+          "Eu bato o olho num vendedor e sei, antes dele abrir a boca, se foi treinado ou se tá confiando só no talento."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "Aprendi isso lendo adversário antes da luta",
+        "topicos": [
+          "Pensa comigo. Era assim que eu lia um adversário antes de uma luta: no jeito de se portar, não na técnica que ele mostrava.",
+          "Só que com vendedor é igual. Tem sinal que aparece antes da primeira venda, e quase nenhum dono presta atenção nisso na hora de contratar ou de treinar."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 28 s",
+        "tela": "Os sinais de quem foi treinado de verdade",
+        "topicos": [
+          "E aí eu separei os sinais. Vendedor treinado qualifica antes de falar preço. Vendedor treinado assume o erro da venda perdida sem se esconder. Vendedor treinado registra a conversa no sistema sem o dono mandar.",
+          "Vendedor que só tem talento engana todo mundo até a primeira objeção difícil aparecer."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "28 a 38 s",
+        "tela": "A culpa não é do vendedor, é de quem não treinou",
+        "topicos": [
+          "Então treino se vê no comportamento, não no currículo.",
+          "E se o seu vendedor não tem nenhum desses sinais, a culpa não é dele. É de quem nunca treinou esse time."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/Dfpbx7cNTge/",
+      "perfil": "ecauduro",
+      "vezes": "12.0",
+      "molde": "'Eu bato o olho e já sei quando o [X] é [Y] de verdade. Quantas dessas você tem?' (post original era sobre reconhecer vendedor bom); assunto trocado para reconhecer treino real vs talento, com a metáfora de ler adversário no tatame"
+    },
+    "fonte": {
+      "nome": "",
+      "link": ""
+    },
+    "cta": "comentar a palavra SINAL"
+  },
+  {
+    "id": "2026-11-17-3",
+    "data": "2026-11-17",
+    "vaga": "vida",
+    "pilar": "Prova e caso",
+    "formato": "palestrinha",
+    "tema": "Negócio que só cresce quando aumenta a verba de mídia parece crescimento, mas para no primeiro mês em que a verba não sobe, porque ninguém treinou o time pra converter melhor o lead que já chega",
+    "moral": "A prova de um sistema bom não é o pico de resultado, é a renovação. Mais de R$30 milhões gerados pros clientes da Dominium e 95% de renovação, porque o sistema sustenta resultado com ou sem aumento de verba, não porque a verba aumentou",
+    "fala_com": "dono",
+    "nota_regua": 47,
+    "aberturas": [
+      "Empresário, sua meta só bate quando a verba de mídia sobe?",
+      "Pensa comigo. Você aumenta a verba, a meta bate. No mês que a verba fica igual, a meta trava. Isso não é sistema, é sorte de orçamento.",
+      "Tem empresa que acha que cresceu. Só cresceu o tanto que gastou em mídia."
+    ],
+    "tela_primeiro_quadro": "SUA META SÓ BATE QUANDO A VERBA SOBE?",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "SUA META SÓ BATE QUANDO A VERBA SOBE?",
+        "topicos": [
+          "Empresário, sua meta só bate quando a verba de mídia sobe?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 14 s",
+        "tela": "Isso não é sistema, é sorte de orçamento",
+        "topicos": [
+          "Pensa comigo. Você aumenta a verba, a meta bate. No mês que a verba fica igual, a meta trava.",
+          "Só que isso não é sistema de vendas. É sorte de orçamento. E sorte de orçamento acaba no primeiro mês em que você não pode gastar mais."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "14 a 26 s",
+        "tela": "O que sustenta resultado não é a verba, é o sistema",
+        "topicos": [
+          "E aí entra a diferença. Mídia traz lead. Sistema de vendas é o que converte esse lead em contrato, treinando o time pra qualificar e fechar melhor o que já chega, sem precisar de mais verba pra isso.",
+          "Na Dominium a gente já gerou mais de R$10 milhões em mídia pra cliente. Só que o que prova que o sistema funciona não é esse número."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "26 a 36 s",
+        "tela": "95% de renovação: a prova é a renovação, não o pico",
+        "topicos": [
+          "Então a prova de um sistema bom não é o pico de resultado, é a renovação.",
+          "Mais de R$30 milhões gerados e 95% de renovação pros clientes da Dominium, porque o sistema sustenta resultado com ou sem aumento de verba, não porque a verba aumentou."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "prova original com dados agregados da Dominium, sem esqueleto de vídeo copiado"
+    },
+    "fonte": {
+      "nome": "Dominium (dados agregados já aprovados)",
       "link": ""
     },
     "cta": ""
