@@ -1,200 +1,5 @@
 [
   {
-    "id": "2026-11-10-1",
-    "data": "2026-11-10",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "comparação",
-    "tema": "Toda vez que o time perde uma venda que já parecia fechada, ele esquece e vai pra próxima call, sem nunca analisar o motivo da perda",
-    "moral": "Atleta de alto rendimento analisa a própria derrota antes de voltar pro treino. Time de vendas que não analisa a venda perdida repete o mesmo erro no mês seguinte, só que com outro cliente. Treino de verdade usa a derrota como aula, não como vergonha que todo mundo finge que não aconteceu",
-    "fala_com": "dono",
-    "nota_regua": 49,
-    "aberturas": [
-      "Empresário, toda vez que seu time perde uma venda que já parecia fechada, o que ele faz? Esquece e vai pra próxima call.",
-      "Venda perdida. Ninguém analisa. Todo mundo esquece. Pensa comigo por que isso é um erro.",
-      "Seu vendedor perdeu uma venda ontem. Aposto que ninguém no time sabe exatamente por quê."
-    ],
-    "tela_primeiro_quadro": "Venda perdida. Ninguém analisa.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Venda perdida. Ninguém analisa.",
-        "topicos": [
-          "Toda vez que o seu time perde uma venda que já parecia fechada, o que ele faz?"
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "Esquece e vai pra próxima call",
-        "topicos": [
-          "Esquece. Vai pra próxima call. Ninguém senta pra entender o que aconteceu naquela ligação.",
-          "E aí o mês seguinte chega e o mesmo erro se repete, só que com outro cliente e outro nome."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "Atleta analisa a derrota antes de treinar de novo",
-        "topicos": [
-          "Pensa comigo: atleta de alto rendimento não volta pro treino sem analisar a própria derrota. Ele entende o que travou antes de treinar de novo.",
-          "Só que no time de vendas, a derrota vira vergonha que todo mundo finge que não aconteceu."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 35 s",
-        "tela": "Treino de verdade usa a derrota como aula",
-        "topicos": [
-          "Time que bate meta com constância não é o que nunca perde venda. É o que analisa toda venda perdida igual atleta analisa derrota.",
-          "Isso é treino TODO DIA dentro de um sistema. Não é sorte, e não é vergonha."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "tese original, sem esqueleto de vídeo viral copiado"
-    },
-    "fonte": {
-      "nome": "moldes.md — trajetória esportiva (formação como atleta, treino diário) e tese-conteudo.md (conflito de constância/disciplina)",
-      "link": ""
-    },
-    "cta": "comentar a palavra DERROTA"
-  },
-  {
-    "id": "2026-11-10-2",
-    "data": "2026-11-10",
-    "vaga": "quente",
-    "pilar": "Tese e bandeira",
-    "formato": "caixinha polêmica",
-    "tema": "Uma matéria desta semana pergunta se o seu time de vendas está pronto para 2027, mas a maioria dos donos só mede isso pelo resultado do último trimestre",
-    "moral": "'Pronto' não se mede pelo trimestre que bateu meta por sorte de mercado aquecido. Se mede pela rotina de treino que sustenta a meta em QUALQUER trimestre, aquecido ou não",
-    "fala_com": "dono",
-    "nota_regua": 50,
-    "aberturas": [
-      "Vi uma manchete essa semana perguntando se seu time de vendas tá pronto pra 2027. Eu nem precisei ler a matéria toda pra saber a resposta.",
-      "Seu time tá pronto pra 2027? Antes de responder, pensa comigo numa coisa.",
-      "Uma matéria essa semana pergunta se o seu time de vendas tá pronto pro ano que vem. A pergunta certa é outra."
-    ],
-    "tela_primeiro_quadro": "Seu time tá pronto pra 2027?",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Seu time tá pronto pra 2027?",
-        "topicos": [
-          "Vi uma matéria essa semana perguntando se o seu time de vendas tá pronto pra 2027."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "Pronto = bateu meta esse trimestre?",
-        "topicos": [
-          "Só que a maioria dos donos responde essa pergunta olhando só pro último trimestre. Bateu meta, time pronto. Não bateu, time despreparado.",
-          "E aí o dono passa o ano inteiro medindo o time pelo resultado de três meses, sem nunca olhar pra rotina que sustenta esse resultado."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "Pronto não é trimestre, é rotina",
-        "topicos": [
-          "Pensa comigo: um trimestre bom pode ser mercado aquecido, cliente parado em casa gastando, sorte. Um trimestre ruim pode ser só a maré virando.",
-          "O que decide se o seu time tá pronto não é o número desse trimestre. É se o treino continua rodando TODO DIA independente da maré."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 35 s",
-        "tela": "Rotina de treino sustenta meta em qualquer trimestre",
-        "topicos": [
-          "Time pronto pra 2027 é o time que treina TODO DIA dentro de um sistema, não o que teve sorte em 2026.",
-          "Se seu time só bate meta quando o mercado ajuda, ele não tá pronto. Ele tá sortudo."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "notícia de mercado (quentes.json), sem esqueleto de vídeo viral copiado"
-    },
-    "fonte": {
-      "nome": "bra1.com.br — \"5 sinais de que seu time de vendas não está pronto para 2027\" (matéria vista em 09/11/2026)",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMy0xS3ROLUpMNVdsNVBXOUY2WHF3Ry1XUDFlOURfSHFDMFNFOXUxcDBHdVpYLW1FUkxhbXVfcTBEMVhob2RVZGl4VTA5cmZtQ0ZZdmhIVTQ5QmdUeVV0bUg1bzQ5MExvSF9VNS1YTEdGRHFWTU83Ti1rbGV4MzN4X0VKem80M3ZMUU80dmVvNXFNNHVpOVJSQzBUNDJDcV9uLWZmNkNR?oc=5"
-    },
-    "cta": "comentar a palavra PRONTO"
-  },
-  {
-    "id": "2026-11-10-3",
-    "data": "2026-11-10",
-    "vaga": "vida",
-    "pilar": "Prova e caso",
-    "formato": "palestrinha",
-    "tema": "Dono acha que resultado bom em vendas é só mídia pesada trazendo lead quente, mas ter lead não é o mesmo que ter venda fechada",
-    "moral": "Mídia traz lead. Sistema de vendas é o que converte esse lead em contrato. Na Dominium já geramos mais de R$10 milhões em mídia gerida e mais de 500 mil leads pra cliente, mas o que sustenta mais de R$30 milhões gerados e 95% de renovação não é o tamanho da verba, é o sistema que converte o lead depois que ele chega",
-    "fala_com": "dono",
-    "nota_regua": 53,
-    "aberturas": [
-      "Você investe uma fortuna em mídia, o lead chega quente, animado, perguntando preço. E mesmo assim o time não fecha.",
-      "Lead quente não é venda fechada. Pensa comigo nessa diferença antes de gastar mais um real em tráfego.",
-      "R$10 milhões em mídia. Mais de 500 mil leads. E ainda assim o problema nunca foi o lead."
-    ],
-    "tela_primeiro_quadro": "Lead quente. Venda não fecha.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Lead quente. Venda não fecha.",
-        "topicos": [
-          "Você investe uma fortuna em mídia, o lead chega quente, animado, perguntando preço. E mesmo assim o time não fecha."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "Mídia traz lead. Lead não é venda.",
-        "topicos": [
-          "O dono olha pro número de lead chegando e acha que o problema tá resolvido. Só que lead quente que esfria no WhatsApp não vira contrato nenhum.",
-          "E aí ele investe ainda mais em mídia, achando que o problema é volume, quando o problema é o que acontece DEPOIS que o lead chega."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "Já geramos R$10 milhões em mídia e 500 mil leads",
-        "topicos": [
-          "Pensa comigo: na Dominium já geramos mais de R$10 milhões em mídia gerida e mais de 500 mil leads pra cliente. Lead nunca foi o problema.",
-          "O que sustenta mais de R$30 milhões gerados pra cliente e 95% de renovação não é o tamanho da verba de mídia. É o sistema que converte esse lead depois que ele chega."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 35 s",
-        "tela": "Sistema converte. Mídia só traz.",
-        "topicos": [
-          "Time de vendas treinado converte lead. Time sem sistema só queima verba de mídia.",
-          "Antes de gastar mais em tráfego, treina quem atende o lead que já tá chegando."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "prova original com dados agregados da Dominium, sem esqueleto de vídeo copiado"
-    },
-    "fonte": {
-      "nome": "moldes.md — Regras de fato (números agregados da Dominium, publicáveis)",
-      "link": ""
-    },
-    "cta": "seguir"
-  },
-  {
     "id": "2026-11-11-1",
     "data": "2026-11-11",
     "vaga": "tese",
@@ -1560,6 +1365,203 @@
     },
     "fonte": {
       "nome": "Dominium (dados agregados já aprovados)",
+      "link": ""
+    },
+    "cta": ""
+  },
+  {
+    "id": "2026-11-18-1",
+    "data": "2026-11-18",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "O vendedor conduz a reunião inteira e só fecha quando o dono entra na call pra dar o empurrão final ou o desconto especial",
+    "moral": "Sistema que não depende do dono: se a venda só fecha com você na call, você não tem vendedor, tem um estagiário de crachá. Treino ensina o vendedor a fechar sozinho, não a chamar o dono no fim",
+    "fala_com": "dono",
+    "nota_regua": 54,
+    "aberturas": [
+      "Empresário, quantas vendas da sua empresa só fecharam esse mês porque você entrou na call?",
+      "Seu vendedor te chama pra fechar, ou pra você dar o desconto que ele não teve treino pra negar?",
+      "Se você sumir do telefone essa semana, quantas vendas da sua empresa continuam fechando sem você?"
+    ],
+    "tela_primeiro_quadro": "QUANTAS VENDAS SÓ FECHAM COM VOCÊ NA CALL?",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "QUANTAS VENDAS SÓ FECHAM COM VOCÊ NA CALL?",
+        "topicos": [
+          "Empresário, pensa rápido: quantas vendas da sua empresa só fecharam esse mês porque você entrou na ligação lá no fim?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "SEU VENDEDOR NÃO FECHA, ELE SÓ ANUNCIA O PREÇO",
+        "topicos": [
+          "Seu vendedor conduz a reunião inteira, mostra a proposta, e na hora de fechar ele te chama.",
+          "Então você entra, dá aquele desconto especial ou aquela condição só sua, e a venda sai.",
+          "Só que quem fechou ali não foi ele. Foi você, de novo."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 26 s",
+        "tela": "ISSO NÃO É VENDEDOR, É ESTAGIÁRIO DE CRACHÁ",
+        "topicos": [
+          "Pensa comigo: se você viajar esse mês sem telefone, quantas dessas vendas ainda fecham?",
+          "Se a resposta for poucas, você não construiu um time de vendas. Construiu uma fila de gente esperando você aparecer."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "26 a 36 s",
+        "tela": "TREINO ENSINA A FECHAR SEM VOCÊ",
+        "topicos": [
+          "Vendedor não aprende a fechar sozinho vendo você fechar por ele.",
+          "Aprende treinando a objeção, o desconto e o fechamento TODO DIA, até a call parar de precisar de você.",
+          "Time que bate meta com constância é o time que fecha sem o dono na linha."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "conflito canônico do próprio moldes.md (Regra 1): 'a meta que só bate quando o dono entra na call', ainda não usado em ideia anterior"
+    },
+    "fonte": {
+      "nome": "",
+      "link": ""
+    },
+    "cta": "comentar a palavra SOZINHO se sua última venda grande fechou sem você entrar na call"
+  },
+  {
+    "id": "2026-11-18-2",
+    "data": "2026-11-18",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "conflito situacional",
+    "tema": "Candidato à vaga de vendedor pede pra falar com a esposa antes de aceitar a proposta, igual todo cliente faz antes de fechar contrato",
+    "moral": "Contratar vendedor sem processo de seleção é vender sem qualificar lead: você fecha rápido com quem bateu na porta e paga caro depois quando descobre que ele não serve pro time",
+    "fala_com": "dono",
+    "nota_regua": 50,
+    "aberturas": [
+      "O que você faz quando o candidato pede pra falar com a esposa antes de aceitar a vaga no seu time?",
+      "Empresário, seu processo de contratar vendedor é mais frouxo que o processo que ele vai usar pra vender o seu produto?",
+      "Você entrevista vendedor do jeito que ensina ele a vender, ou só pergunta se ele 'tem experiência'?"
+    ],
+    "tela_primeiro_quadro": "O CANDIDATO PEDE PRA FALAR COM A ESPOSA ANTES DE ACEITAR A VAGA",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "O CANDIDATO PEDE PRA FALAR COM A ESPOSA ANTES DE ACEITAR A VAGA",
+        "topicos": [
+          "O que você faz quando o candidato que você quer contratar pede pra falar com a esposa antes de aceitar a vaga?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "VOCÊ TRATA ISSO COMO PRESSA, NÃO COMO OBJEÇÃO",
+        "topicos": [
+          "A maioria dos donos trata isso como pressa. Oferece mais um pouco de salário, mais um benefício, só pra fechar rápido a vaga que está aberta há semanas.",
+          "Só que pensa comigo: isso é objeção. E você nunca treinou ninguém do seu time pra tratar objeção assim."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 27 s",
+        "tela": "VOCÊ CONTRATA PIOR DO QUE ENSINA A VENDER",
+        "topicos": [
+          "E aí o seu processo de contratar vendedor fica mais frouxo que o processo que você exige dele pra fechar um cliente.",
+          "Ele qualifica lead antes de falar preço. Você contrata gente sem qualificar quem realmente serve pro seu time."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "27 a 38 s",
+        "tela": "CONTRATAR É PROCESSO, NÃO DESESPERO DE VAGA ABERTA",
+        "topicos": [
+          "Então trate a contratação como uma venda: identifique a objeção real, responda com processo, não com pressa.",
+          "Vaga preenchida rápido sem critério custa mais caro que vaga aberta mais um mês. Time que bate meta com constância começa pela entrevista, não só pelo treino depois."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/De-GlMcjMgl/",
+      "perfil": "ohenriquecedor",
+      "vezes": "41.7",
+      "molde": "pergunta-gancho 'o que fazer quando [pessoa] diz [objeção] antes de fechar com você', trocando cliente por candidato de vaga, mantendo estrutura e virada"
+    },
+    "fonte": {
+      "nome": "",
+      "link": ""
+    },
+    "cta": ""
+  },
+  {
+    "id": "2026-11-18-3",
+    "data": "2026-11-18",
+    "vaga": "vida",
+    "pilar": "Vida e identidade",
+    "formato": "cine",
+    "tema": "Em 2017 ele era reserva da Seleção. Um ano depois, em 2018, estava titular no Mundial de Budapeste",
+    "moral": "Ninguém nasce titular. Vira titular treinando enquanto ainda está no banco, do mesmo jeito que vendedor novato vira o que mais fecha treinando antes de ganhar a conta grande",
+    "fala_com": "dono",
+    "nota_regua": 46,
+    "aberturas": [
+      "Em 2017 eu era reserva da Seleção. Em 2018 eu era titular no Mundial.",
+      "Ninguém me viu treinando no banco. Só viram quando eu virei titular.",
+      "Empresário, o seu melhor vendedor hoje começou titular, ou começou no banco igual todo mundo?"
+    ],
+    "tela_primeiro_quadro": "2017: RESERVA. 2018: TITULAR NO MUNDIAL",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "2017: RESERVA. 2018: TITULAR NO MUNDIAL",
+        "topicos": [
+          "Em 2017 eu era reserva da Seleção. Em 2018 eu estava titular no Mundial de Budapeste."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 14 s",
+        "tela": "NINGUÉM VÊ O TREINO NO BANCO",
+        "topicos": [
+          "Pensa comigo: ninguém assiste treino de reserva. Assiste resultado de titular.",
+          "Só que entre um ano e outro não mudou talento nenhum. Mudou o tanto que eu treinei enquanto estava sentado esperando a vaga."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "14 a 25 s",
+        "tela": "É O MESMO CAMINHO DO VENDEDOR NOVO",
+        "topicos": [
+          "E aí eu vejo o mesmo caminho todo dia dentro do time que eu monto hoje.",
+          "O vendedor novo que ainda não fecha a conta grande não precisa de sorte. Precisa do mesmo treino repetido que eu fiz no banco, até a vaga virar dele."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "25 a 34 s",
+        "tela": "NINGUÉM NASCE TITULAR",
+        "topicos": [
+          "Então ninguém nasce titular. Vira titular treinando enquanto ainda está no banco.",
+          "Time que bate meta com constância trata o vendedor novo assim: treino todo dia, até a vaga grande ficar dele, não por sorte, por treino."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "estrutura de virada pessoal (ponto baixo no banco -> virada para titular), segunda versão da trajetória esportiva usando o fato ainda não publicado (reserva em 2017, titular no Mundial de Budapeste em 2018)"
+    },
+    "fonte": {
+      "nome": "Regras de fato do moldes.md (trajetória esportiva)",
       "link": ""
     },
     "cta": ""
