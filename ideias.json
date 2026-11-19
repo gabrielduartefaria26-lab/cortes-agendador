@@ -1,205 +1,5 @@
 [
   {
-    "id": "2026-11-11-1",
-    "data": "2026-11-11",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "palestrinha",
-    "tema": "Dono cobra meta toda segunda de reunião de resultado, do mesmo jeito, mas nunca treina o time no que travou; a cobrança sozinha não ensina nada, só assusta",
-    "moral": "Cobrança é ferramenta. Usada sem treino, só humilha o vendedor. Usada dentro de um sistema de treino diário, aponta exatamente o furo que falta fechar. Time que bate meta com constância cobra apontando o treino que falta, não apontando o erro",
-    "fala_com": "dono",
-    "nota_regua": 52,
-    "aberturas": [
-      "Cobrança é ferramenta. Dá pra usar pra fazer o vendedor se sentir um lixo, ou pra apontar o treino que falta nele. Eu só uso a segunda.",
-      "Empresário, toda segunda você cobra meta do time do mesmo jeito. Pensa comigo se isso tá ensinando alguma coisa.",
-      "Existe cobrança que humilha e cobrança que treina. A maioria dos donos só conhece a primeira."
-    ],
-    "tela_primeiro_quadro": "COBRANÇA É FERRAMENTA.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "COBRANÇA É FERRAMENTA.",
-        "topicos": [
-          "Cobrança é ferramenta."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "DÁ PRA HUMILHAR, OU PRA APONTAR O TREINO",
-        "topicos": [
-          "Dá pra usar ela pra fazer o vendedor se sentir um lixo toda segunda de reunião de resultado.",
-          "Só que, pensa comigo, fazer alguém se sentir mal não ensina ele a vender melhor. Só ensina ele a ter medo da próxima reunião."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "A OUTRA FORMA DE USAR A MESMA FERRAMENTA",
-        "topicos": [
-          "E aí entra a outra forma de usar essa mesma ferramenta.",
-          "Cobrança boa não aperta, ela aponta: foi na prospecção, no fechamento ou no follow-up que esse mês travou?"
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 35 s",
-        "tela": "COBRANÇA APONTA O TREINO, NÃO O ERRO",
-        "topicos": [
-          "Eu só uso a segunda.",
-          "Time que bate meta com constância cobra apontando o treino que falta, todo dia, dentro de um sistema. Não é a cobrança que forma o vendedor. É o treino que vem depois dela."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "https://www.instagram.com/reel/DfcdBzIJ_Tt/",
-      "perfil": "ecauduro",
-      "vezes": "34.1",
-      "molde": "'[X] é ferramenta. Dá pra usar pra [lado ruim], ou pra [lado bom]. Eu uso a segunda.' (post original era sobre persuasão); assunto trocado para cobrança e treino"
-    },
-    "fonte": {
-      "nome": "moldes.md — tese (treino diário dentro de sistema) e tese-conteudo.md (conflito 'chefe que só cobra, funcionário que não rende')",
-      "link": ""
-    },
-    "cta": "comentar a palavra TREINO"
-  },
-  {
-    "id": "2026-11-11-2",
-    "data": "2026-11-11",
-    "vaga": "quente",
-    "pilar": "Vida e identidade",
-    "formato": "trivial",
-    "tema": "Um perfil de vendas que ele acompanha viralizou essa semana com uma lista de filmes que ensinam a vender; a lista dele seria sobre o que o próprio treino de atleta ensinou sobre vender",
-    "moral": "Treino de atleta e treino de vendedor seguem o mesmo caminho: ninguém nasce pronto e o treino é todo dia. Quem forma time trata isso como ciência, não como sorte",
-    "fala_com": "dono",
-    "nota_regua": 47,
-    "aberturas": [
-      "Treino bom também ensina a vender. Separei 8 coisas que separam o time que bate meta do time que só promete.",
-      "Treinei 7 anos até pisar num tatame de Mundial. Separei 8 coisas que esse treino me ensinou sobre vender.",
-      "Ninguém nasce sabendo vender, igual ninguém nasce sabendo lutar. Separei 8 coisas que todo dono de time comercial precisa saber."
-    ],
-    "tela_primeiro_quadro": "8 COISAS QUE TREINO DE ATLETA ENSINA SOBRE VENDER",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "8 COISAS QUE TREINO DE ATLETA ENSINA SOBRE VENDER",
-        "topicos": [
-          "Treino bom também ensina a vender.",
-          "Separei 8 coisas que separam o time que bate meta do time que só promete."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "1. NINGUÉM NASCE PRONTO · 2. TREINO É TODO DIA · 3. VOCÊ TREINA A DERROTA",
-        "topicos": [
-          "Primeira: ninguém nasce pronto. Eu treinei 7 anos até pisar num tatame de Mundial.",
-          "Segunda: treino é todo dia, não só na palestra de sexta que anima e some na segunda.",
-          "Terceira: você treina a derrota, não só a vitória. Time que não analisa a venda perdida repete o erro no mês seguinte."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "4. NINGUÉM TREINA SOZINHO · 5. O TREINO TEM SCRIPT · 6. O TREINADOR VÊ O QUE VOCÊ NÃO VÊ",
-        "topicos": [
-          "Quarta: ninguém treina sozinho, por isso time de uma estrela só quebra quando o melhor vendedor sai.",
-          "Quinta: o treino tem script, não é intuição, é repetição do que já funciona.",
-          "Sexta: o treinador vê o furo que você não vê sozinho, igual o gestor vê o furo que o vendedor não enxerga na própria call."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 35 s",
-        "tela": "7. O TREINO CORRIGE NA HORA · 8. ATLETA É FORMADO, NÃO NASCE PRONTO",
-        "topicos": [
-          "Sétima: o treino corrige na hora, não espera reunião de fim de mês.",
-          "Oitava e última: atleta não nasce pronto, ele é formado. Vendedor também.",
-          "Time que bate meta com constância treina todo dia dentro de um sistema. Isso não é sorte, é treino."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "https://www.instagram.com/reel/DfdGNsypX0k/",
-      "perfil": "ecauduro",
-      "vezes": "48.9",
-      "molde": "'[X] bom também ensina a [Y]. Separei N que todo [vendedor/empresário] deveria [ver/saber].' (post original era sobre filmes); assunto trocado para treino de atleta"
-    },
-    "fonte": {
-      "nome": "moldes.md — Regras de fato (trajetória esportiva: Taekwondo aos 9 anos, titular no Mundial de Budapeste 2018)",
-      "link": ""
-    },
-    "cta": "comentar a palavra ATLETA"
-  },
-  {
-    "id": "2026-11-11-3",
-    "data": "2026-11-11",
-    "vaga": "vida",
-    "pilar": "Bastidor da KONE",
-    "formato": "bastidores",
-    "tema": "Vendedor novo contratado pela KONE faz a primeira ligação pra um lead de verdade, no primeiro dia, com o time inteiro ouvindo",
-    "moral": "Vendedor se forma como atleta se forma: o primeiro combate é assistido e corrigido na hora, não escondido até ele acertar sozinho",
-    "fala_com": "time",
-    "nota_regua": 52,
-    "aberturas": [
-      "Toda empresa esconde o vendedor novo até ele parar de travar no telefone. Na KONE a gente faz o oposto.",
-      "Gravei o primeiro dia de um vendedor novo na KONE fazendo a primeira ligação pra um lead de verdade. Com o time inteiro ouvindo.",
-      "Lembra do seu primeiro dia vendendo? Agora imagina fazer isso com o time inteiro ouvindo a ligação."
-    ],
-    "tela_primeiro_quadro": "PRIMEIRO DIA. PRIMEIRA LIGAÇÃO. TIME OUVINDO.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "PRIMEIRO DIA. PRIMEIRA LIGAÇÃO. TIME OUVINDO.",
-        "topicos": [
-          "Toda empresa esconde o vendedor novo até ele parar de travar no telefone.",
-          "Na KONE a gente faz o oposto."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "A MÃO TREME, A VOZ TREME",
-        "topicos": [
-          "Pensa comigo: lembra do seu primeiro dia vendendo? A mão treme, a voz treme, e o medo não é do cliente, é de errar na frente de todo mundo.",
-          "Por isso a maioria das empresas esconde o vendedor novo até ele parar de travar, e ele treina sozinho, errando sozinho, sem ninguém corrigindo nada."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "A GENTE FAZ NA FRENTE DE TODO MUNDO",
-        "topicos": [
-          "Só que não é assim que atleta se forma. Atleta erra o movimento na frente do treinador e do time inteiro, e corrige ali, na hora.",
-          "Então na KONE o vendedor novo faz a primeira ligação com o time ouvindo. Erra na frente de todo mundo, e aprende na frente de todo mundo também."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 35 s",
-        "tela": "VENDEDOR SE FORMA COMO ATLETA SE FORMA",
-        "topicos": [
-          "Vendedor se forma como atleta se forma.",
-          "O primeiro combate é assistido e corrigido na hora, não escondido até ele acertar sozinho."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "https://www.instagram.com/reel/Dep18qiDi0K/",
-      "perfil": "ohenriquecedor",
-      "vezes": "32.9",
-      "molde": "'[pessoa do time] fazendo [ação de vendas] ao vivo para um lead, o treinamento mostrado como espetáculo.' (post original era uma assessora fazendo ligação); assunto trocado para a primeira ligação de um vendedor novo na KONE"
-    },
-    "fonte": {
-      "nome": "moldes.md — O que ele tem rodando (KONE: contratação e treino do time, desde outubro de 2026)",
-      "link": ""
-    },
-    "cta": "seguir"
-  },
-  {
     "id": "2026-11-12-1",
     "data": "2026-11-12",
     "vaga": "tese",
@@ -1562,6 +1362,201 @@
     },
     "fonte": {
       "nome": "Regras de fato do moldes.md (trajetória esportiva)",
+      "link": ""
+    },
+    "cta": ""
+  },
+  {
+    "id": "2026-11-19-1",
+    "data": "2026-11-19",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "comparação",
+    "tema": "Vendedor fala do mesmo jeito com o dono apressado e com o dono desconfiado, e perde justamente a venda que devia ser fácil",
+    "moral": "Ler o perfil de quem compra não é feeling de vendedor nato, é treino. Time que bate meta lê o cliente nos primeiros minutos porque foi treinado pra isso, não porque nasceu sabendo",
+    "fala_com": "dono",
+    "nota_regua": 49,
+    "aberturas": [
+      "Seu vendedor fala do mesmo jeito com todo cliente que atende. E perde justamente a venda que devia ser fácil.",
+      "Empresário, teu vendedor lê contrato. Ele lê cliente?",
+      "Tem vendedor que trata o dono apressado e o dono desconfiado exatamente do mesmo jeito. E chama isso de 'ser autêntico'."
+    ],
+    "tela_primeiro_quadro": "POR QUE ELE PERDE A VENDA FÁCIL?",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "POR QUE ELE PERDE A VENDA FÁCIL?",
+        "topicos": [
+          "Seu vendedor fala do mesmo jeito com todo cliente que atende. E perde justamente a venda que devia ser fácil."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "MESMA FALA PRO DONO APRESSADO E PRO DESCONFIADO",
+        "topicos": [
+          "Pensa comigo: o dono apressado quer decidir rápido, o dono desconfiado quer prova antes de qualquer coisa.",
+          "Só que seu vendedor usa a mesma fala, o mesmo roteiro, pros dois. E depois acha que o problema foi o preço."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 26 s",
+        "tela": "ISSO NÃO É FEELING, É LEITURA TREINADA",
+        "topicos": [
+          "E aí entra o que ninguém treina: ler quem tá na sua frente nos primeiros minutos de conversa.",
+          "Isso não nasce com o vendedor. A gente treina isso dentro do Código do Cliente, lendo o perfil antes de abrir a boca sobre preço."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "26 a 36 s",
+        "tela": "QUEM LÊ O CLIENTE, TREINOU PRA ISSO",
+        "topicos": [
+          "Então não é sorte, não é feeling, não é vendedor nato.",
+          "Time que bate meta com constância lê o cliente porque foi treinado pra isso TODO DIA, não porque nasceu sabendo."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/Dfk3vxztAHx/",
+      "perfil": "ecauduro",
+      "vezes": "9.5",
+      "molde": "frase-tese 'X não compra do mesmo jeito. Não é regra, é tendência. Quem vende bem percebe isso logo nos primeiros minutos'; troquei o par homem/mulher (pra fugir de estereótipo de gênero) por dono apressado/desconfiado e levei a moral pra leitura de cliente treinada (Código do Cliente)"
+    },
+    "fonte": {
+      "nome": "Inventário do moldes.md (O Código do Cliente: DISC aplicado a vendas, método O.I.T.A.V.)",
+      "link": ""
+    },
+    "cta": "comentar a palavra PERFIL se seu time já perdeu venda falando igual com todo cliente"
+  },
+  {
+    "id": "2026-11-19-2",
+    "data": "2026-11-19",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "conflito situacional",
+    "tema": "Reunião de diagnóstico de uma hora e meia. No final, o lead que pediu a reunião diz que agora não é prioridade",
+    "moral": "Isso não é falta de sorte, é vendedor que não qualificou antes de agendar. Time treinado filtra prioridade na primeira ligação, não depois de uma hora e meia de reunião",
+    "fala_com": "dono",
+    "nota_regua": 51,
+    "aberturas": [
+      "Uma hora e meia de reunião de diagnóstico. No final, o cara que pediu a reunião disse que agora não é prioridade.",
+      "Empresário, quantas horas o seu time perdeu essa semana em reunião que terminou em 'não é prioridade agora'?",
+      "O lead pede a reunião pra resolver a dor. Depois de uma hora e meia, diz que a dor não é prioridade. Isso não é sorte ruim."
+    ],
+    "tela_primeiro_quadro": "1H30 DE REUNIÃO. NO FINAL: 'NÃO É PRIORIDADE AGORA'",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "1H30 DE REUNIÃO. NO FINAL: 'NÃO É PRIORIDADE AGORA'",
+        "topicos": [
+          "Uma hora e meia de reunião de diagnóstico. No final, o lead que pediu a reunião disse que agora não é prioridade."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "ELE PEDIU A REUNIÃO PRA RESOLVER ESSA DOR",
+        "topicos": [
+          "Pensa comigo: foi ele que buscou a empresa, ele que marcou o horário, ele que descreveu o problema.",
+          "E depois de uma hora e meia ouvindo o diagnóstico completo, ele solta que agora não é prioridade. O vendedor perdeu a tarde inteira."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 27 s",
+        "tela": "ISSO NÃO É SORTE RUIM, É FALTA DE FILTRO",
+        "topicos": [
+          "E eu vejo isso toda semana treinando time comercial: o problema não foi a reunião, foi não ter filtrado prioridade antes de marcar ela.",
+          "Vendedor treinado pergunta orçamento, prazo e decisor na primeira ligação. Sem isso, toda reunião de uma hora e meia é aposta."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "27 a 38 s",
+        "tela": "TIME TREINADO FILTRA ANTES, NÃO DEPOIS",
+        "topicos": [
+          "Então não é sorte, é processo.",
+          "Time que bate meta com constância qualifica prioridade na primeira ligação, não gasta uma hora e meia de reunião pra descobrir isso."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/DfqKSHDEv9P/",
+      "perfil": "ohenriquecedor",
+      "vezes": "11.8",
+      "molde": "gancho factual 'depois de X tempo de reunião, o cliente disse que não tinha prioridade, sendo que ele buscou a reunião pra resolver essa dor'; mantive o esqueleto, troquei a venda dele por diagnóstico comercial e levei a moral pra qualificação de lead dentro do treino de time. Segunda versão do assunto 'Como fazer uma boa pré-qualificação e pré-venda' do quadro dele, em formato diferente: hot take sobre reunião perdida, não aula de como qualificar"
+    },
+    "fonte": {
+      "nome": "",
+      "link": ""
+    },
+    "cta": "comentar a palavra FILTRO se seu time já perdeu reunião assim essa semana"
+  },
+  {
+    "id": "2026-11-19-3",
+    "data": "2026-11-19",
+    "vaga": "vida",
+    "pilar": "Bastidor da KONE",
+    "formato": "bastidores",
+    "tema": "Desafiei o SDR da KONE a me prospectar como se eu fosse um lead frio e difícil, ao vivo, no meio do treinamento do time",
+    "moral": "Vendedor trava na prospecção porque tem medo da rejeição, não porque não sabe o script. Treino que repete o 'não' até ele virar automático é o que tira esse medo, não motivação de palestra",
+    "fala_com": "time",
+    "nota_regua": 49,
+    "aberturas": [
+      "Desafiei o SDR do meu time a me prospectar do zero, ao vivo, como se eu fosse o lead mais difícil que ele vai pegar essa semana.",
+      "Pensa comigo: o SDR sabe o script de cor. Só que trava quando o lead não quer atender. Eu virei esse lead no treino.",
+      "Fiz meu vendedor me prospectar como se eu fosse um estranho que não queria atender ligação nenhuma."
+    ],
+    "tela_primeiro_quadro": "DESAFIEI O SDR A ME PROSPECTAR COMO LEAD DIFÍCIL",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "DESAFIEI O SDR A ME PROSPECTAR COMO LEAD DIFÍCIL",
+        "topicos": [
+          "Desafiei o SDR do meu time a me prospectar do zero, ao vivo, como se eu fosse o lead mais difícil que ele vai pegar essa semana."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "ELE SABE O SCRIPT. TRAVA NO 'NÃO'",
+        "topicos": [
+          "Pensa comigo: ele sabe o script de cor, decorou cada etapa da ligação.",
+          "Só que na hora que eu, fazendo o papel do lead, cortei ele seco e disse que não tinha tempo, ele travou. Foi no silêncio, não na palavra."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 27 s",
+        "tela": "O MEDO NÃO SAI COM PALESTRA, SAI COM REPETIÇÃO",
+        "topicos": [
+          "E aí entra o treino: repeti a mesma objeção três vezes seguidas, até ele parar de travar e começar a contornar.",
+          "Isso não é motivação de segunda-feira. É repetir o 'não' até o corpo dele parar de reagir com medo."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "27 a 38 s",
+        "tela": "TIME QUE PROSPECTA SEM MEDO TREINOU O NÃO",
+        "topicos": [
+          "Então o SDR que liga sem travar não nasceu assim.",
+          "Time que bate meta com constância treina a rejeição TODO DIA, até ela parar de assustar. Não é palestra de uma vez, é treino que se repete."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/DfBA4ePFTWt/",
+      "perfil": "ohenriquecedor",
+      "vezes": "3.2",
+      "molde": "molde já mapeado pra esse perfil no próprio moldes.md: treino ao vivo como espetáculo, um trecho de treinamento real com alguém do time; esqueleto 'desafiei [alguém do time] a me vender/prospectar [algo]', troquei a venda de produto por simulação de prospecção fria com objeção"
+    },
+    "fonte": {
+      "nome": "Inventário do moldes.md (KONE: sócio operador desde outubro de 2026, contrata e treina SDR, social seller e vendedor)",
       "link": ""
     },
     "cta": ""
