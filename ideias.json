@@ -1,199 +1,5 @@
 [
   {
-    "id": "2026-11-12-1",
-    "data": "2026-11-12",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "palestrinha",
-    "tema": "Fim do mes, meta quase batendo, o vendedor liga pro dono pedindo aval pra dar desconto num cliente que ja tinha dito sim pro preco cheio duas semanas atras",
-    "moral": "Desconto no fim do mes nao e fechamento, e o cliente aprendendo a esperar o desespero bater. Time que qualifica valor fecha pelo preco cheio porque treinou a objecao antes dela aparecer; time que so cobra meta fecha no desconto e ensina o cliente a nunca mais pagar o preco certo",
-    "fala_com": "dono",
-    "nota_regua": 50,
-    "aberturas": [
-      "Empresario, fim do mes, faltando bater a meta, o teu vendedor te liga pedindo aval pra dar desconto.",
-      "Teve uma venda ali que ja tinha fechado no preco cheio. So que foi na semana errada do mes.",
-      "Pensa comigo: o cliente que fecha no desconto no fim do mes, ele te ensinou a ensinar isso."
-    ],
-    "tela_primeiro_quadro": "O DESCONTO QUE VOCÊ MESMO ENSINOU O CLIENTE A ESPERAR",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "O DESCONTO QUE VOCÊ MESMO ENSINOU O CLIENTE A ESPERAR",
-        "topicos": [
-          "Empresario, fim do mes, faltando bater a meta, o teu vendedor te liga pedindo aval pra dar desconto."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "O MESMO CLIENTE JÁ TINHA DITO SIM",
-        "topicos": [
-          "Só que esse mesmo cliente, duas semanas atrás, já tinha dito sim pro preço cheio.",
-          "Pensa comigo: o que mudou não foi o produto. Foi o vendedor que ficou duro, com medo de perder a venda, e apostou no desconto em vez de defender o preço."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "VOCÊ TREINOU O CLIENTE A ESPERAR O DESESPERO",
-        "topicos": [
-          "E aí você aprova, porque meta é meta. Só que, sem perceber, você treinou aquele cliente a esperar desconto toda vez que o mês fecha.",
-          "Então na próxima negociação ele já entra sabendo que, se travar, o preço cai."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 35 s",
-        "tela": "QUALIFICA VALOR, NÃO VENDE DESCONTO",
-        "topicos": [
-          "Vendedor que treina todo dia sabe responder a objeção de preço antes dela virar desconto, porque já ensaiou aquela cena a semana toda.",
-          "Time que qualifica valor fecha pelo preço cheio. Time que só cobra meta, fecha no desconto, e ensina o cliente a nunca mais pagar o preço certo."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "",
-      "link": ""
-    },
-    "cta": "comentar a palavra PREÇO"
-  },
-  {
-    "id": "2026-11-12-2",
-    "data": "2026-11-12",
-    "vaga": "quente",
-    "pilar": "Tese e bandeira",
-    "formato": "narrado",
-    "tema": "A Exame publicou hoje que a saida de um vendedor pode colocar toda a carteira de clientes B2B em risco",
-    "moral": "Se o relacionamento sai da empresa junto com o vendedor, a empresa nunca teve um time, tinha um talento alugado com crachá. Sistema de vendas registra cada conversa, cada objeção e cada motivo de compra, treinado todo dia pelo time inteiro, pra carteira pertencer à empresa e não a uma pessoa só",
-    "fala_com": "dono",
-    "nota_regua": 54,
-    "aberturas": [
-      "Empresário, saiu hoje na Exame: quando um vendedor sai, a carteira de cliente B2B sai com ele.",
-      "Se isso virou notícia, é porque está acontecendo com gente que achava que tinha um time de vendas.",
-      "A Exame publicou hoje uma frase que devia assustar todo dono de empresa B2B."
-    ],
-    "tela_primeiro_quadro": "HOJE NA EXAME: A CARTEIRA SAI COM O VENDEDOR",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "HOJE NA EXAME: A CARTEIRA SAI COM O VENDEDOR",
-        "topicos": [
-          "Empresário, saiu hoje na Exame: quando um vendedor sai, a carteira de cliente B2B sai com ele."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "O CLIENTE NUNCA COMPROU DA EMPRESA",
-        "topicos": [
-          "Pensa comigo: se isso é notícia, é porque está acontecendo com gente que achava que tinha um time.",
-          "Só que o cliente nunca comprou da empresa. Comprou da pessoa que atendeu, porque nenhum histórico daquela relação ficou registrado em lugar nenhum."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "TALENTO ALUGADO COM CRACHÁ DA EMPRESA",
-        "topicos": [
-          "E aí o vendedor pede as contas, leva o WhatsApp, leva a confiança, e o dono descobre, no pior momento possível, que não tinha time.",
-          "Tinha um talento alugado com crachá da empresa."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 35 s",
-        "tela": "CARTEIRA DA EMPRESA NÃO SAI PELA PORTA",
-        "topicos": [
-          "Então o problema nunca foi o vendedor que saiu. Foi a empresa nunca ter um sistema que registra cada conversa, cada objeção e cada motivo de compra, treinado todo dia pelo time inteiro.",
-          "Carteira que pertence à empresa não sai pela porta com um vendedor só. Carteira que pertence a uma pessoa só, sai."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "Exame — \"A saída de um vendedor pode colocar toda a carteira de clientes B2B em risco\"",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeERnNXFUU2JubXZFM2VKUXVybzZnSWtZXzY5Rm1nZWtGX09feTRLbDZzM0FfUTgwTFVwMFR0TklzTE01RGR1OUNSNm9kR2NLTlhvVUszbEpDRUM2clZsYWtVbGRpUHZHUFlwTVM2bm1FODJTaThpc3hUcE5iYURYZ2RQcmdKNTFrSFkybkVEVGJQMmRfT1l3cjduRW9KR3h3N1ZlblRrcUozV3ZvcS1JRnNkUEl2dTJ3WkF0LTBZVF95azFM?oc=5"
-    },
-    "cta": "seguir"
-  },
-  {
-    "id": "2026-11-12-3",
-    "data": "2026-11-12",
-    "vaga": "vida",
-    "pilar": "Vida e identidade",
-    "formato": "cine",
-    "tema": "Comecou a trabalhar aos 14 anos como empacotador de supermercado, numa familia de imigrantes sem estrutura, antes de qualquer faixa ou medalha no tatame",
-    "moral": "Vendedor se forma como atleta se forma: ninguém nasce pronto, se forma trabalhando e treinando desde cedo, com ou sem estrutura; é esse treino que ele aplica hoje pra formar vendedor dentro do time",
-    "fala_com": "dono",
-    "nota_regua": 46,
-    "aberturas": [
-      "Aos 14 anos, antes de qualquer faixa ou medalha, eu empacotava sacola de supermercado.",
-      "Antes de pisar num tatame de Mundial, a minha primeira rotina foi empacotar mercado aos 14 anos.",
-      "Ninguém me perguntou se eu tava pronto pra empacotar mercado aos 14. Eu só aprendi fazendo."
-    ],
-    "tela_primeiro_quadro": "AOS 14 ANOS, EU EMPACOTAVA MERCADO",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "AOS 14 ANOS, EU EMPACOTAVA MERCADO",
-        "topicos": [
-          "Aos 14 anos, antes de qualquer faixa ou medalha, eu empacotava sacola de supermercado."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "FAMÍLIA DE IMIGRANTES, SEM ESTRUTURA NENHUMA",
-        "topicos": [
-          "Minha família era de imigrantes, sem estrutura nenhuma pra me colocar pronto em time nenhum.",
-          "Pensa comigo: ninguém nasce sabendo empacotar rápido, nem sabendo lutar, nem sabendo vender. Eu aprendi empacotando, depois lutando, treinando todo santo dia até virar titular num Mundial."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "O MESMO ERRO, ANOS DEPOIS",
-        "topicos": [
-          "Só que, quando eu olho pro vendedor que chega na KONE achando que devia nascer pronto pra vender, eu vejo o mesmo erro que eu via em mim com 14 anos: querer o resultado sem aceitar o treino."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 35 s",
-        "tela": "VENDEDOR SE FORMA COMO ATLETA SE FORMA",
-        "topicos": [
-          "Então vendedor se forma do mesmo jeito que eu me formei: treinando todo dia, sem estrutura perfeita, sem atalho.",
-          "Time que bate meta com constância não nasceu pronto. Treinou, igual eu treinei, desde o empacotamento até o tatame."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "Trajetória (Regras de fato, moldes.md)",
-      "link": ""
-    },
-    "cta": ""
-  },
-  {
     "id": "2026-11-13-1",
     "data": "2026-11-13",
     "vaga": "tese",
@@ -1560,5 +1366,201 @@
       "link": ""
     },
     "cta": ""
+  },
+  {
+    "id": "2026-11-20-1",
+    "data": "2026-11-20",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "palestrinha",
+    "tema": "Dono não tira férias há dois anos porque toda vez que viaja a venda do mês despenca, e ele chama isso de dedicação",
+    "moral": "Sistema que não depende do dono deixa ele viajar e a meta bate igual. Se a venda só anda com ele na rédea, não existe time, existe um time de uma estrela só",
+    "fala_com": "dono",
+    "nota_regua": 50,
+    "aberturas": [
+      "Empresário, há quanto tempo você não tira férias porque sabe que a venda do mês despenca se você sair?",
+      "Se você desaparecer duas semanas, sua meta desaparece com você. E você chama isso de dedicação.",
+      "Pensa comigo: depois de anos de empresa, por que ninguém no seu time aprendeu a fechar uma venda sem você?"
+    ],
+    "tela_primeiro_quadro": "2 ANOS SEM FÉRIAS: A VENDA CAI QUANDO VOCÊ SAI",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "2 ANOS SEM FÉRIAS: A VENDA CAI QUANDO VOCÊ SAI",
+        "topicos": [
+          "Empresário, há quanto tempo você não tira férias porque sabe que a venda do mês despenca se você sair?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "ISSO NÃO É DEDICAÇÃO",
+        "topicos": [
+          "Você chama isso de dedicação. Só que não é.",
+          "É o time inteiro rodando em volta de uma pessoa só. Isso é ter um time de uma estrela só."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 27 s",
+        "tela": "O TIME NUNCA APRENDEU A FECHAR SOZINHO",
+        "topicos": [
+          "E aí a pergunta certa não é se você trabalha demais.",
+          "É por que, depois de anos de empresa, ninguém no seu time aprendeu a fechar sozinho."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "27 a 38 s",
+        "tela": "SISTEMA QUE NÃO DEPENDE DO DONO",
+        "topicos": [
+          "Então sistema que não depende do dono deixa você viajar e a meta bate igual.",
+          "Treino todo dia é isso: tirar a venda da sua mão e colocar dentro de um processo que o time inteiro consegue repetir."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "tese organica do framework (conflito 'depender de uma pessoa só', versão 'férias do dono', ainda não usada); sem vídeo de referência"
+    },
+    "fonte": {
+      "nome": "",
+      "link": ""
+    },
+    "cta": "comentar a palavra FÉRIAS se sua empresa trava quando você sai"
+  },
+  {
+    "id": "2026-11-20-2",
+    "data": "2026-11-20",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "lista visual",
+    "tema": "Dono culpa o mercado, o preço ou o perfil do vendedor quando o time não bate meta, nessa ordem, sempre",
+    "moral": "Nenhuma das três é a causa real. O time não bate meta porque ninguém treina ele todo dia pra fechar o que já chega até ele. Treino substitui as três desculpas de uma vez",
+    "fala_com": "dono",
+    "nota_regua": 58,
+    "aberturas": [
+      "Separei as 3 desculpas que mais ouço de dono que não bateu a meta esse mês, do 'o mercado tá ruim' até 'meu vendedor não tem perfil'.",
+      "Mercado ruim, preço alto, vendedor sem perfil. Nessa ordem, sempre. Só que nenhuma das três é o motivo real da meta que não bateu.",
+      "Empresário, qual dessas três você já disse esse mês: o mercado tá ruim, o preço tá caro ou o vendedor não tem perfil?"
+    ],
+    "tela_primeiro_quadro": "3 DESCULPAS QUE TODO DONO DÁ QUANDO NÃO BATE META",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "3 DESCULPAS QUE TODO DONO DÁ QUANDO NÃO BATE META",
+        "topicos": [
+          "Separei as 3 desculpas que mais ouço de dono que não bateu a meta esse mês, do 'o mercado tá ruim' até 'meu vendedor não tem perfil'."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 18 s",
+        "tela": "1. MERCADO RUIM / 2. PREÇO CARO / 3. VENDEDOR SEM PERFIL",
+        "topicos": [
+          "A primeira é o mercado tá ruim. Só que o concorrente, no mesmo mercado, bateu meta esse mês.",
+          "A segunda é o preço tá caro. Só que ninguém treinou o vendedor pra vender valor antes de falar preço.",
+          "A terceira é o vendedor não tem perfil. Só que ninguém testou se ele teve treino antes de testar se ele tem perfil."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "18 a 28 s",
+        "tela": "NENHUMA DESSAS É O MOTIVO REAL",
+        "topicos": [
+          "Então pensa comigo: se nenhuma dessas é o motivo real, o que é?",
+          "Na KONE a gente treina o time pra driblar essas três situações todo dia, não uma vez por ano."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "28 a 38 s",
+        "tela": "TREINO SUBSTITUI AS TRÊS DESCULPAS",
+        "topicos": [
+          "Então o time não bate meta porque ninguém treina ele todo dia pra fechar o que já chega até ele.",
+          "Treino substitui as três desculpas de uma vez. Sistema que treina todo dia não depende de mercado bom, preço baixo nem vendedor perfeito."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/DfdGNsypX0k/",
+      "perfil": "ecauduro",
+      "vezes": "52.0",
+      "molde": "esqueleto 'separei X que todo Y deveria Z, do A até B' do gancho 'Filme bom também ensina a vender. Separei 8 que todo vendedor e todo empresário deveria assistir, do primeiro contato até a gestão do time comercial'; troquei filmes por desculpas de dono, mantendo a lista contada e a virada final"
+    },
+    "fonte": {
+      "nome": "",
+      "link": ""
+    },
+    "cta": "comentar a palavra DESCULPA se você já usou uma dessas três esse mês"
+  },
+  {
+    "id": "2026-11-20-3",
+    "data": "2026-11-20",
+    "vaga": "vida",
+    "pilar": "Prova e caso",
+    "formato": "narrado",
+    "tema": "Dono acha que o problema de vendas é não ter lead suficiente, aumenta a verba de mídia, e o time não dá conta nem dos leads que já tinha",
+    "moral": "Mais lead sem time treinado pra atender é dinheiro parado, não crescimento. Mais de 500 mil leads gerados e mais de 100 empresas atendidas na Dominium não vieram só de mídia, vieram de time preparado pra não deixar lead esfriar",
+    "fala_com": "dono",
+    "nota_regua": 56,
+    "aberturas": [
+      "Empresário, você aumentou a verba de mídia esse ano. Mais gente comentou, mais lead entrou. E a meta subiu na mesma proporção?",
+      "Tem dono que acha que o problema de vendas é não ter lead suficiente. Aumenta a mídia, o lead dobra, e a meta do mês continua igual.",
+      "Pensa comigo: se o seu time não dá conta dos leads que já chegam hoje, gerar o dobro só vai dobrar o lead que fica parado."
+    ],
+    "tela_primeiro_quadro": "MAIS LEAD NÃO É MAIS VENDA",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "MAIS LEAD NÃO É MAIS VENDA",
+        "topicos": [
+          "Empresário, você aumentou a verba de mídia esse ano. Mais gente comentou, mais lead entrou. E a meta subiu na mesma proporção?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 16 s",
+        "tela": "O LEAD ENTRA. O TIME NÃO DÁ CONTA",
+        "topicos": [
+          "Tem dono que acha que o problema de vendas é não ter lead suficiente.",
+          "Aumenta a verba, o lead dobra, e a meta do mês continua a mesma, porque o time que já não dava conta do volume antigo agora tem o dobro de lead parado."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "16 a 27 s",
+        "tela": "O PROBLEMA NUNCA FOI O LEAD",
+        "topicos": [
+          "Só que o problema nunca foi gerar lead. Foi não treinar quem recebe esse lead.",
+          "Na Dominium a gente gerou mais de 500 mil leads e atendeu mais de 100 empresas, e o que sustentou isso não foi só a mídia, foi time preparado pra não deixar lead esfriar."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "27 a 38 s",
+        "tela": "TIME TREINADO SUSTENTA O LEAD, NÃO A MÍDIA",
+        "topicos": [
+          "Então mais lead sem time treinado pra atender é dinheiro parado, não crescimento.",
+          "Antes de aumentar a verba de novo, treina quem recebe o lead que você já paga caro pra ter."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "caso próprio (Dominium), sem molde de vídeo externo; vaga vida, pilar Prova e caso"
+    },
+    "fonte": {
+      "nome": "Regras de fato do moldes.md (Dominium, agregados publicáveis)",
+      "link": ""
+    },
+    "cta": "comentar a palavra PARADO se seu time deixa lead esfriar antes de atender"
   }
 ]
