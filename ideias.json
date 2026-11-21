@@ -1,396 +1,5 @@
 [
   {
-    "id": "2026-11-13-1",
-    "data": "2026-11-13",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "palestrinha",
-    "tema": "Vendedor novo recebe o playbook da empresa em PDF no primeiro dia e, depois da primeira semana, nunca mais abre esse arquivo",
-    "moral": "Playbook em PDF não forma vendedor nenhum. É o treino diário em cima do que o PDF escreve que fixa o conteúdo; sem esse treino, o PDF some numa pasta do Drive e o vendedor volta a vender do jeito que sabia antes",
-    "fala_com": "dono",
-    "nota_regua": 46,
-    "aberturas": [
-      "Empresário, você mandou o playbook em PDF pro vendedor novo no primeiro dia. Sabe quantas vezes ele abriu esse arquivo depois da primeira semana?",
-      "Pensa comigo: o playbook tá pronto, bonito, com capa e tudo. Só que ele mora numa pasta do Drive que ninguém mais abre.",
-      "PDF não treina vendedor. PDF só guarda o que deveria estar sendo treinado todo dia."
-    ],
-    "tela_primeiro_quadro": "O PLAYBOOK QUE NINGUÉM MAIS ABRE",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "O PLAYBOOK QUE NINGUÉM MAIS ABRE",
-        "topicos": [
-          "Empresário, você mandou o playbook em PDF pro vendedor novo no primeiro dia de trabalho."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 16 s",
-        "tela": "DEPOIS DA 1ª SEMANA, NINGUÉM MAIS ABRE",
-        "topicos": [
-          "Pensa comigo: ele leu na primeira semana, talvez até fez um resumo bonito. Só que depois disso o arquivo vai pra uma pasta do Drive e nunca mais é aberto.",
-          "E aí, meses depois, o vendedor tá vendendo do jeito que sabia antes de entrar, porque ler uma vez não é treino, é leitura."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "16 a 27 s",
-        "tela": "O QUE FIXA NÃO É O PDF, É A REPETIÇÃO",
-        "topicos": [
-          "Na KONE o playbook existe, mas ele não é o treino. Ele é o roteiro. O treino é pegar cada página dele e repetir a cena até o vendedor responder sem pensar.",
-          "Um script de objeção só vira hábito depois que o time treinou aquela mesma objeção várias vezes, em voz alta, com alguém corrigindo."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "27 a 35 s",
-        "tela": "PDF GUARDA O CONTEÚDO. TREINO FORMA O VENDEDOR.",
-        "topicos": [
-          "Então antes de mandar fazer outro playbook bonito, pergunta: quem vai treinar o time nele, toda semana, depois que ele for entregue?",
-          "Se a resposta for ninguém, o PDF não vai formar vendedor nenhum. Vai só ocupar espaço na nuvem."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "moldes.md — O que ele tem rodando (Playbook Comercial v2.2 e playbooks de SDR, Social Seller e Closer) e inimigo (playbook em PDF que anima na sexta e some na segunda)",
-      "link": ""
-    },
-    "cta": "comentar a palavra PDF"
-  },
-  {
-    "id": "2026-11-13-2",
-    "data": "2026-11-13",
-    "vaga": "quente",
-    "pilar": "Tese e bandeira",
-    "formato": "comparação",
-    "tema": "Uma pesquisa do setor automotivo nos EUA mostrou essa semana que leads de vendas mais caras precisam ser trabalhados por mais tempo antes de fechar, enquanto a maioria dos vendedores desiste rápido de um lead de ticket alto que não responde de imediato",
-    "moral": "Lead de ticket alto não fecha rápido porque é caro, fecha quando o vendedor treinou a cadência certa pra ele; desistir rápido não é falta de sorte, é falta de processo de follow-up pensado pra venda grande",
-    "fala_com": "time",
-    "nota_regua": 50,
-    "aberturas": [
-      "Saiu uma pesquisa essa semana no setor automotivo americano: lead de venda mais cara precisa ser trabalhado por mais tempo antes de fechar.",
-      "Pensa comigo: por que seu vendedor desiste rápido do lead de ticket alto, se é justamente esse lead que precisa de mais tempo?",
-      "Quanto maior o ticket, mais rápido seu vendedor costuma desistir do lead. Devia ser o contrário."
-    ],
-    "tela_primeiro_quadro": "LEAD CARO PRECISA DE MAIS TEMPO, NÃO DE MENOS",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "LEAD CARO PRECISA DE MAIS TEMPO, NÃO DE MENOS",
-        "topicos": [
-          "Saiu uma pesquisa essa semana no mercado automotivo americano: lead de venda mais cara precisa ser trabalhado por mais tempo antes de fechar."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 16 s",
-        "tela": "SEU VENDEDOR DESISTE RÁPIDO DEMAIS",
-        "topicos": [
-          "Só que, pensa comigo, é quase o contrário do que a maioria dos vendedores faz. No lead de ticket alto, ele manda uma mensagem, não tem resposta na hora, e já marca como perdido.",
-          "E marca rápido, porque esse lead dá mais trabalho e o vendedor quer liberar espaço na agenda pros leads fáceis."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "16 a 27 s",
-        "tela": "TICKET ALTO PEDE CADÊNCIA TREINADA, NÃO IMPROVISO",
-        "topicos": [
-          "Só que lead caro não fecha no improviso de quem tá com pressa. Fecha com cadência pensada: quantos toques, em quantos canais, com qual intervalo entre eles.",
-          "No meu time a gente treina isso como processo, não como feeling: cada etapa do follow-up de ticket alto tem um motivo pra existir."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "27 a 35 s",
-        "tela": "NÃO É SORTE DE QUEM INSISTE, É TREINO DE QUEM SABE A CADÊNCIA",
-        "topicos": [
-          "Então antes de marcar o próximo lead caro como perdido, pergunta: seu time treinou a cadência certa pra ele, ou só desistiu rápido porque dava trabalho?",
-          "Lead de ticket alto se fecha com processo treinado, não com quem aguenta insistir mais."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "Car Dealer Magazine — \"Research shows expensive car sales leads need to be worked for longer\" (via quentes.json, visto em 09/11/2026)",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd24wRUVrTW16SThRd0tDZHdTWWpIVGxZSDM2RFFWME5jcG1SOXJZbHU4VW5TaXdZMktxaFJ4ajFWU2NPaUJFTm9iTVB6bUF3MTZyX2ZSZXJOTUtfdDBWdE1LSUJlRHdCZHVCRjhJYzA0VkZhajk2UUFGb0NGMlhtdTNJTi0yU2NYN1VrMUVpYVlvZW5Fc3dxMlEwVmNyUjZvalAxcjdxS25BTXA4?oc=5"
-    },
-    "cta": ""
-  },
-  {
-    "id": "2026-11-13-3",
-    "data": "2026-11-13",
-    "vaga": "vida",
-    "pilar": "Bastidor da KONE",
-    "formato": "bastidores",
-    "tema": "Toda sexta, a KONE fecha o quadro da semana com o placar de cada vendedor: quem bateu meta, quem não bateu e quem precisa de treino extra na semana seguinte, exposto pra todo o time ver",
-    "moral": "Time que bate meta com constância tem o placar exposto, não escondido numa planilha que só o dono vê. O que não é medido em público não é treinado em público, só fica guardado como vergonha de quem não bateu",
-    "fala_com": "time",
-    "nota_regua": 48,
-    "aberturas": [
-      "Toda sexta a gente fecha o placar da semana na KONE. E ele fica exposto pra todo o time ver, não só pro dono.",
-      "Pensa comigo: por que o placar do seu time de vendas só o dono vê?",
-      "Sexta-feira, na KONE, todo mundo vê quem bateu meta. Não é só o dono que sabe."
-    ],
-    "tela_primeiro_quadro": "O PLACAR DA SEXTA. PRA TODO MUNDO VER.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "O PLACAR DA SEXTA. PRA TODO MUNDO VER.",
-        "topicos": [
-          "Toda sexta a gente fecha o placar da semana na KONE: quem bateu meta, quem não bateu e quem precisa de treino extra."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "NA MAIORIA DAS EMPRESAS, SÓ O DONO VÊ",
-        "topicos": [
-          "Pensa comigo: na maioria das empresas esse placar existe, só que mora numa planilha que só o dono abre.",
-          "E quem não bateu meta descobre isso numa conversa fechada, sozinho, como se fosse vergonha pra escondida."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "PLACAR ABERTO NÃO É PRA CONSTRANGER",
-        "topicos": [
-          "No meu time o placar fica aberto pra todo mundo, porque o que não é medido em público não é treinado em público.",
-          "Quem não bateu não leva bronca escondida. Leva treino marcado pra semana seguinte, na frente de quem também vai treinar."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 33 s",
-        "tela": "TIME QUE TREINA EM PÚBLICO, BATE META EM PÚBLICO",
-        "topicos": [
-          "Time que bate meta com constância tem o placar exposto, não escondido.",
-          "O que você esconde do time, você também deixa de treinar no time."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "moldes.md — As vagas do dia (bastidor da KONE: contratar, treinar, placar da semana)",
-      "link": ""
-    },
-    "cta": "seguir"
-  },
-  {
-    "id": "2026-11-14-1",
-    "data": "2026-11-14",
-    "vaga": "tese",
-    "pilar": "Tese e bandeira",
-    "formato": "palestrinha",
-    "tema": "Dono demite o vendedor que não bate meta e contrata outro parecido, esperando um resultado diferente",
-    "moral": "Contratar e treinar é processo, não sorte. Vendedor se forma como atleta se forma",
-    "fala_com": "dono",
-    "nota_regua": 53,
-    "aberturas": [
-      "Empresário, vendedor que não bate meta não é o problema da sua empresa.",
-      "Pensa comigo. Quantas vezes você já trocou de vendedor achando que ia resolver?",
-      "Toda vez que o vendedor sai, você contrata outro parecido e espera um resultado diferente."
-    ],
-    "tela_primeiro_quadro": "Troca o vendedor. O problema continua.",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Troca o vendedor. O problema continua.",
-        "topicos": [
-          "Empresário, vendedor que não bate meta não é o problema da sua empresa."
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 15 s",
-        "tela": "Mesma meta. Vendedor diferente. Resultado igual.",
-        "topicos": [
-          "Pensa comigo. Você demite o vendedor que não bateu meta.",
-          "Contrata outro parecido, com a mesma entrevista boa e o mesmo discurso animado no primeiro dia.",
-          "Três meses depois, o número da meta é o mesmo de antes."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "15 a 25 s",
-        "tela": "O problema nunca foi a pessoa.",
-        "topicos": [
-          "Só que o problema nunca foi a pessoa que você trocou.",
-          "Foi o treino que ela nunca recebeu, do primeiro dia até hoje."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "25 a 35 s",
-        "tela": "Contratar e treinar é processo, não sorte.",
-        "topicos": [
-          "Eu treinei 7 anos até pisar num tatame de Mundial. Ninguém nasce pronto, nem no tatame nem na mesa de vendas.",
-          "Então para de trocar de atleta. Comece a treinar o time que você já tem."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": "ideia original de tese, não modelada de outlier"
-    },
-    "fonte": {
-      "nome": "Regras de fato do moldes.md, trajetória esportiva (Mundial de Budapeste, 2018)",
-      "link": ""
-    },
-    "cta": "comentar TREINO"
-  },
-  {
-    "id": "2026-11-14-2",
-    "data": "2026-11-14",
-    "vaga": "quente",
-    "pilar": "Tese e bandeira",
-    "formato": "conflito situacional",
-    "tema": "Cliente B2B diz que vai validar com o financeiro antes de fechar, no meio da negociação",
-    "moral": "Objeção não é não. É o vendedor despreparado que trata objeção financeira como ponto final, em vez de continuar a conversa",
-    "fala_com": "time",
-    "nota_regua": 47,
-    "aberturas": [
-      "Quando o cliente disser: “Vou validar com o financeiro e te retorno.”",
-      "Pensa comigo. Seu vendedor ouve isso e já desiste da venda.",
-      "Essa frase mata mais venda do que qualquer concorrente."
-    ],
-    "tela_primeiro_quadro": "Quando o cliente disser: “Vou validar com o financeiro e te retorno.”",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Quando o cliente disser: “Vou validar com o financeiro e te retorno.”",
-        "topicos": [
-          "Quando o cliente disser: “Vou validar com o financeiro e te retorno.”"
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 12 s",
-        "tela": "Vendedor sem treino escuta isso e desiste.",
-        "topicos": [
-          "Vendedor sem treino escuta essa frase e já risca o negócio da lista.",
-          "Ele acha que financeiro validando é o fim da conversa."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "12 a 22 s",
-        "tela": "Financeiro valida número, não decide.",
-        "topicos": [
-          "Só que financeiro não decide se compra. Financeiro valida se cabe no orçamento.",
-          "Quem decide continua sendo quem falou com você."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "22 a 30 s",
-        "tela": "Treina o time pra continuar depois do ‘vou validar’.",
-        "topicos": [
-          "Então treina seu time pra perguntar o que precisa ficar claro pro financeiro aprovar rápido.",
-          "Isso é treino diário, não motivação de segunda-feira."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "https://www.instagram.com/reel/De-GlMcjMgl/",
-      "perfil": "ohenriquecedor",
-      "vezes": "26.1",
-      "molde": "Quando o cliente diz que precisa falar com outra pessoa antes de fechar, meu vendedor responde assim: esqueleto mantido, troquei a esposa pelo financeiro"
-    },
-    "fonte": {
-      "nome": "",
-      "link": ""
-    },
-    "cta": ""
-  },
-  {
-    "id": "2026-11-14-3",
-    "data": "2026-11-14",
-    "vaga": "vida",
-    "pilar": "Prova e caso",
-    "formato": "comparação",
-    "tema": "Dono desconfia de contratar ajuda externa pra estruturar vendas porque já pagou consultoria que prometeu e não entregou",
-    "moral": "Processo bem feito se prova em resultado que se repete: mais de R$30 milhões gerados pros clientes da Dominium, com 95% de renovação, porque o sistema funciona, não é sorte",
-    "fala_com": "dono",
-    "nota_regua": 50,
-    "aberturas": [
-      "Empresário, você já pagou um consultor que prometeu o mundo e entregou uma planilha?",
-      "Pensa comigo. Quantas vezes você contratou ajuda pra vendas e nada mudou depois do terceiro mês?",
-      "Isso é o motivo de eu não vender promessa. Eu vendo processo que se repete."
-    ],
-    "tela_primeiro_quadro": "Consultoria que promete. Consultoria que entrega. Qual foi a sua?",
-    "roteiro": [
-      {
-        "bloco": "Gancho",
-        "tempo": "0 a 3 s",
-        "tela": "Consultoria que promete. Consultoria que entrega. Qual foi a sua?",
-        "topicos": [
-          "Empresário, você já pagou um consultor que prometeu o mundo e entregou uma planilha?"
-        ]
-      },
-      {
-        "bloco": "Conflito",
-        "tempo": "3 a 14 s",
-        "tela": "A maioria promete e desaparece depois do contrato assinado.",
-        "topicos": [
-          "A maioria vende diagnóstico bonito, PDF grosso, e desaparece depois que o contrato é assinado.",
-          "Três meses depois você está sozinho de novo, com o mesmo time e o mesmo problema."
-        ]
-      },
-      {
-        "bloco": "Virada",
-        "tempo": "14 a 24 s",
-        "tela": "95% dos clientes da Dominium renovam.",
-        "topicos": [
-          "Então eu meço o meu trabalho pelo que fica depois que eu saio da sala.",
-          "Mais de R$30 milhões gerados pros clientes, mais de 100 empresas atendidas, e 95% de renovação."
-        ]
-      },
-      {
-        "bloco": "Moral",
-        "tempo": "24 a 32 s",
-        "tela": "Processo que se repete não é sorte.",
-        "topicos": [
-          "Cliente não renova contrato por educação. Renova porque o número continua subindo sem mim do lado.",
-          "Isso é sistema. Sorte não se repete 100 vezes."
-        ]
-      }
-    ],
-    "referencia": {
-      "link": "",
-      "perfil": "",
-      "vezes": "",
-      "molde": ""
-    },
-    "fonte": {
-      "nome": "Regras de fato do moldes.md, Dominium (agregados publicáveis)",
-      "link": ""
-    },
-    "cta": ""
-  },
-  {
     "id": "2026-11-15-1",
     "data": "2026-11-15",
     "vaga": "tese",
@@ -1562,5 +1171,200 @@
       "link": ""
     },
     "cta": "comentar a palavra PARADO se seu time deixa lead esfriar antes de atender"
+  },
+  {
+    "id": "2026-11-21-1",
+    "data": "2026-11-21",
+    "vaga": "tese",
+    "pilar": "Tese e bandeira",
+    "formato": "conflito situacional",
+    "tema": "Vendedor liga pro cliente no fim do mês oferecendo desconto que o dono nunca aprovou, só pra fechar a meta",
+    "moral": "Fechar no desconto ensina o cliente a esperar o fim do mês pra comprar. Time que vende valor treina a objeção de preço todo dia, não decide isso na pressão do calendário",
+    "fala_com": "dono",
+    "nota_regua": 50,
+    "aberturas": [
+      "Empresário, no fim do mês o seu vendedor liga pro cliente oferecendo um desconto que você nunca aprovou. Isso bateu meta ou vendeu sua margem?",
+      "Pensa comigo: se seu time só fecha quando baixa o preço no fim do mês, o cliente não aprendeu a comprar de você. Aprendeu a esperar o dia 28.",
+      "Toda vez que o seu vendedor desconta pra bater meta, ele treina o cliente certo. Só que no sentido errado."
+    ],
+    "tela_primeiro_quadro": "SEU VENDEDOR VENDE OU DESCONTA?",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "SEU VENDEDOR VENDE OU DESCONTA?",
+        "topicos": [
+          "Empresário, no fim do mês o seu vendedor liga pro cliente oferecendo um desconto que você nunca aprovou. Isso bateu meta ou vendeu sua margem?"
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 16 s",
+        "tela": "DESCONTO NO DIA 28 VIROU ROTINA",
+        "topicos": [
+          "Todo fim de mês é a mesma cena. A meta não bateu, o vendedor entra em pânico e liga oferecendo um desconto que nunca passou por você.",
+          "O cliente fecha, todo mundo comemora. Só que ele aprendeu uma coisa: esperar o fim do mês pra negociar."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "16 a 27 s",
+        "tela": "O CLIENTE DECOROU O SEU CALENDÁRIO",
+        "topicos": [
+          "No mês seguinte ele já sabe a hora de ligar oferecendo menos. E o seu vendedor, pra bater a meta de novo, aceita.",
+          "Isso não é fechamento. É leilão que você perde todo mês."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "27 a 38 s",
+        "tela": "VALOR SE TREINA, DESCONTO SE DECIDE NO PÂNICO",
+        "topicos": [
+          "Vendedor que sabe defender preço treinou isso antes de precisar. Não decidiu na pressão do dia 28.",
+          "Time que bate meta vendendo valor treina objeção de preço TODO DIA. Não inventa desconto no susto."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": "ideia própria a partir do conflito dinheiro e preço do tese-conteudo.md, sem molde de vídeo externo"
+    },
+    "fonte": {
+      "nome": "Tese de conteúdo (conflito dinheiro e preço, tese-conteudo.md) e seção Voz do moldes.md",
+      "link": ""
+    },
+    "cta": "comentar a palavra DESCONTO se seu time já fechou o mês oferecendo um desconto que você não aprovou"
+  },
+  {
+    "id": "2026-11-21-2",
+    "data": "2026-11-21",
+    "vaga": "quente",
+    "pilar": "Tese e bandeira",
+    "formato": "narrado",
+    "tema": "Nike anuncia meta de vendas pra 2029 e o mercado não compra a ideia: as ações caem no dia do anúncio",
+    "moral": "Meta grande sem sistema que mostre como vai ser cumprida é número bonito de slide. Investidor não compra promessa e vendedor também não compra meta sem rotina de treino por trás",
+    "fala_com": "dono",
+    "nota_regua": 52,
+    "aberturas": [
+      "A Nike anunciou meta de vendas pra 2029 essa semana e o mercado não comprou. As ações caíram no mesmo dia.",
+      "Pensa comigo: a Nike disse quanto quer vender até 2029. Quem ouviu não reagiu com confiança. Reagiu vendendo a ação.",
+      "Empresário, igual investidor, o seu time também separa meta de verdade de meta de slide. E reage do jeito dele quando percebe a diferença."
+    ],
+    "tela_primeiro_quadro": "A META NÃO CONVENCEU NEM O MERCADO",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "A META NÃO CONVENCEU NEM O MERCADO",
+        "topicos": [
+          "A Nike anunciou meta de vendas pra 2029 essa semana e o mercado não comprou. As ações caíram no mesmo dia."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "META GRANDE, CONFIANÇA PEQUENA",
+        "topicos": [
+          "Não foi falta de ambição. O número até impressionou.",
+          "Só que quem acompanha a empresa sabe separar meta de intenção de meta que tem sistema por trás. E reagiu vendendo a ação."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 26 s",
+        "tela": "O SEU TIME FAZ A MESMA CONTA",
+        "topicos": [
+          "O seu vendedor faz a mesma leitura quando você anuncia a meta do trimestre numa reunião animada.",
+          "Se não tem rotina de treino, script testado e processo repetido todo dia por trás do número, ele não acredita. Só finge que acreditou."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "26 a 37 s",
+        "tela": "SISTEMA CONVENCE. META SOZINHA, NÃO",
+        "topicos": [
+          "Meta sem sistema que a sustente não convence investidor nem convence o seu próprio vendedor.",
+          "Antes de anunciar o número do ano que vem, mostra pro time o treino que vai sustentar ele toda semana."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "",
+      "perfil": "",
+      "vezes": "",
+      "molde": ""
+    },
+    "fonte": {
+      "nome": "Business Moment — \"Meta de vendas da Nike para 2029 não convence investidores e ações caem\" (via quentes.json, visto em 19/11/2026)",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbVhFbXRNZXRBbkVQNjlDZHcwT2h1YWNSNGVoVk93WTJSSzQ3enk3U1NDSlh5bXBnUG4ySDBKY0tWMWlGekgtOHRRSnJzTFR4VTJnTHZQN2dkUTI4NkNuejdUVG9vbk1Xd2YzOTl4Zm5ndkdEZ1JaSXBPbUZ6WG5ITmt3b3VMejAtdUo2a25LMXhXTDFuNm0ycFBEZjlLSlFFTXdLdnduZ3VnREho0gGsAUFVX3lxTE1tWEVtdE1ldEFuRVA2OUNkdzBPaHVhY1I0ZWhWT3dZMlJLNDd6eTdTU0NKWHltcGdQbjJIMEpjS1YxaUZ6SC04dFFKcnNMVHhVMmdMdlA3Z2RRMjg2Q256N1RUb29uTVd3ZjM5OXhmbmd2R0RnUlpJcE9tRnpYbkhOa3dvdUx6MC11SjZrbksxeFdMMW42bTJwUERmOUtKUUVNd0t2d25ndWdESGg?oc=5"
+    },
+    "cta": ""
+  },
+  {
+    "id": "2026-11-21-3",
+    "data": "2026-11-21",
+    "vaga": "vida",
+    "pilar": "Bastidor da KONE",
+    "formato": "bastidores",
+    "tema": "No meio de um treino real da KONE, peço pro vendedor ligar ao vivo pra um cliente difícil, sem roteiro pronto, só pra mostrar se o treino pegou",
+    "moral": "Quem decora script trava quando o cliente sai do script. Quem treina a ligação difícil toda semana, ao vivo, não trava",
+    "fala_com": "time",
+    "nota_regua": 53,
+    "aberturas": [
+      "Peguei o vendedor no meio do treino e falei: liga agora pro cliente mais difícil que você tem. Sem ensaiar.",
+      "Pensa comigo: todo time decora o script da objeção fácil. Poucos treinam a ligação que sai do roteiro, ao vivo, na frente de todo mundo.",
+      "O treino de verdade não é ensinar o que falar. É testar o que o vendedor faz quando o cliente não segue o roteiro."
+    ],
+    "tela_primeiro_quadro": "LIGAÇÃO AO VIVO, SEM ROTEIRO, NO MEIO DO TREINO",
+    "roteiro": [
+      {
+        "bloco": "Gancho",
+        "tempo": "0 a 3 s",
+        "tela": "LIGAÇÃO AO VIVO, SEM ROTEIRO, NO MEIO DO TREINO",
+        "topicos": [
+          "Peguei o vendedor no meio do treino e falei: liga agora pro cliente mais difícil que você tem. Sem ensaiar."
+        ]
+      },
+      {
+        "bloco": "Conflito",
+        "tempo": "3 a 15 s",
+        "tela": "O ROTEIRO ACABOU NOS PRIMEIROS 10 SEGUNDOS",
+        "topicos": [
+          "O cliente não respondeu do jeito que o script previa. Mudou de assunto, trouxe uma objeção nova.",
+          "Dava pra ver o vendedor procurando a frase certa, sem decoreba pra se apoiar."
+        ]
+      },
+      {
+        "bloco": "Virada",
+        "tempo": "15 a 26 s",
+        "tela": "QUEM TREINA TODA SEMANA NÃO TRAVA",
+        "topicos": [
+          "Só que ele não travou. Porque essa não é a primeira ligação difícil que ele faz na frente do time.",
+          "A gente repete isso toda semana, com cliente real, até virar automático."
+        ]
+      },
+      {
+        "bloco": "Moral",
+        "tempo": "26 a 37 s",
+        "tela": "SCRIPT DECORA. TREINO AO VIVO PREPARA",
+        "topicos": [
+          "Script decorado trava quando o cliente sai do combinado.",
+          "Vendedor que treina a ligação difícil, ao vivo, toda semana, não precisa de sorte na hora real."
+        ]
+      }
+    ],
+    "referencia": {
+      "link": "https://www.instagram.com/reel/DfXhG88jGDr/",
+      "perfil": "ohenriquecedor",
+      "vezes": "13.2",
+      "molde": "molde já mapeado pra esse perfil no moldes.md: treino ao vivo como espetáculo, um trecho de treinamento real com alguém do time; esqueleto 'recuperando cliente ao vivo no meio do treinamento', troquei a recuperação de uma proposta parada pela ligação sem roteiro testando se o treino pegou"
+    },
+    "fonte": {
+      "nome": "Inventário do moldes.md (KONE: sócio operador desde outubro de 2026, contrata e treina SDR, social seller e vendedor; treinamento de time presencial, gravado)",
+      "link": ""
+    },
+    "cta": "comentar a palavra ROTEIRO se seu time só sabe vender quando o cliente segue o script"
   }
 ]
